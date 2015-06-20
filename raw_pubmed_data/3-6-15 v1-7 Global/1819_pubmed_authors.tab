@@ -1,0 +1,107 @@
+Date: 03/05/2015	 Scientist Search 1.7
+Data Retrieval Mode: medline, reflects file type source of PubMed data in following analysis.
+Publication Type Selection: journal article, Affiliation Restriction: none, reflects search constraints of PubMed data in following analysis.
+Keyword Mode Selection: none
+
+Year: 1819	Pubs: 31	IDs: 31	CSV Author Pubs: 0	Medline Author Pubs: 28
+		PM Max: 1	PM Num: 1	CSV Max: 0	CSV Num: 0	Medline Max: 1	Medline Num: 1
+		CSV IDs: 0	Medline IDs: 31
+
+Publication PubMed Count:<31>
+CSV Publications with Authors:<0>
+Medline Publications with Authors:<28>
+Retracted Publications:<0>
+Retractions Made:<0>
+CSV Unique authors:<0>
+Medline Unique authors:<25>
+Medline Unique short authors:<25>
+Medline Unique short first authors:<25>
+CSV Duplicate authors:<0>
+Medline Duplicate authors:<3>
+Medline Duplicate short authors:<3>
+CSV Duplicate author publications:<0>
+Medline Duplicate author publications:<6>
+CSV Authors per publication:<0>
+CSV APP max:<0>
+CSV APP min:<0>
+CSV APP var:<0>
+Medline Authors per publication:<1>
+Medline APP max:<1>
+Medline APP min:<1>
+Medline APP var:<0>
+Unique Journal Titles:<1>
+Unique Short Journal Titles:<1>
+Medline Publications per unique author:	1.24
+Medline Duplicate publications per duplicate author:	2
+Medline Duplicate authors / Unique authors	0.12
+
+
+*****JOURNAL PUB FREQUENCIES*****
+31	medico-chirurgical transactions
+
+*****KEYWORDS LIST*****
+
+*****KEYWORDS FREQUENCIES*****
+<>
+
+*****CSV PUBMED AUTHOR FREQUENCIES*****
+
+*****CSV PUBMED PUB FREQUENCIES*****
+<>
+
+*****MEDLINE PUBMED AUTHOR FREQUENCIES*****
+2	wardrop, j
+2	blundell, j
+2	bostock, j
+1	earle, h
+1	davy, j
+1	windsor, j
+1	salter
+1	prout, w
+1	blane, g
+1	marcet, a
+1	hall, m
+1	robinson, j
+1	merriman, s
+1	barry, j t
+1	coates, h
+1	chevalier, t
+1	howship, j
+1	quadri
+1	bell, t
+1	vincent, j p
+1	henry, w
+1	norman, g
+1	dunn, j
+1	shaw, j
+1	keate, r
+
+*****MEDLINE PUBMED SHORT AUTHOR FREQUENCIES*****
+2	bostock j
+2	wardrop j
+2	blundell j
+1	chevalier t
+1	quadri
+1	henry w
+1	norman g
+1	dunn j
+1	coates h
+1	bell t
+1	davy j
+1	barry jt
+1	windsor j
+1	merriman s
+1	marcet a
+1	blane g
+1	vincent jp
+1	keate r
+1	salter
+1	earle h
+1	howship j
+1	hall m
+1	prout w
+1	robinson j
+1	shaw j
+
+*****MEDLINE PUBMED PUB FREQUENCIES*****
+<1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,>

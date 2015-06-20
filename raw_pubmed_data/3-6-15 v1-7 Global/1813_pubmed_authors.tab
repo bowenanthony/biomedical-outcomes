@@ -1,0 +1,93 @@
+Date: 03/05/2015	 Scientist Search 1.7
+Data Retrieval Mode: medline, reflects file type source of PubMed data in following analysis.
+Publication Type Selection: journal article, Affiliation Restriction: none, reflects search constraints of PubMed data in following analysis.
+Keyword Mode Selection: none
+
+Year: 1813	Pubs: 27	IDs: 27	CSV Author Pubs: 0	Medline Author Pubs: 23
+		PM Max: 1	PM Num: 1	CSV Max: 0	CSV Num: 0	Medline Max: 1	Medline Num: 1
+		CSV IDs: 0	Medline IDs: 27
+
+Publication PubMed Count:<27>
+CSV Publications with Authors:<0>
+Medline Publications with Authors:<23>
+Retracted Publications:<0>
+Retractions Made:<0>
+CSV Unique authors:<0>
+Medline Unique authors:<18>
+Medline Unique short authors:<18>
+Medline Unique short first authors:<18>
+CSV Duplicate authors:<0>
+Medline Duplicate authors:<5>
+Medline Duplicate short authors:<5>
+CSV Duplicate author publications:<0>
+Medline Duplicate author publications:<10>
+CSV Authors per publication:<0>
+CSV APP max:<0>
+CSV APP min:<0>
+CSV APP var:<0>
+Medline Authors per publication:<1>
+Medline APP max:<1>
+Medline APP min:<1>
+Medline APP var:<0>
+Unique Journal Titles:<1>
+Unique Short Journal Titles:<1>
+Medline Publications per unique author:	1.5
+Medline Duplicate publications per duplicate author:	2
+Medline Duplicate authors / Unique authors	0.277777777777778
+
+
+*****JOURNAL PUB FREQUENCIES*****
+27	medico-chirurgical transactions
+
+*****KEYWORDS LIST*****
+
+*****KEYWORDS FREQUENCIES*****
+<>
+
+*****CSV PUBMED AUTHOR FREQUENCIES*****
+
+*****CSV PUBMED PUB FREQUENCIES*****
+<>
+
+*****MEDLINE PUBMED AUTHOR FREQUENCIES*****
+2	bostock, j
+2	percival, e
+2	travers, b
+2	hutchison, a c
+2	wardrop, j
+1	cooper, a
+1	bell, c
+1	stewart
+1	brodie, b c
+1	chevalier, t
+1	yelloly, j
+1	barnes, s
+1	fryer
+1	mitchell, j
+1	martin, t
+1	chisholme, c
+1	fergusson, w
+1	hodgson
+
+*****MEDLINE PUBMED SHORT AUTHOR FREQUENCIES*****
+2	percival e
+2	wardrop j
+2	bostock j
+2	travers b
+2	hutchison ac
+1	stewart
+1	brodie bc
+1	chevalier t
+1	mitchell j
+1	chisholme c
+1	barnes s
+1	bell c
+1	cooper a
+1	fryer
+1	yelloly j
+1	martin t
+1	hodgson
+1	fergusson w
+
+*****MEDLINE PUBMED PUB FREQUENCIES*****
+<1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,>

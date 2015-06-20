@@ -1,0 +1,107 @@
+Date: 03/05/2015	 Scientist Search 1.7
+Data Retrieval Mode: medline, reflects file type source of PubMed data in following analysis.
+Publication Type Selection: journal article, Affiliation Restriction: none, reflects search constraints of PubMed data in following analysis.
+Keyword Mode Selection: none
+
+Year: 1815	Pubs: 29	IDs: 29	CSV Author Pubs: 0	Medline Author Pubs: 26
+		PM Max: 1	PM Num: 1	CSV Max: 0	CSV Num: 0	Medline Max: 1	Medline Num: 1
+		CSV IDs: 0	Medline IDs: 29
+
+Publication PubMed Count:<29>
+CSV Publications with Authors:<0>
+Medline Publications with Authors:<26>
+Retracted Publications:<0>
+Retractions Made:<0>
+CSV Unique authors:<0>
+Medline Unique authors:<25>
+Medline Unique short authors:<25>
+Medline Unique short first authors:<24>
+CSV Duplicate authors:<0>
+Medline Duplicate authors:<1>
+Medline Duplicate short authors:<1>
+CSV Duplicate author publications:<0>
+Medline Duplicate author publications:<3>
+CSV Authors per publication:<0>
+CSV APP max:<0>
+CSV APP min:<0>
+CSV APP var:<0>
+Medline Authors per publication:<1.03846153846154>
+Medline APP max:<2>
+Medline APP min:<1>
+Medline APP var:<0.03698224852071>
+Unique Journal Titles:<1>
+Unique Short Journal Titles:<1>
+Medline Publications per unique author:	1.16
+Medline Duplicate publications per duplicate author:	3
+Medline Duplicate authors / Unique authors	0.04
+
+
+*****JOURNAL PUB FREQUENCIES*****
+29	medico-chirurgical transactions
+
+*****KEYWORDS LIST*****
+
+*****KEYWORDS FREQUENCIES*****
+<>
+
+*****CSV PUBMED AUTHOR FREQUENCIES*****
+
+*****CSV PUBMED PUB FREQUENCIES*****
+<>
+
+*****MEDLINE PUBMED AUTHOR FREQUENCIES*****
+3	lawrence, w
+1	titley, j m
+1	graham, t
+1	gumprecht, t
+1	blane, g
+1	travers, b
+1	denmark, a
+1	chamberlaine, r
+1	thomas, h l
+1	roberts, j w
+1	marcet, a
+1	wheelwright, t
+1	macgrigor, j
+1	chevalier, t
+1	yelloly, j
+1	howship, j
+1	calvert, r
+1	brodie, b c
+1	earle, h
+1	southey, h h
+1	phillips, e
+1	barnes, s
+1	dalrymple, w
+1	marcet
+1	hyslop, j
+
+*****MEDLINE PUBMED SHORT AUTHOR FREQUENCIES*****
+3	lawrence w
+1	southey hh
+1	graham t
+1	thomas hl
+1	chevalier t
+1	titley jm
+1	brodie bc
+1	marcet
+1	roberts jw
+1	calvert r
+1	travers b
+1	barnes s
+1	hyslop j
+1	blane g
+1	yelloly j
+1	marcet a
+1	denmark a
+1	gumprecht t
+1	earle h
+1	wheelwright t
+1	howship j
+1	chamberlaine r
+1	dalrymple w
+1	phillips e
+1	macgrigor j
+
+*****MEDLINE PUBMED PUB FREQUENCIES*****
+<1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,1,1,>

@@ -1,0 +1,284 @@
+Date: 03/05/2015	 Scientist Search 1.7
+Data Retrieval Mode: medline, reflects file type source of PubMed data in following analysis.
+Publication Type Selection: journal article, Affiliation Restriction: none, reflects search constraints of PubMed data in following analysis.
+Keyword Mode Selection: none
+
+Year: 1845	Pubs: 280	IDs: 280	CSV Author Pubs: 0	Medline Author Pubs: 173
+		PM Max: 1	PM Num: 1	CSV Max: 0	CSV Num: 0	Medline Max: 1	Medline Num: 1
+		CSV IDs: 0	Medline IDs: 280
+
+Publication PubMed Count:<280>
+CSV Publications with Authors:<0>
+Medline Publications with Authors:<173>
+Retracted Publications:<0>
+Retractions Made:<0>
+CSV Unique authors:<0>
+Medline Unique authors:<113>
+Medline Unique short authors:<113>
+Medline Unique short first authors:<110>
+CSV Duplicate authors:<0>
+Medline Duplicate authors:<24>
+Medline Duplicate short authors:<24>
+CSV Duplicate author publications:<0>
+Medline Duplicate author publications:<93>
+CSV Authors per publication:<0>
+CSV APP max:<0>
+CSV APP min:<0>
+CSV APP var:<0>
+Medline Authors per publication:<1.05202312138728>
+Medline APP max:<2>
+Medline APP min:<1>
+Medline APP var:<0.0493167162284072>
+Unique Journal Titles:<2>
+Unique Short Journal Titles:<2>
+Medline Publications per unique author:	2.47787610619469
+Medline Duplicate publications per duplicate author:	3.875
+Medline Duplicate authors / Unique authors	0.212389380530973
+
+
+*****JOURNAL PUB FREQUENCIES*****
+257	provincial medical & surgical journal
+23	medico-chirurgical transactions
+
+*****KEYWORDS LIST*****
+
+*****KEYWORDS FREQUENCIES*****
+<>
+
+*****CSV PUBMED AUTHOR FREQUENCIES*****
+
+*****CSV PUBMED PUB FREQUENCIES*****
+<>
+
+*****MEDLINE PUBMED AUTHOR FREQUENCIES*****
+11	blackmore, e
+10	durrant, c m
+8	hancock, h
+7	becquerel, a
+7	rodier, a
+6	chambers, r
+3	radford, t
+3	colborne, w h
+3	wood, j e
+3	cooper, w w
+3	gibb, c j
+3	shearman, e j
+3	collyns, w
+3	nunneley, t
+2	walford, j l
+2	harrinson, i
+2	barclay, j
+2	favell, c f
+2	walker, j
+2	toogood, j
+2	bull, h g
+2	inglis, j
+2	bainbrigge, w h
+2	fergusson, w
+1	gall, a c
+1	peacock, t b
+1	rainey, g
+1	dickin, j
+1	powell, r h
+1	jackson, w
+1	parker, j c
+1	druitt, w
+1	paget, j
+1	featherstonhaugh, h
+1	cardew, j
+1	dorrington, t
+1	may, g p
+1	carter, c t
+1	soulby, g
+1	chater, g
+1	allison, w
+1	cowan, c
+1	bradshaw
+1	wilson, e
+1	weekes, g
+1	barker, t a
+1	dunsford, a
+1	aikenhead, j
+1	estlin, j b
+1	hutchinson, j
+1	king, g
+1	walker, h e
+1	greatrex, e
+1	hardy, g w
+1	west, c
+1	kennion, g
+1	greenhow, t m
+1	trousseau, m
+1	cotton, c
+1	brownbill, t f
+1	dixon, j
+1	hewett, p
+1	tunstall, j
+1	smith, j h
+1	fife, g
+1	conolly, w
+1	george, r f
+1	welsh, f
+1	rowley, e b
+1	terry, h
+1	crisp, e
+1	lee, r
+1	teale, t p
+1	long, j
+1	hawkins, f
+1	walsh, j h
+1	hindle, r
+1	vines, c
+1	franklin, i a
+1	boyd, r
+1	evans, s
+1	taylor, j
+1	williams, p h
+1	baly, w
+1	wilkinson, w c
+1	nesbitt, f
+1	starr, t h
+1	barker, t h
+1	curling, t b
+1	le gros clark, f
+1	robinson, w t
+1	southam, g
+1	burridge, r
+1	jolley, w r
+1	bree, c r
+1	davy, j
+1	webster, j
+1	stanley, e
+1	storrs, r
+1	bloxam, j c
+1	salter, t
+1	dehane, e f
+1	trevor, w
+1	dyer, s s
+1	davies, f
+1	hawkins, c
+1	cox, f
+1	waddy, j m
+1	reedal, g
+1	jones, w w
+1	robinson, f
+1	teevan, w
+1	gillard, w
+
+*****MEDLINE PUBMED SHORT AUTHOR FREQUENCIES*****
+11	blackmore e
+10	durrant cm
+8	hancock h
+7	becquerel a
+7	rodier a
+6	chambers r
+3	nunneley t
+3	colborne wh
+3	collyns w
+3	radford t
+3	shearman ej
+3	gibb cj
+3	cooper ww
+3	wood je
+2	walford jl
+2	bull hg
+2	barclay j
+2	fergusson w
+2	toogood j
+2	favell cf
+2	inglis j
+2	harrinson i
+2	bainbrigge wh
+2	walker j
+1	cardew j
+1	brownbill tf
+1	tunstall j
+1	walsh jh
+1	wilkinson wc
+1	starr th
+1	peacock tb
+1	evans s
+1	barker ta
+1	davy j
+1	jones ww
+1	williams ph
+1	jackson w
+1	trevor w
+1	storrs r
+1	long j
+1	burridge r
+1	cowan c
+1	hawkins f
+1	crisp e
+1	featherstonhaugh h
+1	boyd r
+1	taylor j
+1	hawkins c
+1	cotton c
+1	teale tp
+1	southam g
+1	king g
+1	hutchinson j
+1	vines c
+1	walker he
+1	trousseau m
+1	dunsford a
+1	lee r
+1	bloxam jc
+1	george rf
+1	conolly w
+1	wilson e
+1	greatrex e
+1	may gp
+1	druitt w
+1	davies f
+1	estlin jb
+1	gall ac
+1	powell rh
+1	barker th
+1	dickin j
+1	dorrington t
+1	reedal g
+1	terry h
+1	hindle r
+1	soulby g
+1	aikenhead j
+1	curling tb
+1	paget j
+1	baly w
+1	le gros clark f
+1	dixon j
+1	nesbitt f
+1	welsh f
+1	parker jc
+1	greenhow tm
+1	robinson wt
+1	webster j
+1	west c
+1	weekes g
+1	bradshaw
+1	kennion g
+1	fife g
+1	carter ct
+1	hardy gw
+1	allison w
+1	jolley wr
+1	chater g
+1	salter t
+1	waddy jm
+1	smith jh
+1	franklin ia
+1	dyer ss
+1	cox f
+1	stanley e
+1	rainey g
+1	teevan w
+1	bree cr
+1	gillard w
+1	rowley eb
+1	robinson f
+1	hewett p
+1	dehane ef
+
+*****MEDLINE PUBMED PUB FREQUENCIES*****
+<1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,2,1,1,1,2,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,1,1,1,1,2,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,>

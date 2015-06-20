@@ -1,0 +1,236 @@
+Date: 03/05/2015	 Scientist Search 1.7
+Data Retrieval Mode: medline, reflects file type source of PubMed data in following analysis.
+Publication Type Selection: journal article, Affiliation Restriction: none, reflects search constraints of PubMed data in following analysis.
+Keyword Mode Selection: none
+
+Year: 1846	Pubs: 279	IDs: 279	CSV Author Pubs: 0	Medline Author Pubs: 149
+		PM Max: 1	PM Num: 1	CSV Max: 0	CSV Num: 0	Medline Max: 1	Medline Num: 1
+		CSV IDs: 0	Medline IDs: 279
+
+Publication PubMed Count:<279>
+CSV Publications with Authors:<0>
+Medline Publications with Authors:<149>
+Retracted Publications:<0>
+Retractions Made:<0>
+CSV Unique authors:<0>
+Medline Unique authors:<89>
+Medline Unique short authors:<89>
+Medline Unique short first authors:<89>
+CSV Duplicate authors:<0>
+Medline Duplicate authors:<29>
+Medline Duplicate short authors:<29>
+CSV Duplicate author publications:<0>
+Medline Duplicate author publications:<89>
+CSV Authors per publication:<0>
+CSV APP max:<0>
+CSV APP min:<0>
+CSV APP var:<0>
+Medline Authors per publication:<1>
+Medline APP max:<1>
+Medline APP min:<1>
+Medline APP var:<0>
+Unique Journal Titles:<2>
+Unique Short Journal Titles:<2>
+Medline Publications per unique author:	3.13483146067416
+Medline Duplicate publications per duplicate author:	3.06896551724138
+Medline Duplicate authors / Unique authors	0.325842696629214
+
+
+*****JOURNAL PUB FREQUENCIES*****
+259	provincial medical & surgical journal
+20	medico-chirurgical transactions
+
+*****KEYWORDS LIST*****
+
+*****KEYWORDS FREQUENCIES*****
+<>
+
+*****CSV PUBMED AUTHOR FREQUENCIES*****
+
+*****CSV PUBMED PUB FREQUENCIES*****
+<>
+
+*****MEDLINE PUBMED AUTHOR FREQUENCIES*****
+8	fife, g
+6	gibb, c j
+5	durrant, c m
+5	wood, j e
+5	basham, w r
+5	mialhe
+5	chambers, r
+4	favell, c f
+3	bulley, f a
+3	toogood, j
+3	shearman, e j
+3	gorringe, w j
+2	crowfoot, w h
+2	wilson, h
+2	bancks, t
+2	belcombe, h s
+2	bainbrigge, w h
+2	page, w b
+2	gillard, w
+2	busk, g
+2	oke, w s
+2	black, j
+2	dorrington, t
+2	ranking, w h
+2	middleton, t
+2	cotton, c
+2	swayne, j g
+2	copeman, e
+2	barclay, j
+1	taylor, a
+1	gibb, f a
+1	ewen, h
+1	bryan, j m
+1	acton, w
+1	jackson, j b
+1	boddington, w e
+1	vincent, j p
+1	norris, w
+1	bartrum, j s
+1	curling, t b
+1	crosse, j g
+1	hunt, t
+1	davy, j
+1	bree, c r
+1	higginbottom, j
+1	roberts, o
+1	liston, r
+1	england, w
+1	hubbard
+1	nunneley, t
+1	thomson, r d
+1	dyer, s s
+1	carson, j
+1	hawkins, c
+1	toynbee, j
+1	davie, j c
+1	giraud, f f
+1	rainey, g
+1	liebig, b
+1	warren, j c
+1	may, g p
+1	lowdell, g
+1	everett, d
+1	johnson, g
+1	paget, j
+1	parker, j c
+1	allison, w
+1	johnson, h
+1	mack, t
+1	humphry, g m
+1	arnott, j m
+1	morgan, w f
+1	daniell, e
+1	worthington, w c
+1	ward, w
+1	greenhow, t m
+1	brightwell, t
+1	hutchinson, j
+1	prankerd, j
+1	hewett, p
+1	dixon, j
+1	badeley, j c
+1	cumming, w
+1	mayo, c
+1	spitta, r j
+1	eager, r
+1	smith, f p
+1	chaldecott, w
+1	earle, c
+
+*****MEDLINE PUBMED SHORT AUTHOR FREQUENCIES*****
+8	fife g
+6	gibb cj
+5	mialhe
+5	chambers r
+5	basham wr
+5	wood je
+5	durrant cm
+4	favell cf
+3	toogood j
+3	shearman ej
+3	bulley fa
+3	gorringe wj
+2	cotton c
+2	barclay j
+2	oke ws
+2	middleton t
+2	crowfoot wh
+2	belcombe hs
+2	copeman e
+2	swayne jg
+2	busk g
+2	page wb
+2	bancks t
+2	ranking wh
+2	gillard w
+2	bainbrigge wh
+2	dorrington t
+2	black j
+2	wilson h
+1	hawkins c
+1	brightwell t
+1	hubbard
+1	ward w
+1	hutchinson j
+1	daniell e
+1	bartrum js
+1	may gp
+1	boddington we
+1	humphry gm
+1	liston r
+1	taylor a
+1	nunneley t
+1	ewen h
+1	johnson g
+1	everett d
+1	carson j
+1	davy j
+1	arnott jm
+1	bryan jm
+1	chaldecott w
+1	eager r
+1	gibb fa
+1	smith fp
+1	spitta rj
+1	prankerd j
+1	morgan wf
+1	worthington wc
+1	lowdell g
+1	allison w
+1	higginbottom j
+1	warren jc
+1	badeley jc
+1	roberts o
+1	dyer ss
+1	cumming w
+1	bree cr
+1	rainey g
+1	hewett p
+1	acton w
+1	liebig b
+1	vincent jp
+1	norris w
+1	curling tb
+1	johnson h
+1	mack t
+1	hunt t
+1	paget j
+1	toynbee j
+1	crosse jg
+1	england w
+1	davie jc
+1	dixon j
+1	mayo c
+1	giraud ff
+1	earle c
+1	thomson rd
+1	greenhow tm
+1	parker jc
+1	jackson jb
+
+*****MEDLINE PUBMED PUB FREQUENCIES*****
+<1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,>

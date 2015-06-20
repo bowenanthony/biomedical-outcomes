@@ -1,0 +1,103 @@
+Date: 03/05/2015	 Scientist Search 1.7
+Data Retrieval Mode: medline, reflects file type source of PubMed data in following analysis.
+Publication Type Selection: journal article, Affiliation Restriction: none, reflects search constraints of PubMed data in following analysis.
+Keyword Mode Selection: none
+
+Year: 1838	Pubs: 25	IDs: 25	CSV Author Pubs: 0	Medline Author Pubs: 24
+		PM Max: 1	PM Num: 1	CSV Max: 0	CSV Num: 0	Medline Max: 1	Medline Num: 1
+		CSV IDs: 0	Medline IDs: 25
+
+Publication PubMed Count:<25>
+CSV Publications with Authors:<0>
+Medline Publications with Authors:<24>
+Retracted Publications:<0>
+Retractions Made:<0>
+CSV Unique authors:<0>
+Medline Unique authors:<23>
+Medline Unique short authors:<23>
+Medline Unique short first authors:<22>
+CSV Duplicate authors:<0>
+Medline Duplicate authors:<2>
+Medline Duplicate short authors:<2>
+CSV Duplicate author publications:<0>
+Medline Duplicate author publications:<4>
+CSV Authors per publication:<0>
+CSV APP max:<0>
+CSV APP min:<0>
+CSV APP var:<0>
+Medline Authors per publication:<1.04166666666667>
+Medline APP max:<2>
+Medline APP min:<1>
+Medline APP var:<0.0399305555555556>
+Unique Journal Titles:<1>
+Unique Short Journal Titles:<1>
+Medline Publications per unique author:	1.08695652173913
+Medline Duplicate publications per duplicate author:	2
+Medline Duplicate authors / Unique authors	0.0869565217391304
+
+
+*****JOURNAL PUB FREQUENCIES*****
+25	medico-chirurgical transactions
+
+*****KEYWORDS LIST*****
+
+*****KEYWORDS FREQUENCIES*****
+<>
+
+*****CSV PUBMED AUTHOR FREQUENCIES*****
+
+*****CSV PUBMED PUB FREQUENCIES*****
+<>
+
+*****MEDLINE PUBMED AUTHOR FREQUENCIES*****
+2	wilson, j
+2	budd, g
+1	tyrrell, f
+1	bostock, j
+1	perry, j g
+1	moore, j
+1	beaumont, w
+1	thomson, w
+1	busk, g
+1	malcolmson, j g
+1	ancell, h
+1	hunt, h
+1	gulliver, g
+1	cox, w t
+1	hadwen, s
+1	lee, r
+1	clendinning, j
+1	hawkins, c
+1	thurnam, j
+1	dickson, d j
+1	rees, g o
+1	hutchison, a c
+1	travers, b
+
+*****MEDLINE PUBMED SHORT AUTHOR FREQUENCIES*****
+2	budd g
+2	wilson j
+1	tyrrell f
+1	moore j
+1	thomson w
+1	beaumont w
+1	lee r
+1	hutchison ac
+1	gulliver g
+1	cox wt
+1	thurnam j
+1	hadwen s
+1	clendinning j
+1	hawkins c
+1	dickson dj
+1	rees go
+1	malcolmson jg
+1	travers b
+1	busk g
+1	hunt h
+1	ancell h
+1	perry jg
+1	bostock j
+
+*****MEDLINE PUBMED PUB FREQUENCIES*****
+<1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,>

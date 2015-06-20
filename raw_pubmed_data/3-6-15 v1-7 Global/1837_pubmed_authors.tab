@@ -1,0 +1,89 @@
+Date: 03/05/2015	 Scientist Search 1.7
+Data Retrieval Mode: medline, reflects file type source of PubMed data in following analysis.
+Publication Type Selection: journal article, Affiliation Restriction: none, reflects search constraints of PubMed data in following analysis.
+Keyword Mode Selection: none
+
+Year: 1837	Pubs: 18	IDs: 18	CSV Author Pubs: 0	Medline Author Pubs: 16
+		PM Max: 1	PM Num: 1	CSV Max: 0	CSV Num: 0	Medline Max: 1	Medline Num: 1
+		CSV IDs: 0	Medline IDs: 18
+
+Publication PubMed Count:<18>
+CSV Publications with Authors:<0>
+Medline Publications with Authors:<16>
+Retracted Publications:<0>
+Retractions Made:<0>
+CSV Unique authors:<0>
+Medline Unique authors:<16>
+Medline Unique short authors:<16>
+Medline Unique short first authors:<15>
+CSV Duplicate authors:<0>
+Medline Duplicate authors:<1>
+Medline Duplicate short authors:<1>
+CSV Duplicate author publications:<0>
+Medline Duplicate author publications:<2>
+CSV Authors per publication:<0>
+CSV APP max:<0>
+CSV APP min:<0>
+CSV APP var:<0>
+Medline Authors per publication:<1.0625>
+Medline APP max:<2>
+Medline APP min:<1>
+Medline APP var:<0.05859375>
+Unique Journal Titles:<1>
+Unique Short Journal Titles:<1>
+Medline Publications per unique author:	1.125
+Medline Duplicate publications per duplicate author:	2
+Medline Duplicate authors / Unique authors	0.0625
+
+
+*****JOURNAL PUB FREQUENCIES*****
+18	medico-chirurgical transactions
+
+*****KEYWORDS LIST*****
+
+*****KEYWORDS FREQUENCIES*****
+<>
+
+*****CSV PUBMED AUTHOR FREQUENCIES*****
+
+*****CSV PUBMED PUB FREQUENCIES*****
+<>
+
+*****MEDLINE PUBMED AUTHOR FREQUENCIES*****
+2	kingston, p n
+1	yelloly, j
+1	birch
+1	sampson, g
+1	burne, j
+1	travers, b
+1	stafford, r a
+1	curling, t b
+1	phillips, b
+1	smith, c i
+1	brodie, b c
+1	howship, j
+1	forde, w
+1	thomson, w
+1	liston, r
+1	perry, j g
+
+*****MEDLINE PUBMED SHORT AUTHOR FREQUENCIES*****
+2	kingston pn
+1	howship j
+1	thomson w
+1	smith ci
+1	birch
+1	liston r
+1	stafford ra
+1	yelloly j
+1	forde w
+1	sampson g
+1	phillips b
+1	perry jg
+1	curling tb
+1	burne j
+1	brodie bc
+1	travers b
+
+*****MEDLINE PUBMED PUB FREQUENCIES*****
+<1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,>

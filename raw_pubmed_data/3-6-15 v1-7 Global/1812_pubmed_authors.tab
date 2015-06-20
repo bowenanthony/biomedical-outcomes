@@ -1,0 +1,89 @@
+Date: 03/05/2015	 Scientist Search 1.7
+Data Retrieval Mode: medline, reflects file type source of PubMed data in following analysis.
+Publication Type Selection: journal article, Affiliation Restriction: none, reflects search constraints of PubMed data in following analysis.
+Keyword Mode Selection: none
+
+Year: 1812	Pubs: 24	IDs: 24	CSV Author Pubs: 0	Medline Author Pubs: 21
+		PM Max: 1	PM Num: 1	CSV Max: 0	CSV Num: 0	Medline Max: 1	Medline Num: 1
+		CSV IDs: 0	Medline IDs: 24
+
+Publication PubMed Count:<24>
+CSV Publications with Authors:<0>
+Medline Publications with Authors:<21>
+Retracted Publications:<0>
+Retractions Made:<0>
+CSV Unique authors:<0>
+Medline Unique authors:<16>
+Medline Unique short authors:<16>
+Medline Unique short first authors:<16>
+CSV Duplicate authors:<0>
+Medline Duplicate authors:<4>
+Medline Duplicate short authors:<4>
+CSV Duplicate author publications:<0>
+Medline Duplicate author publications:<9>
+CSV Authors per publication:<0>
+CSV APP max:<0>
+CSV APP min:<0>
+CSV APP var:<0>
+Medline Authors per publication:<1>
+Medline APP max:<1>
+Medline APP min:<1>
+Medline APP var:<0>
+Unique Journal Titles:<1>
+Unique Short Journal Titles:<1>
+Medline Publications per unique author:	1.5
+Medline Duplicate publications per duplicate author:	2.25
+Medline Duplicate authors / Unique authors	0.25
+
+
+*****JOURNAL PUB FREQUENCIES*****
+24	medico-chirurgical transactions
+
+*****KEYWORDS LIST*****
+
+*****KEYWORDS FREQUENCIES*****
+<>
+
+*****CSV PUBMED AUTHOR FREQUENCIES*****
+
+*****CSV PUBMED PUB FREQUENCIES*****
+<>
+
+*****MEDLINE PUBMED AUTHOR FREQUENCIES*****
+3	chevalier, t
+2	merriman, s
+2	bostock, j
+2	farre, j r
+1	blane, g
+1	parkinson, j
+1	philip, a p
+1	langstaff, g
+1	marcet, a
+1	bell, c
+1	earle, h
+1	copeland, t
+1	yelloly, j
+1	bree, r
+1	berzelius, j
+1	curry, j
+
+*****MEDLINE PUBMED SHORT AUTHOR FREQUENCIES*****
+3	chevalier t
+2	bostock j
+2	farre jr
+2	merriman s
+1	bell c
+1	copeland t
+1	berzelius j
+1	parkinson j
+1	curry j
+1	langstaff g
+1	yelloly j
+1	blane g
+1	marcet a
+1	philip ap
+1	bree r
+1	earle h
+
+*****MEDLINE PUBMED PUB FREQUENCIES*****
+<1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,>

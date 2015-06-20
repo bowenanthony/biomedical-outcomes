@@ -1,0 +1,137 @@
+Date: 03/05/2015	 Scientist Search 1.7
+Data Retrieval Mode: medline, reflects file type source of PubMed data in following analysis.
+Publication Type Selection: journal article, Affiliation Restriction: none, reflects search constraints of PubMed data in following analysis.
+Keyword Mode Selection: none
+
+Year: 1823	Pubs: 51	IDs: 51	CSV Author Pubs: 0	Medline Author Pubs: 46
+		PM Max: 1	PM Num: 1	CSV Max: 0	CSV Num: 0	Medline Max: 1	Medline Num: 1
+		CSV IDs: 0	Medline IDs: 51
+
+Publication PubMed Count:<51>
+CSV Publications with Authors:<0>
+Medline Publications with Authors:<46>
+Retracted Publications:<0>
+Retractions Made:<0>
+CSV Unique authors:<0>
+Medline Unique authors:<40>
+Medline Unique short authors:<40>
+Medline Unique short first authors:<40>
+CSV Duplicate authors:<0>
+Medline Duplicate authors:<4>
+Medline Duplicate short authors:<4>
+CSV Duplicate author publications:<0>
+Medline Duplicate author publications:<10>
+CSV Authors per publication:<0>
+CSV APP max:<0>
+CSV APP min:<0>
+CSV APP var:<0>
+Medline Authors per publication:<1>
+Medline APP max:<1>
+Medline APP min:<1>
+Medline APP var:<0>
+Unique Journal Titles:<1>
+Unique Short Journal Titles:<1>
+Medline Publications per unique author:	1.275
+Medline Duplicate publications per duplicate author:	2.5
+Medline Duplicate authors / Unique authors	0.1
+
+
+*****JOURNAL PUB FREQUENCIES*****
+51	medico-chirurgical transactions
+
+*****KEYWORDS LIST*****
+
+*****KEYWORDS FREQUENCIES*****
+<>
+
+*****CSV PUBMED AUTHOR FREQUENCIES*****
+
+*****CSV PUBMED PUB FREQUENCIES*****
+<>
+
+*****MEDLINE PUBMED AUTHOR FREQUENCIES*****
+4	earle, h
+2	cooper, a
+2	shaw, j
+2	marcet, a
+1	dowler, t
+1	elliotson, j
+1	brayne, t
+1	bostock, j
+1	vincent, j p
+1	south, j f
+1	gregory, g
+1	broughton, s d
+1	hunt, w i
+1	stanly, e
+1	swan, j
+1	gilder, s
+1	philip, a p
+1	powell, j
+1	pout, g
+1	davis, d d
+1	langstaff, g
+1	dunn, j
+1	salmon, e
+1	yelloly, j
+1	mayo, c
+1	roots, h s
+1	gibbs, h l
+1	bell, c
+1	cormick, j
+1	kerrison, r m
+1	arnott, j m
+1	allan, j
+1	pope, j
+1	prout, w
+1	hammond
+1	jacob, a
+1	green, j h
+1	gooch, r
+1	wardrop, j
+1	hall, m
+
+*****MEDLINE PUBMED SHORT AUTHOR FREQUENCIES*****
+4	earle h
+2	cooper a
+2	marcet a
+2	shaw j
+1	vincent jp
+1	elliotson j
+1	gibbs hl
+1	pout g
+1	hunt wi
+1	allan j
+1	yelloly j
+1	jacob a
+1	kerrison rm
+1	bell c
+1	wardrop j
+1	bostock j
+1	south jf
+1	broughton sd
+1	dunn j
+1	hammond
+1	swan j
+1	pope j
+1	green jh
+1	cormick j
+1	gilder s
+1	brayne t
+1	dowler t
+1	salmon e
+1	arnott jm
+1	mayo c
+1	stanly e
+1	prout w
+1	philip ap
+1	roots hs
+1	hall m
+1	gregory g
+1	powell j
+1	langstaff g
+1	gooch r
+1	davis dd
+
+*****MEDLINE PUBMED PUB FREQUENCIES*****
+<1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,>

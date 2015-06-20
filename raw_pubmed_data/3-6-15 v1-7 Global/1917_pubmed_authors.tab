@@ -1,0 +1,4049 @@
+Date: 03/05/2015	 Scientist Search 1.7
+Data Retrieval Mode: medline, reflects file type source of PubMed data in following analysis.
+Publication Type Selection: journal article, Affiliation Restriction: none, reflects search constraints of PubMed data in following analysis.
+Keyword Mode Selection: none
+
+Year: 1917	Pubs: 2943	IDs: 2943	CSV Author Pubs: 0	Medline Author Pubs: 2307
+		PM Max: 1	PM Num: 1	CSV Max: 0	CSV Num: 0	Medline Max: 6	Medline Num: 6
+		CSV IDs: 0	Medline IDs: 2943
+
+Publication PubMed Count:<2943>
+CSV Publications with Authors:<0>
+Medline Publications with Authors:<2307>
+Retracted Publications:<0>
+Retractions Made:<0>
+CSV Unique authors:<0>
+Medline Unique authors:<1985>
+Medline Unique short authors:<1985>
+Medline Unique short first authors:<1675>
+CSV Duplicate authors:<0>
+Medline Duplicate authors:<436>
+Medline Duplicate short authors:<436>
+CSV Duplicate author publications:<0>
+Medline Duplicate author publications:<1210>
+CSV Authors per publication:<0>
+CSV APP max:<0>
+CSV APP min:<0>
+CSV APP var:<0>
+Medline Authors per publication:<1.19592544429996>
+Medline APP max:<15>
+Medline APP min:<1>
+Medline APP var:<0.408947420535972>
+Unique Journal Titles:<23>
+Unique Short Journal Titles:<23>
+Medline Publications per unique author:	1.48261964735516
+Medline Duplicate publications per duplicate author:	2.77522935779817
+Medline Duplicate authors / Unique authors	0.219647355163728
+
+
+*****JOURNAL PUB FREQUENCIES*****
+452	british medical journal
+443	proceedings of the royal society of medicine
+393	science (new york, ny)
+286	california state journal of medicine
+197	american journal of public health (new york, ny : 1912)
+186	annals of surgery
+169	proceedings of the national academy of sciences of the united states of america
+152	canadian medical association journal
+119	the journal of experimental medicine
+90	the british journal of ophthalmology
+72	the journal of medical research
+68	journal of the national medical association
+53	public health reports
+44	journal of bacteriology
+30	the journal of physiology
+30	the biochemical journal
+27	transactions of the american ophthalmological society
+25	the eugenics review
+25	journal of anatomy
+23	bulletin of the medical library association
+23	genetics
+21	the journal of hygiene
+15	transactions of the american climatological and clinical association american
+
+*****KEYWORDS LIST*****
+
+*****KEYWORDS FREQUENCIES*****
+<>
+
+*****CSV PUBMED AUTHOR FREQUENCIES*****
+
+*****CSV PUBMED PUB FREQUENCIES*****
+<>
+
+*****MEDLINE PUBMED AUTHOR FREQUENCIES*****
+28	weber, f p
+13	walker, i c
+13	moore, i
+13	pernet, g
+10	barus, c
+8	wilson, e b
+8	mollison, w m
+8	thomson, s
+8	little, e g
+7	harris, j a
+7	loeb, j
+7	amoss, h l
+7	sequeira, j h
+7	bunch, j l
+7	shaw, h b
+6	dore, s e
+6	mott, f w
+6	dakin, h d
+6	lockyer, c
+6	kidd, f s
+6	taylor, f e
+5	eisendrath, d n
+5	adkinson, j
+5	homer, a
+5	cockayne, e a
+5	noguchi, h
+5	pritchard, e
+5	shapley, h
+5	cameron, h c
+5	sibley, w k
+5	opie, e l
+5	evans, w a
+5	loeb, l
+4	krumwiede, c
+4	faber, h k
+4	gray, h m
+4	mckenzie, d
+4	mcclendon, j f
+4	ozaki, y
+4	martin, c j
+4	lawson, a
+4	whale, h l
+4	noyes, w a
+4	pilcher, l s
+4	hull, a j
+4	rous, p
+4	castellani, a
+4	seares, f h
+4	drummond, j c
+4	davis, w m
+4	whipple, g h
+4	akatsu, s
+4	bull, c g
+4	keith, a
+4	dunham, e k
+4	henry, h
+4	scott, s
+4	davis, e d
+4	buchanan, r e
+4	buzzard, e f
+4	mayer, a g
+4	elliot, r h
+4	fraser, j s
+4	loughlin, d
+4	flexner, s
+4	paton, l
+4	mckinstry, w h
+4	buist, h m
+4	hovell, t m
+3	macnider, w d
+3	osborn, h f
+3	brown, a
+3	kohn, l a
+3	ito, h
+3	hadley, p b
+3	mellon, r r
+3	burge, w e
+3	perkins, p b
+3	lindsay, l m
+3	parkinson, j p
+3	krotoszyner, m
+3	cumberbatch, e p
+3	blakeslee, a f
+3	macdougal, d t
+3	clarke, j m
+3	shattock, s g
+3	pearl, r
+3	lakin, c e
+3	horowitz, m p
+3	pembrey, m s
+3	batten, f e
+3	dudgeon, l s
+3	pope, s
+3	nicoll, w
+3	rankin, w
+3	cole, r
+3	jordan, h e
+3	langley, j n
+3	marshall, g
+3	robertson, o h
+3	cautley, e
+3	lubs, h a
+3	davenport, c b
+3	parker, g h
+3	kligler, i j
+3	tilley, h
+3	sherman, h m
+3	spoehr, h a
+3	turner, w a
+3	blake, f g
+3	morley, e w
+3	fleming, n b
+3	mayo-robson, a w
+3	bond, c j
+3	richards, t w
+3	stowers, j h
+3	thompson, w h
+3	macleod, j m
+3	hill, r
+3	dawson, g w
+3	klotz, o
+3	adami, j g
+3	sharpe, j s
+3	okuda, k
+3	woodward, r s
+3	conn, h j
+3	clark, w m
+3	rolleston, j d
+3	kennelly, a e
+3	mackenzie, w c
+3	winslow, c e
+3	scott, j r
+3	carrel, a
+3	brooks, c f
+3	chaplin, a
+3	starr, f n
+3	mees, c e
+3	adamson, h g
+3	keyes, c
+3	traquair, h m
+3	kolmer, j a
+3	spencer, h r
+3	robertson, t b
+3	pearce, r m
+3	davis, b m
+3	france, j j
+3	conklin, e g
+3	pappenheimer, a m
+3	rose, f a
+3	berry, e w
+3	browne, w w
+3	harkins, w d
+3	cattell, j m
+3	keen, w w
+2	singer, c
+2	osterhout, w j
+2	eloesser, l
+2	webster, d l
+2	coulter, j m
+2	jones, f s
+2	hesselberg, c
+2	nagayo, m
+2	roth, p b
+2	geiger, j c
+2	bruce, d
+2	morris, m
+2	feldman, i
+2	bankart, a s
+2	buckmaster, g a
+2	humphreys, w j
+2	lindhard, j
+2	redfield, a c
+2	gundrum, f f
+2	nutting, p g
+2	thalhimer, w
+2	williams, f e
+2	gulbransen, r
+2	lederer, a
+2	hann, r g
+2	albaugh, r p
+2	mcphedran, a
+2	geisinger, j f
+2	sturtevant, a h
+2	mooers, c a
+2	lyon, m w jr
+2	robertson, m
+2	mccullough, j w
+2	goodpasture, e w
+2	roy, d
+2	millikan, r a
+2	moore, b
+2	saville, t
+2	smith, e f
+2	hooker, m o
+2	brown, p k
+2	morgan, t h
+2	baldwin, a
+2	dunn, p
+2	campbell, w w
+2	porter, a e
+2	free, e e
+2	smith, s a
+2	langmuir, i
+2	von eberts, e m
+2	erickson, r j
+2	offord, j
+2	matthew, w d
+2	krogh, a
+2	smith, h m
+2	wolf, c g
+2	roman, c v
+2	turner, g g
+2	miller, g a
+2	blanchard, a h
+2	hedrich, a w
+2	hartley, j n
+2	darwin, l
+2	guthrie, d
+2	crosland, g w
+2	cooke, j v
+2	armstrong, d b
+2	mayo, c h
+2	bolton, c
+2	doane, r w
+2	cole, f n
+2	hort, e c
+2	fleisher, m s
+2	ido, y
+2	mitamura, t
+2	mcnee, j w
+2	tod, h
+2	barkan, h
+2	warner, d e
+2	davies, d l
+2	fraser, j
+2	hill, h w
+2	stieglitz, j
+2	green, h m
+2	vaughan, g t
+2	weiss, h
+2	friel, a r
+2	russell, b
+2	fisher, j h
+2	wheeler, w m
+2	wiggers, c j
+2	munday, r c
+2	guthrie, l
+2	greenwood, m
+2	fox, r f
+2	armstrong, m
+2	campbell, d h
+2	pritchett, i w
+2	northrop, j h
+2	daily, u g
+2	cropper, j w
+2	turrell, w j
+2	levine, m
+2	harden, a
+2	bridges, c b
+2	williamson, r t
+2	fowler, w f
+2	harrison, l w
+2	koser, s a
+2	bartlett, w
+2	sedgwick, w t
+2	stewart, g n
+2	belben, f
+2	campiche, p s
+2	drummond, h
+2	murphy, r c
+2	kuno, y
+2	eastman, c r
+2	mcdonagh, j e
+2	neuhof, h
+2	kirkpatrick, w f
+2	imamura, a
+2	strong, r m
+2	wright, j h
+2	shaw, w f
+2	sweet, j e
+2	fewkes, j w
+2	whiteford, c h
+2	bardsley, p c
+2	harkness, r r
+2	barnes, j a
+2	halliburton, w d
+2	mcadie, a
+2	ruediger, g f
+2	miyagawa, y
+2	tenbroeck, c
+2	perrine, c d
+2	white, c f
+2	baumberger, j p
+2	robertson, l b
+2	ransom, f
+2	haas, a r
+2	newcomer, h s
+2	iddings, j p
+2	jones, d f
+2	janeway, t c
+2	allard, h a
+2	maccormac, h
+2	ormond, a w
+2	hastings, s
+2	auer, j
+2	wishart, d j
+2	wingrave, w
+2	goodspeed, a w
+2	hitzrot, j m
+2	kunz, g f
+2	taylor, e
+2	wells, h g
+2	rudolf, r d
+2	boyd, m f
+2	turner, j g
+2	hopkins, c g
+2	rosenow, e c
+2	auld, a g
+2	wilson, j g
+2	rowlett, a e
+2	sherrington, c s
+2	gudger, e w
+2	soiland, a
+2	row, r w
+2	smith, l
+2	popenoe, p
+2	kaneko, r
+2	john, c e
+2	bartlett, c j
+2	johnson, t b
+2	mackeith, j
+2	goodrich, h p
+2	duckworth, w l
+2	birkhoff, g d
+2	rolleston, h d
+2	minot, g r
+2	kojima, m
+2	fischer, m h
+2	lusk, g
+2	mann, f c
+2	hrdlicka, a
+2	harvey, s c
+2	rand, c w
+2	warren, h c
+2	thomson, e
+2	erlanger, j
+2	patterson, n
+2	reynolds, e s
+2	thomas, t t
+2	langmead, f
+2	fred, e b
+2	russell, h n
+2	archibald, r a
+2	wallace, c
+2	whipham, t r
+2	hammett, f s
+2	hurst, a f
+2	clarke, e
+2	major, r h
+2	sarton, g
+2	eisenhart, l p
+2	davis, b f
+2	smith, t
+2	berry, m
+2	rogoff, j m
+2	howe, l
+2	macdowell, e c
+2	scripture, e w
+2	gowan, g m
+2	smith, g e
+2	stewart, m j
+2	ley, g
+2	moschcowitz, a v
+2	cowell, e m
+2	bacon, r f
+2	mummery, j p
+2	grant, j d
+2	gravatt, g f
+2	barnard, h e
+2	parker, j t
+2	simonds, j p
+2	du nouy, p l
+2	niles, w l
+2	catton, j h
+2	slack, f h
+2	clarke, f w
+2	lipman, c b
+2	sattler, r
+2	elliott, t r
+2	davidson, a m
+2	mcnair, a j
+2	jepps, m w
+2	wilensky, a o
+2	page, c m
+2	nelson, j a
+2	lillie, f r
+2	davis, j s
+2	woo, a w
+2	pottenger, f m
+2	roberts, c h
+2	kennedy, a m
+2	jordan, d s
+2	cobb, n a
+2	oldfield, c
+2	jewell, w h
+2	north, c e
+2	little, c c
+2	brooks, b
+2	shipway, f e
+2	malcolm, j d
+2	critchett, a
+2	thornton, l h
+2	horton, t
+2	goto, k
+2	smith, e o
+2	browning, c h
+2	dunn, j s
+2	butler, t h
+2	shaw, e w
+2	mcpherson, w
+2	breed, r s
+2	shiels, j w
+2	herringham, w p
+2	parsons, j h
+2	smith, p
+2	gates, f l
+2	leslie, r m
+2	moynihan, b
+2	maddox, e e
+2	anderson, j
+2	hull, t g
+2	bayliss, w m
+2	petersen, w f
+2	dimond, l
+2	rogers, l
+2	wani, h
+1	brander, h s
+1	mcnally, w d
+1	schultz, o t
+1	gibson, c l
+1	cumming, j g
+1	sayles, r w
+1	underhill, f p
+1	matthews, a c
+1	kon, y
+1	talbot, a n
+1	parker, h r
+1	ellis, h
+1	harris, f
+1	johnston, c h
+1	lee, r i
+1	bendell, j l
+1	conn, h w
+1	macfie, j w
+1	ward, h l
+1	baldwin, f a
+1	hoffman, f l
+1	noble, r e
+1	bering, r e
+1	horsford, c
+1	hashimoto, m
+1	kelsall, h t
+1	clarke, g
+1	worster-drought, c c
+1	knapp, a
+1	rowlands, r p
+1	gilhespy, f b
+1	hedrick, e r
+1	humbert, e p
+1	keilty, r a
+1	vilvandre, g
+1	broadhurst, j
+1	tolman, r c
+1	clark, h
+1	brown, w e
+1	kinkaid, t w
+1	dillingham, f s
+1	wallace, w h
+1	whinery, s
+1	march, n
+1	haythorn, s r
+1	gill, h a
+1	lockhart-mummery, j p
+1	macmurchy, h
+1	ellis, f w
+1	gordon, w
+1	cope, v z
+1	edridge-green, f w
+1	perkins, r g
+1	young, g b
+1	roberts, c g
+1	ishiwara, k
+1	barnett, s j
+1	collins, w
+1	baker, w c
+1	gibson, f l
+1	jones, e
+1	riddoch, g
+1	taniguchi, t
+1	smith, g h
+1	esser, j f
+1	phillips, f c
+1	mccardie, w j
+1	carver, a e
+1	benjamin, m
+1	taber, s
+1	hume, w e
+1	rosebery, s
+1	fitzgerald, j g
+1	trevan, j w
+1	salmond, r w
+1	thomson, d
+1	lebedev, p a
+1	orr, h d
+1	emmel, v e
+1	willis, a m
+1	wright, a e
+1	meakins, j c
+1	de schweinitz, g e
+1	whitfield, a
+1	colton, h s
+1	hughes, b
+1	wright, h p
+1	carmichael, r d
+1	harman, n b
+1	kinsella, r a
+1	ford, j
+1	van cleave, h j
+1	skillern, p g
+1	waller, e
+1	hadley, s e
+1	manson, m
+1	kirkbride, m b
+1	andrewes, f w
+1	wilson, w
+1	needham, j g
+1	atkinson, g f
+1	simpson, f f
+1	stewart, j q
+1	holden, h s
+1	sackett, w g
+1	hayford, j f
+1	harper, r m
+1	biggs, h
+1	rahman, m a
+1	riddle, o
+1	jones, a r
+1	neymann, c a
+1	stopford, j s
+1	lipshutz, b
+1	crook, a
+1	robins, g d
+1	evans, a c
+1	terry, c e
+1	sharpe, h s
+1	wells, s r
+1	dublin, l i
+1	soubbotitch, v
+1	sisson, w r
+1	jamieson, r a
+1	wilbur, r l
+1	harford, c f
+1	gronnerud, p
+1	gomberg, m
+1	hurtley, w h
+1	paterson, a m
+1	landau
+1	laurent, p
+1	goodall, j s
+1	russell, j i
+1	guilfoy, w h
+1	brinsmade, j b
+1	bridgman, p w
+1	gordon, c e
+1	bland-sutton, j
+1	sinclair, t
+1	saundby, r
+1	dubin, h
+1	humphris, h
+1	jennison, j e
+1	carter, l j
+1	hepworth, w g
+1	mclean, w s
+1	hance, r t
+1	clegg, j g
+1	duffield, w l
+1	grantham, a e
+1	dowd, c n
+1	manson, p
+1	don, a
+1	graham, c
+1	gotto, s
+1	souttar, h s
+1	judell, m i
+1	miller, g v
+1	taubenhaus, j j
+1	wilson, g
+1	cannon, w a
+1	turrell
+1	parker, k m
+1	gardner, j h
+1	rhodes, g b
+1	nyquist, h
+1	crow, l b
+1	tyndall, w e
+1	juell, n r
+1	clark, j g
+1	macbride, e w
+1	stannus, h s
+1	byrd, d w
+1	lack, h l
+1	coblentz, w w
+1	moore, r f
+1	baumann, l
+1	kay, r
+1	curtis, m m
+1	mohilevith, c
+1	chavasse, f b
+1	huntington, e
+1	ransohoff, j
+1	robb, a g
+1	winchester, j f
+1	hinman, f
+1	bardswell, n d
+1	meyers, a w
+1	norton, g h
+1	kirkpatrick, h
+1	sunderland, s
+1	tuttle, t d
+1	wright, g f
+1	moir, a
+1	gwathmey, j t
+1	valadier, a c
+1	d, g v
+1	lincoln, w a
+1	mcclure, j c
+1	corbett, c h
+1	kudo, r
+1	bolton, j s
+1	webb, r c
+1	carson, n b
+1	thompson, j e
+1	franklin, e c
+1	hartmann, a
+1	roberts, e e
+1	small, w d
+1	young, g
+1	fowler, o s
+1	adams, j
+1	fulmer, h l
+1	hawthorne, c o
+1	young, a
+1	bronson, e
+1	stewart, g
+1	walker, c b
+1	house, h d
+1	anderson, h h
+1	blackwell, h b
+1	dun, r c
+1	turner, h a
+1	goldbloom, a
+1	allison, n
+1	swan, r h
+1	mcnally, h h
+1	street, j p
+1	schoepfle, c s
+1	cooper, p r
+1	price, w a
+1	reighard, j
+1	ligat, d
+1	distaso, a
+1	sellards, a w
+1	ewart, r j
+1	hunter, c
+1	caulk, j r
+1	mann, r w
+1	torrey, j c
+1	stephenson, s
+1	buckley, c w
+1	moorhead, j j
+1	case, j t
+1	sniktaw
+1	dobell, c
+1	barrows, a l
+1	bell, f d
+1	little, h p
+1	donaldson, h h
+1	stearns, t
+1	ferguson, j b
+1	smith, h r
+1	weston, p g
+1	eastman, j r
+1	burcky, f w
+1	mackay, g
+1	landis, e h
+1	doubleday, f n
+1	spier, l
+1	thomas, j l
+1	harrison, g a
+1	fawcett, e
+1	cahill, g f
+1	braasch, w f
+1	klopsteg, p e
+1	alway, f j
+1	rosa, e b
+1	wilson, s a
+1	edgecombe
+1	mclean, f c
+1	lane, f f
+1	nickerson, j f
+1	ballantyne, c c
+1	grant, d
+1	lockwood, c d
+1	benzinger, m
+1	jennings, h s
+1	lewis, p a
+1	bunker, j w
+1	cushny, a r
+1	willcox, w f
+1	levings, a h
+1	clark, g a
+1	rankin, w s
+1	collier, j s
+1	manges, m
+1	barnett, g d
+1	smith, a
+1	brues, t
+1	porter, m f
+1	taylor, h d
+1	schram, d l
+1	jackson, w r
+1	kamm, r m
+1	porritt, n
+1	black
+1	binnie, j f
+1	pollitt, g p
+1	plough, h h
+1	mccreery, a h
+1	hall, n f
+1	williams, r s
+1	fox, r t
+1	armstrong, g e
+1	harvey, e n
+1	stuart-low, w
+1	patterson, s w
+1	taylor, g
+1	clark, a h
+1	laufer, b
+1	springer, a
+1	macphail, s r
+1	glaser, e f
+1	legge, r t
+1	handley, w s
+1	shuter
+1	roy, j n
+1	lewis, f c
+1	de voe, r g
+1	smith, h o
+1	schryver, s b
+1	benham, f r
+1	stewart, t d
+1	o'donovan, w j
+1	cridland, b
+1	davies, m
+1	raistrick, h
+1	peckham, w c
+1	kerr, w w
+1	turnbull, h m
+1	fischer, c a
+1	mead, c a
+1	stillman, e g
+1	cecil, a b
+1	rucker, w c
+1	meyers, c
+1	hale, g e
+1	davidson, n
+1	jefferson, j a
+1	eisenberg, a a
+1	itagaki, m
+1	longley, w h
+1	aymard, j l
+1	o'neill, c s
+1	crandall, e p
+1	taylor, w p
+1	brockett, p
+1	hewitt, h w
+1	taylor, f
+1	rector, f l
+1	wallis, g f
+1	howard, l o
+1	schuchert, c
+1	emerson, r a
+1	jones, b l
+1	matson, r c
+1	cary, l r
+1	malloch, a
+1	swift, h f
+1	ami, h m
+1	gross, l
+1	kuhlefelt, e
+1	freese, a m
+1	plaisance, g p
+1	eddowes, a
+1	short, a r
+1	forbes, a
+1	power, h d
+1	roberts, h
+1	hunkin, s j
+1	morse, w f
+1	gordon, g s
+1	kidder, a v
+1	howell, j t
+1	finlayson, g a
+1	haldane, j s
+1	round, l a
+1	lees, j h
+1	cohn, a e
+1	tacquin, a
+1	brickner, w m
+1	wilson, j a
+1	lumb, n p
+1	osborn, w h
+1	shipley, w c
+1	kilbane, e f
+1	marshall, c j
+1	freeman, j w
+1	slator, a
+1	schlesinger, f
+1	cotton, j h
+1	frost, w d
+1	murray, f
+1	smeeton, m a
+1	coulter, c b
+1	wadsworth, a b
+1	howe, p r
+1	rathbun, n p
+1	berkeley, c
+1	bousfield, p
+1	findlay, j j
+1	walker, w h
+1	hernaman-johnson, f
+1	archibald, e w
+1	meier, f c
+1	parsons, t r
+1	lloyd, d j
+1	clark, d a
+1	ryan, a h
+1	muncie, j h
+1	abbot, b g
+1	vincent, b
+1	foster, a c
+1	brown, w h
+1	ogata, a
+1	foster, m
+1	rowe, a h
+1	crosthwaite, p c
+1	martyn, a f
+1	wolbach, s b
+1	wolbarst, a m
+1	osumi, s
+1	avery, o t
+1	grey, e c
+1	birkett
+1	purdue, a h
+1	falk, k g
+1	mcwilliams, c a
+1	sherman, w o
+1	chance, b
+1	mellanby, j
+1	o'malley, j f
+1	wodsedalek, j e
+1	tarr, e m
+1	baker, a c
+1	kleinberg, s
+1	shaw, j k
+1	meyer, k f
+1	bryant, a t
+1	howard, h
+1	wilson, a h
+1	hall, e h
+1	ellis, j h
+1	foote, j a
+1	allemann, a
+1	kasanjian, v h
+1	atkinson, n j
+1	williston, s w
+1	rowe, r m
+1	hynd, a
+1	arkle, j s
+1	weiskotten, h g
+1	smillie, w g
+1	pinnell, w r
+1	hanson, p
+1	flint, j m
+1	tyson, e f
+1	veiller, l
+1	morris, r t
+1	crosthwait, d n
+1	champneys, f
+1	rettger, l f
+1	gladstone, r j
+1	barbat, j h
+1	zeleny, c
+1	wallace, a g
+1	vinal, g w
+1	greenwood, w o
+1	hall, f
+1	culver, g d
+1	white, f n
+1	peters, e a
+1	yerington, h h
+1	krumbhaar, e b
+1	carline, w a
+1	drennan, j g
+1	findlay, l
+1	gamble, j a
+1	england, f r
+1	griffith, w s
+1	grey, e g
+1	cummings, l d
+1	dragstedt, l r
+1	hooker, r s
+1	seaver, f j
+1	fink, c g
+1	neve, e f
+1	clark, g h
+1	maylard, a e
+1	winslow, m f
+1	paterson, w b
+1	benedict, r c
+1	vivian, m
+1	loomis, n e
+1	roberts, j e
+1	watson-williams, p
+1	pickering, e c
+1	jonas, a f
+1	scarisbrick, c w
+1	knowlton, w t
+1	jenkins, h d
+1	solomons, b
+1	barrie, g
+1	raper, h s
+1	pogue, j e
+1	guthrie, d v
+1	mccartney, e
+1	miller, n
+1	thomas, b a
+1	johnson, b r
+1	dittoe, w h
+1	plotz, h
+1	bogert, m t
+1	lewis, g n
+1	rist, s m
+1	norris, g w
+1	bayne-jones, s
+1	mccubbin, w a
+1	nelson, j m
+1	park, e a
+1	bigelow, w a
+1	smith, r p
+1	maynard, f p
+1	costello, c a
+1	drinkwater, h
+1	geist, s h
+1	low, g c
+1	steenbock, h
+1	steele, r
+1	van beuren, f t
+1	black, h
+1	conner, a b
+1	hardy, g h
+1	dickson, e d
+1	kennaway, e l
+1	beye, h l
+1	savill, a
+1	manley, o t
+1	lutz, f e
+1	magath, t b
+1	jones, l w
+1	shaw, d m
+1	stebbing, g f
+1	healy, j j
+1	bowman, f b
+1	sekiguchi, s
+1	russell, j s
+1	dawson, b
+1	downes, w a
+1	mills, c h
+1	quiserne
+1	elmslie, r c
+1	martyn, k
+1	briggs, h
+1	lyon, e p
+1	krivsky, l a
+1	vries, h d
+1	valentine, j a
+1	van maanen, a
+1	oliver, h r
+1	branner, j c
+1	porter, p j
+1	hett, j e
+1	palmer, d w
+1	bailey, l h
+1	geoghegan, j
+1	lewis, j v
+1	stickel, j e
+1	atwood, w m
+1	goodson, f n
+1	billings, w c
+1	rast, l e
+1	torok, e
+1	trotter, w
+1	moore, h f
+1	mundie, g s
+1	elsberg, c a
+1	shepherd, w m
+1	ruehle, g l
+1	bolley, h l
+1	hudson, a c
+1	annett, h e
+1	hunter, o w
+1	holmes, w h
+1	smith, j s
+1	martin, f
+1	compton, a t
+1	oliver, j c
+1	goodale, h d
+1	gehrmann, a
+1	symmers, w s
+1	peters, w h
+1	de beaujeu, a j
+1	murray, v
+1	holloway, t b
+1	press, w g
+1	barney, j d
+1	setchell, w a
+1	west, c e
+1	kesteven, l
+1	crispin, e l
+1	macconkey, a t
+1	chapple, w a
+1	sewall, e c
+1	raber, o l
+1	eberson, f
+1	hayes, h k
+1	daufresne, m
+1	eigenmann, c h
+1	freeborn, s b
+1	eccles, h a
+1	eason, h l
+1	bedson, s p
+1	mehrtens, h g
+1	curtis, h a
+1	klotz, m o
+1	irwin, r b
+1	melville, s
+1	n, c e
+1	fetherston, j t
+1	schneider, f
+1	ring, g o
+1	carter, w w
+1	myerson, a
+1	hingston, d
+1	townsend, d
+1	frost, e b
+1	moore, e s
+1	dumas, a w
+1	josephson, a g
+1	tyzzer, e e
+1	speese, j
+1	bacot, a
+1	fenneman, n m
+1	bradford, s c
+1	brill, i c
+1	daly, r a
+1	schurig, o r
+1	swartzlander, h c
+1	rettie, t
+1	brooks, r s
+1	hooker, h d jr
+1	kofoid, c a
+1	huntoon, f m
+1	ford, s p
+1	berg, w n
+1	patterson, a h
+1	fletcher, a a
+1	morgan, j f
+1	turner, p
+1	coffman, w d
+1	moore, s g
+1	goadby, k
+1	newman, h h
+1	williams, t a
+1	miner, j r
+1	nichols, e l
+1	power, d
+1	montgomery, a h
+1	donald, h c
+1	griffith, a h
+1	ogilvie, w h
+1	meighan, j s
+1	sappington, s w
+1	bradford, j r
+1	van hise, c r
+1	eager, w h
+1	percy, j f
+1	crampton, g s
+1	reardan, f b
+1	sinnott, e w
+1	harmer, w d
+1	berry, h m
+1	martin, l
+1	hance, i h
+1	wadia, m d
+1	morton, c a
+1	hunt, r h
+1	jones-phillipson, c e
+1	cornish, e c
+1	humphrey, g c
+1	bryce, p h
+1	bates, c
+1	steensland, h s
+1	bettman, r b
+1	van saun, a i
+1	leuschner, a o
+1	murphy, j b
+1	leyton, o
+1	oettinger, b
+1	fisher, j b
+1	talbot, m
+1	sawdon
+1	mcmullen, w h
+1	barber, w h
+1	bryce, t h
+1	shannon, c e
+1	gore-gillon, g
+1	mckenzie, r t
+1	howe, j l
+1	councilman, w t
+1	fraser, j r
+1	potts, w a
+1	olivier, c p
+1	scherck, h j
+1	bell, g h
+1	arlitt, a h
+1	crozier, w j
+1	ochsner, a j
+1	mcdole, g r
+1	kolischer, g
+1	mitchell, o w
+1	wood, d r
+1	pooley, g h
+1	makins, g h
+1	barclay, a e
+1	fasten, n
+1	blanton, w b
+1	morrison, j t
+1	langnecker, h l
+1	newsholme, a
+1	yule, g u
+1	college, f h
+1	petrie, g f
+1	cohen, t
+1	ohira, t
+1	allen, c e
+1	michelson, a a
+1	may, h g
+1	beattie, w a
+1	halsey, j t
+1	sparks, m e
+1	pease, f g
+1	meyer, e m
+1	jackson, e
+1	oliver, t
+1	lipschutz, a
+1	alexander, e g
+1	smillie, e w
+1	hamilton, h c
+1	davidson, w t
+1	alderson, h e
+1	worster-drought, c
+1	williams, j h
+1	cook, o f
+1	davis, h j
+1	nathan, p w
+1	braisted, w c
+1	gernert, w b
+1	nordenson, j w
+1	paton, s
+1	jordan, w f
+1	walther, h w
+1	dobson, r t
+1	koll, i s
+1	king, w v
+1	stephens, b m
+1	muller, h j
+1	metz, c w
+1	davison, a s
+1	cannon, w b
+1	aronberg, l
+1	collie, j
+1	feiss, r a
+1	emerson, h
+1	romer, f
+1	ackman, b
+1	hamaker, j i
+1	gray, a c
+1	vail, c e
+1	goldsmith
+1	stevens, o a
+1	warren, j h
+1	pirie, j h
+1	morgan, j d
+1	cruise, r r
+1	udden, j a
+1	birdsall, j c
+1	rytina, a g
+1	bowen, t r
+1	takaki, i
+1	bainbridge, f a
+1	ely, l w
+1	wright, w
+1	yerkes, r m
+1	gregory, t w
+1	rappleye, w c
+1	hrdliccaronka, a
+1	foote, e m
+1	nutter, j a
+1	paget, r
+1	forbes, s a
+1	little, e m
+1	phalen, j m
+1	robbins, r h
+1	karpinski, l c
+1	stebbins, j
+1	subscriber, a
+1	watkyn-thomas, f w
+1	place, f
+1	chandler, c f
+1	schiller, f c
+1	hungerford, c w
+1	denno, w j
+1	hobbs, w h
+1	bulkley, k
+1	chase, e s
+1	palmer, w w
+1	burrows, m t
+1	hauser, s j
+1	chalmers, a j
+1	bowlby, a
+1	gregory, h l
+1	rauh, s j
+1	russ, s
+1	howell, j
+1	mottram, j c
+1	smith, j l
+1	douglas, r i
+1	eaton, e m
+1	lamb, r s
+1	levin, i
+1	wells, f m
+1	hunt, j
+1	mccarthy, j f
+1	robinson, e p
+1	perry, j e
+1	rae, j
+1	turner, c e
+1	priestley, h
+1	freeman, a w
+1	kritchevsky, i l
+1	reber, w
+1	de bord, g g
+1	simpson, c e
+1	albert, h
+1	adler, i
+1	hiller, a d
+1	gardner, l u
+1	waterman, w g
+1	armsby, h p
+1	frothingham, l
+1	levy, a g
+1	coutts, e n
+1	harris, j e
+1	bleile, a m
+1	davison, w c
+1	hegner, c f
+1	cole, a d
+1	warthin, a s
+1	brown, e w
+1	maxwell, s s
+1	burket, w c
+1	mcmurray, t p
+1	moullin, c m
+1	mcculloch, c c
+1	segerblom, w
+1	rosenberg, l
+1	weeks, j e
+1	stewart, f c
+1	ebright, g e
+1	lockwood, a l
+1	stanley, l l
+1	evans, j j
+1	collins, g n
+1	brown, c p
+1	green, g m
+1	humphris, f h
+1	young, h h
+1	colyer, j f
+1	lien-teh, w
+1	park, j b
+1	roosevelt, t
+1	adrian, e d
+1	walker, c
+1	ohtawara, t
+1	henry, c k
+1	taylor, k
+1	moffitt, h c
+1	johnston, j
+1	walker, g w
+1	davis, d m
+1	cairns, w d
+1	vicari, e m
+1	kopeloff, n
+1	macklin, c c
+1	campbell, e d
+1	chase, c
+1	jones, j r
+1	ogata, t
+1	whetham, c d
+1	taylor, a s
+1	weinzirl, j
+1	mixter, c g
+1	hamer, w h
+1	gordon, w c
+1	nicholson, f
+1	cole, p p
+1	nicholson, s b
+1	shepherd, f j
+1	kress, g h
+1	hale, n g
+1	graham-smith, g s
+1	van buren, g h
+1	mayo, w j
+1	miller, m k
+1	ellefson, l j
+1	leiper, r t
+1	kerr, m
+1	heard, w n
+1	uhler, h s
+1	ewer, e n
+1	savage, w g
+1	franke, e
+1	harrison, r g
+1	miller, e c
+1	fletcher, h m
+1	miller, m r
+1	jeffrey, e c
+1	hurwitz, s h
+1	sears, h j
+1	tanner, f w
+1	randall, a
+1	ticknor, a a
+1	barger, g
+1	brown, w
+1	cheatle, g l
+1	pratt, j s
+1	balfour, d c
+1	ackerley, r
+1	horne, w j
+1	burdick, c l
+1	shields, m c
+1	rosenheim, o
+1	allworthy, s w
+1	thomas, l w
+1	milliken, s m
+1	shull, g h
+1	neal, j b
+1	hungerford, h b
+1	cyriax, e f
+1	cubberley, e p
+1	grant, m
+1	gould, a p
+1	zunz, e
+1	speed, k
+1	hoyt, h s
+1	harrington, t f
+1	clogg, h s
+1	dailey, u g
+1	holman, j h
+1	arrhenius, s
+1	evans, t j
+1	gibson, a j
+1	jacobs, j
+1	winslow, r
+1	jones, d b
+1	hedley, j p
+1	ballon, d h
+1	craig, c f
+1	mckittrick, o f
+1	morrey, c b
+1	cornell, b s
+1	hey, w h
+1	githens, t s
+1	remsen, i
+1	richards, j w
+1	dadourian, h m
+1	watson, a j
+1	rettger, l
+1	ash, r l
+1	o'neil, r f
+1	landis, j h
+1	pitt, g n
+1	crowder, t r
+1	o'donoghue, c h
+1	meyer, w
+1	johnson, w s
+1	alton, b h
+1	veblen, o
+1	hirst, l f
+1	sachs, e
+1	henderson, w e
+1	cahen, e
+1	noyes, a a
+1	hawkes, c e
+1	fredrick, m w
+1	hurty, j n
+1	stovall, w d
+1	greene, c w
+1	holmes, g
+1	meads, a m
+1	waterhouse, h f
+1	o'day, j c
+1	wright, h w
+1	hulen, v h
+1	russ, c
+1	matin, t p
+1	hicks, j r
+1	becker, g f
+1	moodie, r l
+1	pollock, r
+1	knopf, s a
+1	stone, h b
+1	bruggeman, h o
+1	roll, g w
+1	tompkins, e
+1	bradley, w w
+1	pepper, o h
+1	pope, s t
+1	fulcher, g s
+1	marris, h f
+1	nakagawa, k
+1	horner, w d
+1	summers, j e
+1	barling, h g
+1	mcclintock, j a
+1	thompson, w g
+1	rice, a
+1	chesley, a j
+1	greeley, s a
+1	esten, w m
+1	rogers, l a
+1	mccollum, e v
+1	jewett, h j
+1	telfer, s v
+1	stillman, s
+1	crowther, c
+1	stuckey, e j
+1	campbell, j
+1	holland, w j
+1	hoskins, l m
+1	keyes, f g
+1	goodwin, t h
+1	towne, e b
+1	mcclelland, j r
+1	dochez, a r
+1	allis, e p
+1	fowler, h a
+1	gorgas, w c
+1	downing, e r
+1	greenfield, d g
+1	fronczak, f e
+1	east, e m
+1	vecki, v g
+1	hall, i c
+1	mcneile, l g
+1	dem gage, s
+1	eikenberry, w l
+1	jones, f w
+1	kennedy, c m
+1	storrie, w
+1	pilcher, p m
+1	lilienthal, h
+1	whitaker, m c
+1	whitney, w r
+1	dalyell, e j
+1	butler, e
+1	richardson, g
+1	holding, a f
+1	crawfurd, r
+1	ivens, f
+1	christopherson, j b
+1	rich, j l
+1	martin, e k
+1	o'connor, r
+1	deramas, j a
+1	nipher, f e
+1	cole, h p
+1	squires, j w
+1	weinhagen, a
+1	hellier, j b
+1	joy, n h
+1	wilson, a
+1	zinsser, h
+1	cammidge, p j
+1	osgood, r b
+1	baynes, d
+1	futaki, k
+1	mclane, w j
+1	wills, a p
+1	lipka, j
+1	gates, f c
+1	morison, r
+1	macleod, a l
+1	mueller, j h
+1	glaser, r w
+1	molyneux, e s
+1	kimball, a l
+1	thomson, j a
+1	ackert, j e
+1	vermilye, h n
+1	hotchkiss, w o
+1	raymond, h
+1	withrow, j r
+1	herringham, w
+1	williams, e g
+1	patrick, c a
+1	phelps, e b
+1	harrower, d
+1	felt, e p
+1	fisher, a
+1	ginsburg, n
+1	selfridge, g
+1	van cleve, e m
+1	manheimer, w a
+1	mccrae, t
+1	richardson, r p
+1	copeland, g g
+1	mobley, m r
+1	marks, a a
+1	starbecker, m
+1	cutler, e c
+1	fisher, c p
+1	gradwohl, r b
+1	newham, h b
+1	gibbons, m r
+1	gager, c s
+1	mercur, w h
+1	ritchie, j
+1	loudon, j
+1	fischer, h
+1	stretton, j l
+1	anderson, r j
+1	hinman, j j
+1	russel, c k
+1	mather, k f
+1	hagner, f r
+1	smith, g a
+1	richet
+1	besemer, a m
+1	shull, a f
+1	pincoffs, m c
+1	kober, g m
+1	pfahler, g e
+1	bruce, j
+1	beal, n h
+1	pozen, m a
+1	hunter, d w
+1	pegler, l h
+1	blacker, g
+1	allardice, w c
+1	johnson, f r
+1	hart, e b
+1	troell, a
+1	lawson, j f
+1	lumsden, l l
+1	o'reilly, p s
+1	heinemann, p g
+1	snow, w f
+1	lucas, k
+1	joynt, j w
+1	kline, b s
+1	graham, e a
+1	parfitt, c d
+1	corbett, d
+1	philip, w m
+1	zentmayer, w
+1	parnall, c g
+1	wheeler, c l
+1	mccrudden, j f
+1	paton, d n
+1	babcock, h d
+1	remedy, e
+1	reed, a c
+1	peairs, l m
+1	webb, c h
+1	wilkins, w a
+1	allen, e w
+1	peers, r a
+1	stiles, c w
+1	teague, o
+1	mulder, a
+1	gunn, j a
+1	rice, j l
+1	fraser, w p
+1	laird, e r
+1	fisher, e a
+1	handley, s
+1	shipley, a e
+1	jordan, g a
+1	fisher, r a
+1	bowie, w
+1	smith, w r
+1	boule, m
+1	bassett-smith, p w
+1	ward, a r
+1	buchanan, l
+1	mackenzie, d d
+1	stansfeld, a e
+1	wood, h b
+1	baudouin, j a
+1	pricer, j l
+1	mahomed, a g
+1	kerr, j w
+1	harvey, e b
+1	holbrook, c e
+1	wright, j s
+1	simmons, r r
+1	shannon, j r
+1	mast, s o
+1	uhlenhuth, e
+1	ewins, a j
+1	clark, w a
+1	woodlock, t f
+1	cotton, f j
+1	greenough, r b
+1	castellain
+1	bailey, c h
+1	detweiler, h k
+1	porter, l
+1	langdon, h m
+1	bolduan, c f
+1	hawes, j b
+1	kemble, e c
+1	tamura, k
+1	burmeister, w h
+1	bliss, g a
+1	fromme, f d
+1	johns, c o
+1	hatai, s
+1	compton, a h
+1	pringle, j a
+1	mcadoo, w g
+1	moore, g
+1	bashford, e f
+1	wang, c c
+1	ellwood, c a
+1	sugden, e s
+1	helmuth, w t
+1	stoddard, j l
+1	posey, g b
+1	conner, s d
+1	mendel, l b
+1	crum, f s
+1	caverly, c s
+1	cunningham, j h
+1	stewart, f t
+1	thomson, a n
+1	jones, a t
+1	block, f b
+1	burnham, m p
+1	ivens, m h
+1	muns, w e
+1	clague, t m
+1	jordan, g
+1	dox, a w
+1	ramsay, j
+1	neal, f c
+1	howe, h m
+1	walters, a l
+1	nadgir, y g
+1	otani, m
+1	james, j e
+1	fergus, f
+1	hassler, w c
+1	thomas, c c
+1	goldfarb, a j
+1	nunneley, f p
+1	berkart, j b
+1	cooledge, l h
+1	o'conor, j
+1	gallie, w e
+1	hildebrand, s f
+1	duncan, r
+1	curtis, h d
+1	talbert, c m
+1	mudge, c s
+1	frankau, c h
+1	cross, c r
+1	newton, r c
+1	hamer, h g
+1	may, c h
+1	cone, s m
+1	walsh, l s
+1	nelson, n c
+1	goulden, c
+1	moor, c g
+1	smyth, c e
+1	hartwell, j a
+1	p, h
+1	hull, a w
+1	dickinson, v
+1	conant, e r
+1	erdman, s
+1	chalmers, a k
+1	clute, w n
+1	anslow, g a
+1	shaw, h a
+1	woodruff, l l
+1	schofield, f w
+1	hoki, r
+1	messer, r
+1	scott, r l
+1	schenck, p s
+1	drake, w a
+1	hunter, w d
+1	robbins, r b
+1	garrett, a o
+1	smith, w b
+1	briggs, w a
+1	hastings, c j
+1	garrey, w e
+1	thomas, h e
+1	blackader, a d
+1	spaulding, p
+1	mcnairn, w h
+1	mixter, s j
+1	hargitt, c w
+1	goldschmidt, r
+1	mcchesney, g j
+1	eddy, h p
+1	wilson, h h
+1	duane, a
+1	bennett, c
+1	martin, a f
+1	harris, f i
+1	gask, g e
+1	burke, n
+1	holmes, h n
+1	stevens, w e
+1	sauveur, a
+1	abel, j j
+1	davis, w h
+1	parker, w r
+1	adams, p h
+1	finnoff, w c
+1	sumner, f b
+1	myers, g w
+1	milroy, t h
+1	verrall, p j
+1	deaver, j b
+1	garrison, f h
+1	ybanez, t
+1	penfold, e a
+1	washburn, e w
+1	smith, j h
+1	ikeno, s
+1	mcqueen, r
+1	syme, w s
+1	stirling, j w
+1	ferry, e l
+1	davis, h s
+1	nixon, p i
+1	tyson, h h
+1	mcnair, a d
+1	allbutt, t c
+1	motzfeldt, k
+1	edgeworth, f h
+1	pirie, a h
+1	deckert, r
+1	payne, j l
+1	osborne, t b
+1	gershaw, f w
+1	martin, c f
+1	mair, w
+1	hering, r
+1	white, h s
+1	rognley, o
+1	x
+1	charles, s f
+1	eckhardt, e a
+1	pol, d j
+1	reel, p j
+1	kunkel, b w
+1	weese, a o
+1	hubbard, c a
+1	judd, e s
+1	macfie, r b
+1	carey, j p
+1	rixford, e
+1	gee, g w
+1	stockard, c r
+1	fidlar, e
+1	thompson, a r
+1	c, l
+1	reed, e h
+1	orton, g h
+1	griffin, w b
+1	tuska, g r
+1	samuel, h c
+1	wolf, f a
+1	barrett, l
+1	bishop, w w
+1	king, c
+1	ashhurst, a p
+1	minor, c l
+1	hinsdale, g
+1	campbell, a
+1	lissner, h h
+1	porter, j
+1	tarun, w
+1	smith, l l
+1	finzi, n s
+1	trask, j w
+1	taylor, j
+1	bigelow, m a
+1	forbes, a m
+1	sano, f
+1	vander veer, e a
+1	merrill, g p
+1	chesney, a m
+1	ball, f w
+1	bucher, w h
+1	duane, w
+1	harrigan, a h
+1	hewlett, r t
+1	macgregor, r d
+1	jordan, h
+1	roddie, j
+1	williamson, n e
+1	hay, p j
+1	fotheringham, j t
+1	turner, c l
+1	shaffer, e l
+1	hartridge, g
+1	grimsdale, h
+1	ware, m w
+1	scheppegrell, w
+1	mebus, c f
+1	sanderson-wells, t h
+1	goodman, c
+1	mcnutt, w f
+1	brown, p e
+1	horsley, j s
+1	canti, r g
+1	pillman
+1	batten, g b
+1	kenney, j a
+1	lyman, t
+1	zilva, s s
+1	hartridge, h
+1	wilkinson, k d
+1	davenport, e
+1	donaldson, r
+1	allen, b m
+1	cathcart, g c
+1	walker, k m
+1	cameron, j
+1	sawyer, w a
+1	briscoe, g
+1	venable, f p
+1	robertson, c
+1	henderson, l j
+1	bacot, a w
+1	simons, g w
+1	axford, w g
+1	jones, s b
+1	lomas, e c
+1	gloster, t h
+1	ellett, e c
+1	patrick, j
+1	wilson, l b
+1	sonntag, c f
+1	may, a
+1	elliott, j h
+1	rider, p r
+1	spilsbury, b h
+1	bodkin, h
+1	doncaster, l
+1	whittaker, h a
+1	mahomed
+1	neligan, g e
+1	bergey, d h
+1	elder, a v
+1	robinson, w d
+1	evans, c l
+1	jamme, a c
+1	carlill, h
+1	colliver, j a
+1	brown, j m
+1	moore, a r
+1	craig, w
+1	taylor, l h
+1	whiting, m h
+1	willits, e k
+1	archibald, m e
+1	chittenden, r h
+1	hutchison, r
+1	dean, c w
+1	foye, w g
+1	cooper, g
+1	de boer, s
+1	vincent, a
+1	edie, g l
+1	pratt, j h
+1	o'farrell, h h
+1	forster, l
+1	colley, r h
+1	lynch, k m
+1	long, j h
+1	stringer, c e
+1	whipple, g c
+1	papanicolaou, g n
+1	arnold, j f
+1	jones, l
+1	inada, r
+1	martin, l j
+1	craig, j g
+1	sayer, e
+1	lucas, e
+1	shumate, t e
+1	porter, o d
+1	rosenbaum, j
+1	hill, w
+1	tuckwell, d g
+1	mcnaught, h
+1	deacon, m a
+1	white, j r
+1	dickson, w e
+1	gussow, h t
+1	miller, b l
+1	beattie, j m
+1	luke, i a
+1	panton, p n
+1	foreman, f w
+1	hohlen, k s
+1	littlewood, j e
+1	rimmer, r
+1	routh, a
+1	mason, w p
+1	mohr, f w
+1	chetwynd
+1	rand, w h
+1	crile, g w
+1	lehman, e p
+1	marine, d
+1	karper, r e
+1	hodges, g m
+1	hoover, h c
+1	hooton, e a
+1	watson, d m
+1	woods, a c
+1	collis, e l
+1	earl, r
+1	hathaway, f j
+1	mcclure, c w
+1	burridge, w
+1	brown, h h
+1	gay, f p
+1	smith, h i
+1	raiford, l c
+1	coleman, t d
+1	ballantyne, a j
+1	gregory, w k
+1	thorne, b
+1	jacobs, l c
+
+*****MEDLINE PUBMED SHORT AUTHOR FREQUENCIES*****
+28	weber fp
+13	pernet g
+13	walker ic
+13	moore i
+10	barus c
+8	thomson s
+8	little eg
+8	mollison wm
+8	wilson eb
+7	loeb j
+7	sequeira jh
+7	harris ja
+7	shaw hb
+7	amoss hl
+7	bunch jl
+6	taylor fe
+6	mott fw
+6	dore se
+6	kidd fs
+6	lockyer c
+6	dakin hd
+5	shapley h
+5	evans wa
+5	homer a
+5	loeb l
+5	sibley wk
+5	pritchard e
+5	eisendrath dn
+5	cockayne ea
+5	cameron hc
+5	opie el
+5	noguchi h
+5	adkinson j
+4	noyes wa
+4	seares fh
+4	loughlin d
+4	buist hm
+4	scott s
+4	keith a
+4	whipple gh
+4	faber hk
+4	hull aj
+4	rous p
+4	akatsu s
+4	gray hm
+4	henry h
+4	hovell tm
+4	lawson a
+4	castellani a
+4	pilcher ls
+4	bull cg
+4	elliot rh
+4	paton l
+4	ozaki y
+4	flexner s
+4	krumwiede c
+4	mcclendon jf
+4	martin cj
+4	dunham ek
+4	mckinstry wh
+4	drummond jc
+4	mckenzie d
+4	buchanan re
+4	fraser js
+4	whale hl
+4	davis wm
+4	buzzard ef
+4	davis ed
+4	mayer ag
+3	shattock sg
+3	conn hj
+3	rose fa
+3	stowers jh
+3	rolleston jd
+3	brown a
+3	spoehr ha
+3	keen ww
+3	langley jn
+3	traquair hm
+3	richards tw
+3	berry ew
+3	scott jr
+3	macleod jm
+3	kohn la
+3	nicoll w
+3	cautley e
+3	lakin ce
+3	kolmer ja
+3	thompson wh
+3	mellon rr
+3	macdougal dt
+3	perkins pb
+3	sharpe js
+3	pembrey ms
+3	hill r
+3	cumberbatch ep
+3	pearce rm
+3	lubs ha
+3	conklin eg
+3	harkins wd
+3	sherman hm
+3	pope s
+3	dudgeon ls
+3	pappenheimer am
+3	starr fn
+3	okuda k
+3	chaplin a
+3	rankin w
+3	burge we
+3	turner wa
+3	macnider wd
+3	mayo-robson aw
+3	kennelly ae
+3	spencer hr
+3	clark wm
+3	carrel a
+3	jordan he
+3	clarke jm
+3	klotz o
+3	cattell jm
+3	blakeslee af
+3	browne ww
+3	kligler ij
+3	robertson tb
+3	hadley pb
+3	mackenzie wc
+3	cole r
+3	ito h
+3	france jj
+3	batten fe
+3	davenport cb
+3	fleming nb
+3	dawson gw
+3	bond cj
+3	tilley h
+3	keyes c
+3	mees ce
+3	morley ew
+3	lindsay lm
+3	blake fg
+3	brooks cf
+3	adami jg
+3	krotoszyner m
+3	marshall g
+3	parker gh
+3	parkinson jp
+3	adamson hg
+3	osborn hf
+3	woodward rs
+3	robertson oh
+3	davis bm
+3	horowitz mp
+3	winslow ce
+3	pearl r
+2	thomson e
+2	barkan h
+2	du nouy pl
+2	gravatt gf
+2	minot gr
+2	smith ef
+2	porter ae
+2	ormond aw
+2	nagayo m
+2	wright jh
+2	hort ec
+2	morris m
+2	kirkpatrick wf
+2	wishart dj
+2	nutting pg
+2	fleisher ms
+2	jepps mw
+2	turner jg
+2	ransom f
+2	gulbransen r
+2	little cc
+2	crosland gw
+2	janeway tc
+2	smith sa
+2	pottenger fm
+2	kuno y
+2	shipway fe
+2	major rh
+2	fewkes jw
+2	smith p
+2	nelson ja
+2	thornton lh
+2	boyd mf
+2	johnson tb
+2	critchett a
+2	matthew wd
+2	kaneko r
+2	allard ha
+2	darwin l
+2	wells hg
+2	ley g
+2	browning ch
+2	shaw ew
+2	russell b
+2	rowlett ae
+2	turrell wj
+2	whiteford ch
+2	fred eb
+2	morgan th
+2	free ee
+2	dunn js
+2	wingrave w
+2	stewart gn
+2	petersen wf
+2	roman cv
+2	wolf cg
+2	rolleston hd
+2	catton jh
+2	buckmaster ga
+2	tod h
+2	ido y
+2	lipman cb
+2	singer c
+2	hitzrot jm
+2	kennedy am
+2	perrine cd
+2	cole fn
+2	hull tg
+2	campiche ps
+2	gates fl
+2	north ce
+2	wani h
+2	howe l
+2	miller ga
+2	mooers ca
+2	smith t
+2	campbell dh
+2	birkhoff gd
+2	slack fh
+2	hurst af
+2	imamura a
+2	thomas tt
+2	krogh a
+2	barnes ja
+2	cowell em
+2	fraser j
+2	langmead f
+2	levine m
+2	eisenhart lp
+2	drummond h
+2	hastings s
+2	jones df
+2	friel ar
+2	mitamura t
+2	saville t
+2	stewart mj
+2	hesselberg c
+2	maddox ee
+2	mummery jp
+2	moynihan b
+2	hrdlicka a
+2	belben f
+2	breed rs
+2	row rw
+2	auld ag
+2	gowan gm
+2	mcphedran a
+2	rosenow ec
+2	roy d
+2	lindhard j
+2	baumberger jp
+2	iddings jp
+2	harkness rr
+2	fox rf
+2	weiss h
+2	hartley jn
+2	kojima m
+2	gundrum ff
+2	woo aw
+2	fischer mh
+2	mann fc
+2	warren hc
+2	rand cw
+2	sherrington cs
+2	elliott tr
+2	hann rg
+2	hill hw
+2	oldfield c
+2	russell hn
+2	wallace c
+2	cobb na
+2	sarton g
+2	gudger ew
+2	webster dl
+2	jones fs
+2	mackeith j
+2	taylor e
+2	mcnair aj
+2	mcnee jw
+2	guthrie l
+2	davis js
+2	smith l
+2	bartlett cj
+2	smith hm
+2	feldman i
+2	brooks b
+2	erickson rj
+2	doane rw
+2	dimond l
+2	clarke fw
+2	lusk g
+2	whipham tr
+2	armstrong m
+2	john ce
+2	goto k
+2	popenoe p
+2	bridges cb
+2	shaw wf
+2	niles wl
+2	roberts ch
+2	davidson am
+2	leslie rm
+2	horton t
+2	lederer a
+2	smith ge
+2	koser sa
+2	archibald ra
+2	sedgwick wt
+2	wheeler wm
+2	rogers l
+2	guthrie d
+2	turner gg
+2	goodrich hp
+2	patterson n
+2	simonds jp
+2	hopkins cg
+2	wiggers cj
+2	goodpasture ew
+2	bruce d
+2	bartlett w
+2	millikan ra
+2	halliburton wd
+2	davis bf
+2	eastman cr
+2	sweet je
+2	parsons jh
+2	jordan ds
+2	hammett fs
+2	butler th
+2	harrison lw
+2	baldwin a
+2	reynolds es
+2	herringham wp
+2	bardsley pc
+2	mcdonagh je
+2	hooker mo
+2	jewell wh
+2	eloesser l
+2	sattler r
+2	armstrong db
+2	humphreys wj
+2	mcpherson w
+2	clarke e
+2	tenbroeck c
+2	shiels jw
+2	warner de
+2	munday rc
+2	harden a
+2	white cf
+2	dunn p
+2	thalhimer w
+2	moschcowitz av
+2	page cm
+2	murphy rc
+2	bayliss wm
+2	albaugh rp
+2	sturtevant ah
+2	ruediger gf
+2	parker jt
+2	auer j
+2	williams fe
+2	kunz gf
+2	anderson j
+2	miyagawa y
+2	mccullough jw
+2	macdowell ec
+2	robertson m
+2	geiger jc
+2	cooke jv
+2	mayo ch
+2	rogoff jm
+2	mcadie a
+2	cropper jw
+2	erlanger j
+2	haas ar
+2	roth pb
+2	strong rm
+2	lillie fr
+2	northrop jh
+2	brown pk
+2	harvey sc
+2	langmuir i
+2	daily ug
+2	wilensky ao
+2	osterhout wj
+2	vaughan gt
+2	smith eo
+2	barnard he
+2	blanchard ah
+2	davies dl
+2	fisher jh
+2	berry m
+2	pritchett iw
+2	wilson jg
+2	newcomer hs
+2	neuhof h
+2	green hm
+2	malcolm jd
+2	williamson rt
+2	robertson lb
+2	bolton c
+2	stieglitz j
+2	coulter jm
+2	offord j
+2	moore b
+2	campbell ww
+2	von eberts em
+2	bacon rf
+2	scripture ew
+2	grant jd
+2	lyon mw jr
+2	rudolf rd
+2	goodspeed aw
+2	soiland a
+2	geisinger jf
+2	redfield ac
+2	hedrich aw
+2	greenwood m
+2	duckworth wl
+2	bankart as
+2	fowler wf
+2	maccormac h
+1	mohilevith c
+1	baldwin fa
+1	landis jh
+1	watson-williams p
+1	mackay g
+1	townsend d
+1	juell nr
+1	brickner wm
+1	macphail sr
+1	baynes d
+1	ogata t
+1	stebbing gf
+1	horne wj
+1	nordenson jw
+1	grey eg
+1	levings ah
+1	johnson fr
+1	hiller ad
+1	sackett wg
+1	ackert je
+1	gilhespy fb
+1	percy jf
+1	mahomed
+1	taylor f
+1	dochez ar
+1	ballantyne cc
+1	corbett d
+1	gwathmey jt
+1	lynch km
+1	jackson wr
+1	emerson ra
+1	elder av
+1	crosthwaite pc
+1	russ c
+1	rosenbaum j
+1	downing er
+1	rognley o
+1	bowlby a
+1	findlay jj
+1	o'donovan wj
+1	hamaker ji
+1	fetherston jt
+1	clark h
+1	clark gh
+1	ellwood ca
+1	kuhlefelt e
+1	cunningham jh
+1	berkart jb
+1	kimball al
+1	conner ab
+1	gardner lu
+1	smith ga
+1	newman hh
+1	knapp a
+1	mcclure jc
+1	mcwilliams ca
+1	frost wd
+1	graham c
+1	beal nh
+1	dragstedt lr
+1	fisher jb
+1	helmuth wt
+1	tyson hh
+1	knowlton wt
+1	jackson e
+1	greenough rb
+1	curtis hd
+1	pilcher pm
+1	greene cw
+1	armstrong ge
+1	tamura k
+1	riddoch g
+1	pollitt gp
+1	lumb np
+1	nichols el
+1	craig w
+1	scarisbrick cw
+1	ferguson jb
+1	stevens oa
+1	charles sf
+1	wells sr
+1	christopherson jb
+1	briggs wa
+1	russel ck
+1	robinson ep
+1	wood hb
+1	martin af
+1	wright w
+1	briggs h
+1	selfridge g
+1	shaw jk
+1	caverly cs
+1	leuschner ao
+1	beattie jm
+1	chittenden rh
+1	de boer s
+1	hodges gm
+1	porter od
+1	brown hh
+1	thompson je
+1	koll is
+1	curtis mm
+1	press wg
+1	chetwynd
+1	smith ho
+1	cross cr
+1	bates c
+1	posey gb
+1	bering re
+1	holmes wh
+1	smith hr
+1	howell jt
+1	gager cs
+1	zilva ss
+1	burnham mp
+1	mellanby j
+1	price wa
+1	freeman aw
+1	vincent a
+1	pirie ah
+1	bodkin h
+1	taubenhaus jj
+1	barbat jh
+1	allis ep
+1	nicholson sb
+1	eberson f
+1	bryant at
+1	lutz fe
+1	kesteven l
+1	taylor j
+1	balfour dc
+1	x
+1	samuel hc
+1	hulen vh
+1	dillingham fs
+1	bacot a
+1	bayne-jones s
+1	skillern pg
+1	lien-teh w
+1	stewart g
+1	annett he
+1	thomas lw
+1	collier js
+1	cruise rr
+1	mixter sj
+1	fox rt
+1	biggs h
+1	gernert wb
+1	craig cf
+1	lack hl
+1	marine d
+1	holmes g
+1	jones sb
+1	gronnerud p
+1	swan rh
+1	brown wh
+1	papanicolaou gn
+1	nixon pi
+1	van cleave hj
+1	underhill fp
+1	turner cl
+1	chase es
+1	lebedev pa
+1	kamm rm
+1	kay r
+1	white fn
+1	pillman
+1	maylard ae
+1	speese j
+1	bronson e
+1	inada r
+1	harrison rg
+1	henderson we
+1	johnston ch
+1	cooper pr
+1	bacot aw
+1	martin ek
+1	hoover hc
+1	wilson ja
+1	ginsburg n
+1	valadier ac
+1	hegner cf
+1	donaldson hh
+1	fischer h
+1	campbell a
+1	turner p
+1	kerr m
+1	donaldson r
+1	andrewes fw
+1	turner ha
+1	telfer sv
+1	rogers la
+1	kleinberg s
+1	haldane js
+1	ellis jh
+1	hett je
+1	dailey ug
+1	hewitt hw
+1	melville s
+1	emerson h
+1	hoyt hs
+1	lloyd dj
+1	wolf fa
+1	mundie gs
+1	ikeno s
+1	towne eb
+1	shannon jr
+1	alway fj
+1	chalmers aj
+1	lincoln wa
+1	barger g
+1	stretton jl
+1	fraser jr
+1	fawcett e
+1	weinzirl j
+1	talbot an
+1	willcox wf
+1	england fr
+1	goadby k
+1	humphris h
+1	crosthwait dn
+1	hering r
+1	talbot m
+1	hargitt cw
+1	foye wg
+1	taylor as
+1	bousfield p
+1	hoki r
+1	storrie w
+1	clute wn
+1	ogilvie wh
+1	kudo r
+1	winchester jf
+1	rosebery s
+1	vermilye hn
+1	beye hl
+1	grey ec
+1	bendell jl
+1	montgomery ah
+1	cheatle gl
+1	ogata a
+1	kline bs
+1	jacobs lc
+1	littlewood je
+1	meyer w
+1	gomberg m
+1	evans tj
+1	dadourian hm
+1	macbride ew
+1	bulkley k
+1	kilbane ef
+1	lissner hh
+1	manson p
+1	chase c
+1	smith jh
+1	braasch wf
+1	phelps eb
+1	bleile am
+1	goodale hd
+1	verrall pj
+1	culver gd
+1	williamson ne
+1	woods ac
+1	jordan wf
+1	manges m
+1	kober gm
+1	drinkwater h
+1	longley wh
+1	ivens mh
+1	whittaker ha
+1	rosa eb
+1	davidson wt
+1	dumas aw
+1	short ar
+1	macfie rb
+1	vecki vg
+1	babcock hd
+1	panton pn
+1	meads am
+1	corbett ch
+1	hassler wc
+1	baker ac
+1	cushny ar
+1	roll gw
+1	schoepfle cs
+1	hunt rh
+1	goodwin th
+1	davison wc
+1	may ch
+1	mulder a
+1	nutter ja
+1	street jp
+1	east em
+1	hellier jb
+1	wilson ah
+1	councilman wt
+1	jones fw
+1	jennison je
+1	horsley js
+1	rae j
+1	stuart-low w
+1	goulden c
+1	archibald me
+1	cornish ec
+1	mcchesney gj
+1	veblen o
+1	langdon hm
+1	binnie jf
+1	carlill h
+1	davis wh
+1	thomas cc
+1	barling hg
+1	atwood wm
+1	mcmurray tp
+1	martyn af
+1	cairns wd
+1	savill a
+1	braisted wc
+1	subscriber a
+1	smillie wg
+1	mcnairn wh
+1	payne jl
+1	johns co
+1	sumner fb
+1	deckert r
+1	gardner jh
+1	pope st
+1	malloch a
+1	long jh
+1	hartmann a
+1	mudge cs
+1	rytina ag
+1	muller hj
+1	martin l
+1	ticknor aa
+1	judd es
+1	githens ts
+1	coulter cb
+1	harman nb
+1	hirst lf
+1	gehrmann a
+1	ash rl
+1	ramsay j
+1	elsberg ca
+1	crampton gs
+1	hale ng
+1	smith wr
+1	raber ol
+1	albert h
+1	archibald ew
+1	judell mi
+1	raper hs
+1	ivens f
+1	miller mk
+1	castellain
+1	walters al
+1	green gm
+1	burcky fw
+1	fletcher aa
+1	hartridge g
+1	campbell j
+1	williams jh
+1	sunderland s
+1	distaso a
+1	frothingham l
+1	pincoffs mc
+1	ward ar
+1	pirie jh
+1	richards jw
+1	finzi ns
+1	morison r
+1	frankau ch
+1	emmel ve
+1	evans ac
+1	morris rt
+1	paton dn
+1	laufer b
+1	howard h
+1	raymond h
+1	lucas k
+1	phillips fc
+1	carver ae
+1	harford cf
+1	rider pr
+1	bradford sc
+1	wells fm
+1	penfold ea
+1	clark ga
+1	wright js
+1	makins gh
+1	gordon ce
+1	compton at
+1	kunkel bw
+1	mcqueen r
+1	dickson we
+1	adams ph
+1	ackman b
+1	joy nh
+1	randall a
+1	weeks je
+1	scheppegrell w
+1	hynd a
+1	schofield fw
+1	mason wp
+1	daly ra
+1	allbutt tc
+1	gradwohl rb
+1	garrey we
+1	goldfarb aj
+1	loudon j
+1	forbes am
+1	smyth ce
+1	power d
+1	feiss ra
+1	case jt
+1	thorne b
+1	hepworth wg
+1	grant m
+1	milliken sm
+1	adler i
+1	bogert mt
+1	lewis jv
+1	gershaw fw
+1	kirkbride mb
+1	stone hb
+1	blacker g
+1	nathan pw
+1	gould ap
+1	griffin wb
+1	campbell ed
+1	richet
+1	sugden es
+1	clarke g
+1	sears hj
+1	van buren gh
+1	fromme fd
+1	coffman wd
+1	willits ek
+1	grantham ae
+1	denno wj
+1	vincent b
+1	stovall wd
+1	goodall js
+1	matthews ac
+1	kopeloff n
+1	holmes hn
+1	birdsall jc
+1	peckham wc
+1	bennett c
+1	byrd dw
+1	robbins rb
+1	neve ef
+1	mclean fc
+1	hooton ea
+1	manley ot
+1	hall eh
+1	stillman eg
+1	anslow ga
+1	murphy jb
+1	chesney am
+1	cahill gf
+1	wilson w
+1	washburn ew
+1	wodsedalek je
+1	fraser wp
+1	dean cw
+1	fisher ra
+1	jones e
+1	hull aw
+1	kelsall ht
+1	billings wc
+1	bliss ga
+1	takaki i
+1	sayer e
+1	syme ws
+1	parker wr
+1	rettger l
+1	wright hw
+1	wilkins wa
+1	walker wh
+1	rucker wc
+1	ruehle gl
+1	henderson lj
+1	williams eg
+1	withrow jr
+1	hunkin sj
+1	canti rg
+1	hrdliccaronka a
+1	o'day jc
+1	geist sh
+1	gibson cl
+1	ebright ge
+1	adrian ed
+1	harmer wd
+1	zunz e
+1	keilty ra
+1	sano f
+1	gordon wc
+1	karpinski lc
+1	dun rc
+1	speed k
+1	benham fr
+1	kidder av
+1	loomis ne
+1	adams j
+1	conant er
+1	harper rm
+1	schryver sb
+1	hotchkiss wo
+1	thomas he
+1	springer a
+1	osumi s
+1	bradley ww
+1	crook a
+1	dox aw
+1	pease fg
+1	hicks jr
+1	drake wa
+1	peairs lm
+1	hall nf
+1	daufresne m
+1	hurtley wh
+1	o'donoghue ch
+1	martin f
+1	wilson hh
+1	futaki k
+1	cohn ae
+1	wilson g
+1	goodson fn
+1	hayes hk
+1	hoffman fl
+1	ligat d
+1	stewart fc
+1	patterson ah
+1	dawson b
+1	lipshutz b
+1	baker wc
+1	mohr fw
+1	reed ac
+1	park jb
+1	kerr ww
+1	conn hw
+1	schenck ps
+1	warthin as
+1	meighan js
+1	hunt j
+1	roberts h
+1	roosevelt t
+1	henry ck
+1	curtis ha
+1	fidlar e
+1	macfie jw
+1	simpson ff
+1	hughes b
+1	ohira t
+1	dubin h
+1	warren jh
+1	oliver hr
+1	smith js
+1	klopsteg pe
+1	saundby r
+1	thompson ar
+1	simons gw
+1	mclane wj
+1	ewer en
+1	stringer ce
+1	macconkey at
+1	earl r
+1	lumsden ll
+1	deaver jb
+1	eccles ha
+1	hagner fr
+1	jones bl
+1	stevens we
+1	robinson wd
+1	block fb
+1	newsholme a
+1	harris f
+1	west ce
+1	nelson nc
+1	holman jh
+1	walker cb
+1	hamilton hc
+1	remsen i
+1	dublin li
+1	mcnally wd
+1	shields mc
+1	compton ah
+1	wilson sa
+1	n ce
+1	murray v
+1	de bord gg
+1	sparks me
+1	josephson ag
+1	aronberg l
+1	eager wh
+1	lipschutz a
+1	nelson jm
+1	foote em
+1	orr hd
+1	holland wj
+1	richardson rp
+1	routh a
+1	goldschmidt r
+1	shull gh
+1	thomson d
+1	itagaki m
+1	kenney ja
+1	handley s
+1	young a
+1	setchell wa
+1	mather kf
+1	gamble ja
+1	watkyn-thomas fw
+1	carter lj
+1	purdue ah
+1	park ea
+1	jacobs j
+1	scott rl
+1	lewis fc
+1	jones ar
+1	bucher wh
+1	mcclintock ja
+1	palmer dw
+1	ellefson lj
+1	morrison jt
+1	rosenheim o
+1	howe pr
+1	white hs
+1	drennan jg
+1	miller ec
+1	merrill gp
+1	hingston d
+1	robertson c
+1	anderson hh
+1	duane a
+1	messer r
+1	pickering ec
+1	udden ja
+1	swift hf
+1	smeeton ma
+1	trevan jw
+1	stuckey ej
+1	don a
+1	fitzgerald jg
+1	schurig or
+1	landis eh
+1	elliott jh
+1	small wd
+1	freese am
+1	mead ca
+1	moorhead jj
+1	donald hc
+1	bigelow wa
+1	van cleve em
+1	schneider f
+1	parnall cg
+1	thompson wg
+1	brown jm
+1	weese ao
+1	hildebrand sf
+1	shepherd fj
+1	barclay ae
+1	van saun ai
+1	salmond rw
+1	cannon wa
+1	joynt jw
+1	alexander eg
+1	plotz h
+1	clague tm
+1	howell j
+1	brander hs
+1	burridge w
+1	leiper rt
+1	franklin ec
+1	porter j
+1	schuchert c
+1	burket wc
+1	dickinson v
+1	esten wm
+1	hay pj
+1	mixter cg
+1	taniguchi t
+1	peters wh
+1	bassett-smith pw
+1	bradford jr
+1	ritchie j
+1	round la
+1	alderson he
+1	harrison ga
+1	goldsmith
+1	murray f
+1	thomson ja
+1	plaisance gp
+1	ewins aj
+1	ballantyne aj
+1	cook of
+1	ford j
+1	pricer jl
+1	barrie g
+1	bryce th
+1	ferry el
+1	hudson ac
+1	mclean ws
+1	hinman jj
+1	miller bl
+1	finnoff wc
+1	ochsner aj
+1	taber s
+1	o'connor r
+1	chalmers ak
+1	doubleday fn
+1	mills ch
+1	roberts ee
+1	tompkins e
+1	yule gu
+1	kress gh
+1	rice a
+1	sewall ec
+1	smith wb
+1	mast so
+1	allemann a
+1	parsons tr
+1	glaser rw
+1	crispin el
+1	levy ag
+1	stopford js
+1	bowie w
+1	atkinson nj
+1	scherck hj
+1	pegler lh
+1	hernaman-johnson f
+1	mccollum ev
+1	hamer wh
+1	zentmayer w
+1	peters ea
+1	hardy gh
+1	barber wh
+1	holden hs
+1	peers ra
+1	jones at
+1	priestley h
+1	stirling jw
+1	bailey ch
+1	savage wg
+1	rich jl
+1	muncie jh
+1	robb ag
+1	weinhagen a
+1	tyzzer ee
+1	foster ac
+1	spier l
+1	hume we
+1	rauh sj
+1	molyneux es
+1	rowe rm
+1	dobson rt
+1	lomas ec
+1	leyton o
+1	duncan r
+1	o'conor j
+1	sharpe hs
+1	mercur wh
+1	o'neil rf
+1	meyers c
+1	fisher cp
+1	rowlands rp
+1	wright gf
+1	brues t
+1	benedict rc
+1	edridge-green fw
+1	hartridge h
+1	reel pj
+1	pringle ja
+1	jones-phillipson ce
+1	smith jl
+1	cone sm
+1	collins w
+1	torrey jc
+1	pratt js
+1	wallace ag
+1	morgan jd
+1	nadgir yg
+1	bland-sutton j
+1	roberts cg
+1	johnson ws
+1	sachs e
+1	miller mr
+1	noyes aa
+1	detweiler hk
+1	arnold jf
+1	flint jm
+1	mayo wj
+1	reighard j
+1	lucas e
+1	shull af
+1	noble re
+1	bashford ef
+1	burke n
+1	marks aa
+1	sawdon
+1	humbert ep
+1	heard wn
+1	macklin cc
+1	mcnutt wf
+1	ackerley r
+1	clegg jg
+1	brooks rs
+1	caulk jr
+1	olivier cp
+1	young g
+1	whitfield a
+1	fergus f
+1	norton gh
+1	remedy e
+1	paget r
+1	mcculloch cc
+1	cummings ld
+1	dowd cn
+1	moullin cm
+1	roberts je
+1	summers je
+1	nyquist h
+1	boule m
+1	walsh ls
+1	fischer ca
+1	pepper oh
+1	maynard fp
+1	lockwood al
+1	hall ic
+1	allen ce
+1	kritchevsky il
+1	ellis fw
+1	bryce ph
+1	rector fl
+1	coblentz ww
+1	gregory wk
+1	moore ar
+1	bardswell nd
+1	mcnally hh
+1	robbins rh
+1	gladstone rj
+1	moore hf
+1	jamme ac
+1	lane ff
+1	rosenberg l
+1	davis hj
+1	wright ae
+1	allen ew
+1	blanton wb
+1	rahman ma
+1	thomas jl
+1	miner jr
+1	neligan ge
+1	duffield wl
+1	walker c
+1	magath tb
+1	rast le
+1	taylor k
+1	steele r
+1	davis dm
+1	edie gl
+1	benjamin m
+1	may a
+1	norris gw
+1	abbot bg
+1	mccrae t
+1	barney jd
+1	hashimoto m
+1	walker km
+1	dem gage s
+1	griffith ws
+1	humphris fh
+1	halsey jt
+1	young gb
+1	martin lj
+1	hoskins lm
+1	weiskotten hg
+1	shaw dm
+1	raiford lc
+1	orton gh
+1	p h
+1	stephenson s
+1	parker hr
+1	blackader ad
+1	lipka j
+1	carter ww
+1	gregory tw
+1	place f
+1	phalen jm
+1	stewart jq
+1	tarun w
+1	freeborn sb
+1	dickson ed
+1	williams rs
+1	atkinson gf
+1	watson dm
+1	gorgas wc
+1	klotz mo
+1	crowder tr
+1	gee gw
+1	taylor lh
+1	seaver fj
+1	burrows mt
+1	johnston j
+1	venable fp
+1	stebbins j
+1	simpson ce
+1	baudouin ja
+1	moodie rl
+1	parfitt cd
+1	shepherd wm
+1	porter pj
+1	roddie j
+1	sinclair t
+1	house hd
+1	geoghegan j
+1	paterson wb
+1	miller gv
+1	hunter wd
+1	hurwitz sh
+1	wilkinson kd
+1	horsford c
+1	spaulding p
+1	mitchell ow
+1	harvey eb
+1	white jr
+1	fowler os
+1	hawthorne co
+1	macgregor rd
+1	crum fs
+1	young hh
+1	gordon w
+1	hunter c
+1	ward hl
+1	nunneley fp
+1	stewart td
+1	shumate te
+1	zeleny c
+1	patterson sw
+1	shipley ae
+1	doncaster l
+1	motzfeldt k
+1	goodman c
+1	schultz ot
+1	whinery s
+1	lyon ep
+1	gray ac
+1	paton s
+1	college fh
+1	foster m
+1	allworthy sw
+1	gross l
+1	snow wf
+1	conner sd
+1	hamer hg
+1	cornell bs
+1	worster-drought c
+1	moir a
+1	miller n
+1	deacon ma
+1	lawson jf
+1	kolischer g
+1	waterhouse hf
+1	oliver t
+1	matin tp
+1	fotheringham jt
+1	mccrudden jf
+1	fronczak fe
+1	harrigan ah
+1	baumann l
+1	waller e
+1	march n
+1	o'farrell hh
+1	jenkins hd
+1	griffith ah
+1	hewlett rt
+1	sisson wr
+1	felt ep
+1	rowe ah
+1	jeffrey ec
+1	wilbur rl
+1	allen bm
+1	marshall cj
+1	ellis h
+1	jones jr
+1	whetham cd
+1	fenneman nm
+1	hutchison r
+1	stoddard jl
+1	rankin ws
+1	hunter dw
+1	kofoid ca
+1	crandall ep
+1	gibson aj
+1	davenport e
+1	stickel je
+1	beattie wa
+1	huntoon fm
+1	mahomed ag
+1	needham jg
+1	harris je
+1	matson rc
+1	stearns t
+1	starbecker m
+1	otani m
+1	macmurchy h
+1	taylor hd
+1	smith gh
+1	jones db
+1	robins gd
+1	kerr jw
+1	butler e
+1	newton rc
+1	schiller fc
+1	whipple gc
+1	davidson n
+1	bruggeman ho
+1	russell js
+1	paterson am
+1	ring go
+1	hawes jb
+1	bowman fb
+1	bolton js
+1	jordan h
+1	mckittrick of
+1	hadley se
+1	quiserne
+1	cammidge pj
+1	crawfurd r
+1	gask ge
+1	williams ta
+1	eason hl
+1	wills ap
+1	bishop ww
+1	axford wg
+1	wright hp
+1	mcnaught h
+1	moore rf
+1	tyson ef
+1	eddy hp
+1	stockard cr
+1	willis am
+1	stewart ft
+1	avery ot
+1	forster l
+1	brown cp
+1	webb rc
+1	fink cg
+1	turnbull hm
+1	moore sg
+1	perry je
+1	wood dr
+1	hey wh
+1	patrick j
+1	irwin rb
+1	esser jf
+1	greeley sa
+1	sekiguchi s
+1	rist sm
+1	woodruff ll
+1	metz cw
+1	cumming jg
+1	fredrick mw
+1	mcdole gr
+1	mcneile lg
+1	carson nb
+1	pol dj
+1	kemble ec
+1	rettger lf
+1	mann rw
+1	vicari em
+1	morse wf
+1	bainbridge fa
+1	cathcart gc
+1	sauveur a
+1	glaser ef
+1	gibbons mr
+1	collins gn
+1	fisher a
+1	stillman s
+1	moor cg
+1	hedley jp
+1	uhlenhuth e
+1	harrower d
+1	plough hh
+1	haythorn sr
+1	dittoe wh
+1	troell a
+1	vinal gw
+1	colton hs
+1	birkett
+1	richardson g
+1	levin i
+1	costello ca
+1	whiting mh
+1	hobbs wh
+1	jewett hj
+1	mcclelland jr
+1	douglas ri
+1	craig jg
+1	bailey lh
+1	maxwell ss
+1	bowen tr
+1	downes wa
+1	falk kg
+1	taylor g
+1	lockhart-mummery jp
+1	d gv
+1	little hp
+1	clogg hs
+1	hatai s
+1	fasten n
+1	grant d
+1	mcadoo wg
+1	sanderson-wells th
+1	mccartney e
+1	brill ic
+1	jamieson ra
+1	turner ce
+1	buckley cw
+1	besemer am
+1	swartzlander hc
+1	trotter w
+1	cotton fj
+1	romer f
+1	hartwell ja
+1	berkeley c
+1	pinnell wr
+1	crozier wj
+1	kasanjian vh
+1	gore-gillon g
+1	symmers ws
+1	forbes a
+1	hungerford cw
+1	hayford jf
+1	heinemann pg
+1	black h
+1	james je
+1	hall f
+1	gunn ja
+1	rettie t
+1	yerington hh
+1	fowler ha
+1	coutts en
+1	smith a
+1	cecil ab
+1	barnett sj
+1	black
+1	howe jl
+1	bridgman pw
+1	valentine ja
+1	patrick ca
+1	souttar hs
+1	mackenzie dd
+1	lewis pa
+1	bigelow ma
+1	minor cl
+1	grimsdale h
+1	clark jg
+1	michelson aa
+1	gibson fl
+1	clark ah
+1	ryan ah
+1	osgood rb
+1	eikenberry wl
+1	ohtawara t
+1	cole hp
+1	ishiwara k
+1	stiles cw
+1	burdick cl
+1	philip wm
+1	martin cf
+1	shuter
+1	bolduan cf
+1	rixford e
+1	cole ad
+1	weston pg
+1	cope vz
+1	nickerson jf
+1	power hd
+1	jordan g
+1	vivian m
+1	woodlock tf
+1	manson m
+1	sappington sw
+1	handley ws
+1	elmslie rc
+1	brinsmade jb
+1	russell ji
+1	laird er
+1	riddle o
+1	reed eh
+1	milroy th
+1	hastings cj
+1	de schweinitz ge
+1	uhler hs
+1	mccardie wj
+1	moore g
+1	tacquin a
+1	barrows al
+1	talbert cm
+1	raistrick h
+1	shannon ce
+1	mcmullen wh
+1	barrett l
+1	jones lw
+1	lamb rs
+1	carey jp
+1	kon y
+1	king c
+1	garrett ao
+1	alton bh
+1	steensland hs
+1	chance b
+1	franke e
+1	horner wd
+1	de voe rg
+1	van beuren ft
+1	thomson an
+1	mcnair ad
+1	lee ri
+1	keyes fg
+1	kennaway el
+1	burmeister wh
+1	bruce j
+1	meyers aw
+1	ellett ec
+1	herringham w
+1	stanley ll
+1	kinkaid tw
+1	gloster th
+1	fulmer hl
+1	cahen e
+1	arrhenius s
+1	russ s
+1	wadsworth ab
+1	mccarthy jf
+1	porter l
+1	simmons rr
+1	mendel lb
+1	walther hw
+1	harris fi
+1	hooker hd jr
+1	dobell c
+1	karper re
+1	benzinger m
+1	jordan ga
+1	eddowes a
+1	newham hb
+1	taylor wp
+1	hance rt
+1	anderson rj
+1	mccubbin wa
+1	dalyell ej
+1	o'reilly ps
+1	fulcher gs
+1	hill w
+1	mobley mr
+1	shaw ha
+1	hedrick er
+1	williston sw
+1	gotto s
+1	pfahler ge
+1	smillie ew
+1	torok e
+1	broadhurst j
+1	lockwood cd
+1	pollock r
+1	cubberley ep
+1	squires jw
+1	potts wa
+1	tanner fw
+1	may hg
+1	mckenzie rt
+1	solomons b
+1	low gc
+1	pogue je
+1	myers gw
+1	gordon gs
+1	martyn k
+1	armsby hp
+1	schram dl
+1	morton ca
+1	pooley gh
+1	parker km
+1	finlayson ga
+1	gussow ht
+1	ford sp
+1	rhodes gb
+1	sonntag cf
+1	nicholson f
+1	bell gh
+1	slator a
+1	johnson br
+1	buchanan l
+1	mueller jh
+1	vilvandre g
+1	walker gw
+1	mcclure cw
+1	brown pe
+1	ewart rj
+1	crowther c
+1	greenwood wo
+1	king wv
+1	sellards aw
+1	branner jc
+1	berry hm
+1	neymann ca
+1	foreman fw
+1	allardice wc
+1	gates fc
+1	howard lo
+1	clark wa
+1	watson aj
+1	meier fc
+1	goldbloom a
+1	tuska gr
+1	neal jb
+1	collis el
+1	huntington e
+1	holding af
+1	hunter ow
+1	rice jl
+1	wadia md
+1	sniktaw
+1	winslow r
+1	worster-drought cc
+1	myerson a
+1	c l
+1	jones l
+1	briscoe g
+1	davison as
+1	colliver ja
+1	crow lb
+1	barnett gd
+1	veiller l
+1	eisenberg aa
+1	neal fc
+1	de beaujeu aj
+1	whitaker mc
+1	wang cc
+1	harrington tf
+1	yerkes rm
+1	luke ia
+1	morrey cb
+1	rand wh
+1	moore es
+1	colley rh
+1	fisher ea
+1	chapple wa
+1	hinman f
+1	colyer jf
+1	smith rp
+1	krivsky la
+1	wolbarst am
+1	healy jj
+1	edgecombe
+1	wallace wh
+1	ware mw
+1	palmer ww
+1	shaffer el
+1	guthrie dv
+1	becker gf
+1	hathaway fj
+1	smith ll
+1	cannon wb
+1	bedson sp
+1	brockett p
+1	cameron j
+1	chandler cf
+1	cooledge lh
+1	rimmer r
+1	cutler ec
+1	graham ea
+1	allison n
+1	hale ge
+1	duane w
+1	porritt n
+1	freeman jw
+1	deramas ja
+1	sayles rw
+1	cridland b
+1	segerblom w
+1	arlitt ah
+1	nipher fe
+1	osborne tb
+1	eastman jr
+1	mehrtens hg
+1	muns we
+1	coleman td
+1	berg wn
+1	cyriax ef
+1	reber w
+1	reardan fb
+1	landau
+1	foote ja
+1	abel jj
+1	vander veer ea
+1	bergey dh
+1	kinsella ra
+1	lehman ep
+1	wilson a
+1	roy jn
+1	ball fw
+1	chesley aj
+1	cary lr
+1	carmichael rd
+1	meyer em
+1	harvey en
+1	osborn wh
+1	perkins rg
+1	trask jw
+1	cole pp
+1	frost eb
+1	jonas af
+1	ransohoff j
+1	sawyer wa
+1	oliver jc
+1	ashhurst ap
+1	kirkpatrick h
+1	davies m
+1	gay fp
+1	schlesinger f
+1	van hise cr
+1	ely lw
+1	smith hi
+1	spilsbury bh
+1	mair w
+1	champneys f
+1	stephens bm
+1	laurent p
+1	mccreery ah
+1	cotton jh
+1	manheimer wa
+1	lyman t
+1	ami hm
+1	howe hm
+1	ybanez t
+1	vail ce
+1	bunker jw
+1	zinsser h
+1	hawkes ce
+1	hauser sj
+1	winslow mf
+1	guilfoy wh
+1	porter mf
+1	o'neill cs
+1	evans jj
+1	mebus cf
+1	wilson lb
+1	hart eb
+1	turrell
+1	gregory hl
+1	carline wa
+1	wheeler cl
+1	oettinger b
+1	copeland gg
+1	meyer kf
+1	bell fd
+1	brown ew
+1	chavasse fb
+1	nakagawa k
+1	crile gw
+1	davis hs
+1	hungerford hb
+1	thomas ba
+1	holbrook ce
+1	tyndall we
+1	edgeworth fh
+1	sherman wo
+1	knopf sa
+1	erdman s
+1	hance ih
+1	steenbock h
+1	bolley hl
+1	tuckwell dg
+1	findlay l
+1	webb ch
+1	humphrey gc
+1	hanson p
+1	whitney wr
+1	soubbotitch v
+1	shipley wc
+1	forbes sa
+1	pitt gn
+1	jennings hs
+1	lewis gn
+1	ballon dh
+1	evans cl
+1	eckhardt ea
+1	meakins jc
+1	mottram jc
+1	holloway tb
+1	graham-smith gs
+1	o'malley jf
+1	batten gb
+1	jefferson ja
+1	rathbun np
+1	collie j
+1	legge rt
+1	greenfield dg
+1	pratt jh
+1	rappleye wc
+1	langnecker hl
+1	cohen t
+1	eaton em
+1	wallis gf
+1	terry ce
+1	cooper g
+1	moffitt hc
+1	hubbard ca
+1	petrie gf
+1	teague o
+1	bettman rb
+1	brown w
+1	hohlen ks
+1	aymard jl
+1	blackwell hb
+1	lees jh
+1	tarr em
+1	vries hd
+1	clark da
+1	little em
+1	gill ha
+1	krumbhaar eb
+1	lilienthal h
+1	gallie we
+1	marris hf
+1	brown we
+1	morgan jf
+1	stannus hs
+1	wolbach sb
+1	kennedy cm
+1	van maanen a
+1	arkle js
+1	sinnott ew
+1	hooker rs
+1	macleod al
+1	garrison fh
+1	tolman rc
+1	hinsdale g
+1	waterman wg
+1	fletcher hm
+1	tuttle td
+1	pozen ma
+1	eigenmann ch
+1	hurty jn
+1	stansfeld ae
+
+*****MEDLINE PUBMED PUB FREQUENCIES*****
+<1,1,1,2,1,1,3,1,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,2,1,1,1,1,1,1,2,1,1,2,2,1,1,1,1,1,2,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,2,1,1,1,1,1,1,1,1,2,1,1,1,2,1,3,2,1,1,1,3,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,3,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,1,1,2,2,1,1,1,1,2,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,2,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,2,1,2,2,1,2,1,1,2,2,1,1,1,2,1,2,2,2,2,1,1,2,2,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,3,1,4,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,1,2,1,2,1,1,1,1,1,2,1,1,1,1,2,1,1,1,1,1,1,1,1,2,1,1,1,1,1,1,1,1,2,1,1,3,1,1,1,1,1,1,1,1,1,2,1,1,1,3,1,1,1,1,1,1,2,1,1,1,1,1,2,1,1,2,1,3,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,2,1,1,2,1,1,2,1,1,1,1,1,1,2,1,1,1,1,1,1,1,1,1,5,3,1,1,1,1,1,1,1,1,2,1,1,1,1,1,1,1,2,1,1,1,1,1,1,1,2,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,1,1,2,2,1,1,1,1,2,1,1,3,1,1,1,1,1,2,1,3,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,3,2,1,1,1,1,1,1,1,1,2,1,2,1,1,1,2,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,3,1,1,1,1,1,1,1,1,2,1,1,1,2,2,2,1,1,1,1,1,1,2,2,1,4,2,1,4,2,1,2,1,1,1,1,1,1,1,1,1,1,2,2,1,1,1,1,1,1,1,1,1,1,1,1,2,1,4,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,1,1,1,2,1,3,1,1,1,1,1,1,1,2,1,1,6,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,4,1,1,1,1,1,1,1,1,1,2,2,1,1,1,1,1,1,1,15,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,3,1,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,1,1,2,1,1,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,2,2,2,1,1,1,8,1,1,1,2,2,1,1,1,1,1,2,1,2,1,1,1,1,1,1,1,3,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,1,1,1,2,1,1,1,1,1,1,1,2,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,2,1,1,1,1,1,1,1,2,2,1,1,1,1,1,3,1,2,1,1,1,1,1,2,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,2,1,1,1,1,1,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,1,2,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,8,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,3,2,1,1,1,2,1,1,1,2,1,1,1,2,3,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,2,2,1,1,2,1,2,1,2,1,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,2,1,3,1,1,2,1,1,1,1,1,1,1,1,1,1,1,2,2,1,1,1,1,1,1,1,1,1,1,2,2,2,1,2,2,2,2,1,1,1,1,2,1,1,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,2,2,1,1,1,1,1,1,1,1,2,1,1,2,1,1,1,1,1,1,6,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,2,2,4,1,1,2,1,1,1,1,1,2,1,1,1,1,1,1,1,2,1,1,1,2,2,1,2,1,2,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,2,1,1,1,2,1,1,2,2,2,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,5,5,5,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,1,1,1,1,1,2,1,1,1,3,1,1,1,1,1,1,2,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,3,1,1,1,1,1,1,1,1,2,1,1,1,1,1,1,1,1,1,1,3,1,1,1,1,1,1,1,1,2,4,1,1,1,1,1,5,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,2,1,1,1,3,2,1,3,2,1,3,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,5,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,3,2,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,2,2,3,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,1,1,1,1,2,1,1,1,2,1,1,1,1,1,1,1,1,2,1,1,1,1,6,1,1,2,1,1,1,3,1,1,1,1,1,1,1,1,2,1,1,1,1,1,1,1,1,1,1,2,1,1,2,2,1,4,4,2,2,1,1,1,1,1,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,2,1,1,2,1,1,1,1,1,1,1,1,1,1,2,1,1,2,1,1,1,1,1,2,1,1,1,1,1,5,1,1,1,1,1,1,1,1,1,4,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,5,1,1,2,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,1,2,1,2,1,3,1,1,1,2,1,1,1,2,1,1,1,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,1,1,1,2,2,1,1,1,1,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,1,1,1,1,3,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,4,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,2,1,2,2,2,2,1,3,1,1,2,1,1,2,1,2,2,2,3,4,2,2,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,5,1,1,1,1,1,1,1,1,1,2,1,1,1,2,2,1,1,1,4,1,1,1,1,1,1,1,1,1,1,1,1,1,1,3,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,1,1,1,2,1,1,2,2,2,1,1,1,1,1,1,1,1,1,2,1,1,1,1,2,1,2,1,1,>

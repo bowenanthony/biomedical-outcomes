@@ -1,0 +1,136 @@
+Date: 03/05/2015	 Scientist Search 1.7
+Data Retrieval Mode: medline, reflects file type source of PubMed data in following analysis.
+Publication Type Selection: journal article, Affiliation Restriction: none, reflects search constraints of PubMed data in following analysis.
+Keyword Mode Selection: none
+
+Year: 1863	Pubs: 169	IDs: 169	CSV Author Pubs: 0	Medline Author Pubs: 86
+		PM Max: 1	PM Num: 1	CSV Max: 0	CSV Num: 0	Medline Max: 1	Medline Num: 1
+		CSV IDs: 0	Medline IDs: 169
+
+Publication PubMed Count:<169>
+CSV Publications with Authors:<0>
+Medline Publications with Authors:<86>
+Retracted Publications:<0>
+Retractions Made:<0>
+CSV Unique authors:<0>
+Medline Unique authors:<39>
+Medline Unique short authors:<39>
+Medline Unique short first authors:<39>
+CSV Duplicate authors:<0>
+Medline Duplicate authors:<15>
+Medline Duplicate short authors:<15>
+CSV Duplicate author publications:<0>
+Medline Duplicate author publications:<62>
+CSV Authors per publication:<0>
+CSV APP max:<0>
+CSV APP min:<0>
+CSV APP var:<0>
+Medline Authors per publication:<1>
+Medline APP max:<1>
+Medline APP min:<1>
+Medline APP var:<0>
+Unique Journal Titles:<2>
+Unique Short Journal Titles:<2>
+Medline Publications per unique author:	4.33333333333333
+Medline Duplicate publications per duplicate author:	4.13333333333333
+Medline Duplicate authors / Unique authors	0.384615384615385
+
+
+*****JOURNAL PUB FREQUENCIES*****
+149	british medical journal
+20	medico-chirurgical transactions
+
+*****KEYWORDS LIST*****
+
+*****KEYWORDS FREQUENCIES*****
+<>
+
+*****CSV PUBMED AUTHOR FREQUENCIES*****
+
+*****CSV PUBMED PUB FREQUENCIES*****
+<>
+
+*****MEDLINE PUBMED AUTHOR FREQUENCIES*****
+12	bryant, t
+10	beale, l s
+8	salter, h
+4	brodhurst, b e
+4	latham, p m
+3	jones, t
+3	lee, h
+3	bennett, j h
+3	smith, t
+2	ogle, j w
+2	wells, t s
+2	chambers, t k
+2	budd, g
+2	mayo, t
+2	lee, r
+1	marston, j a
+1	southam, g
+1	pick, t p
+1	longmore, t
+1	dickinson, w h
+1	samelson, a
+1	dobell, h
+1	cockle, j
+1	breaumont, w r
+1	wood, j
+1	powell, r h
+1	roberts, w
+1	markham, w o
+1	evans, c j
+1	smith, w
+1	waters, a t
+1	hewett, p g
+1	weber, h
+1	buchanan, a b
+1	moore, c h
+1	murray, j j
+1	wiblin, j
+1	walton, h
+1	goolden, r h
+
+*****MEDLINE PUBMED SHORT AUTHOR FREQUENCIES*****
+12	bryant t
+10	beale ls
+8	salter h
+4	brodhurst be
+4	latham pm
+3	smith t
+3	bennett jh
+3	jones t
+3	lee h
+2	ogle jw
+2	budd g
+2	lee r
+2	wells ts
+2	chambers tk
+2	mayo t
+1	roberts w
+1	marston ja
+1	weber h
+1	cockle j
+1	dickinson wh
+1	moore ch
+1	longmore t
+1	waters at
+1	southam g
+1	hewett pg
+1	samelson a
+1	markham wo
+1	walton h
+1	buchanan ab
+1	pick tp
+1	dobell h
+1	evans cj
+1	goolden rh
+1	powell rh
+1	breaumont wr
+1	murray jj
+1	wiblin j
+1	wood j
+1	smith w
+
+*****MEDLINE PUBMED PUB FREQUENCIES*****
+<1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,>

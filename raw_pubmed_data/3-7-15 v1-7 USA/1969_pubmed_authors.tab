@@ -1,0 +1,505 @@
+Date: 03/07/2015	 Scientist Search 1.7
+Data Retrieval Mode: medline, reflects file type source of PubMed data in following analysis.
+Publication Type Selection: journal article, Affiliation Restriction: USA, reflects search constraints of PubMed data in following analysis.
+Keyword Mode Selection: none
+
+Year: 1969	Pubs: 90	IDs: 90	CSV Author Pubs: 0	Medline Author Pubs: 90
+		PM Max: 1	PM Num: 1	CSV Max: 0	CSV Num: 0	Medline Max: 1	Medline Num: 1
+		CSV IDs: 0	Medline IDs: 90
+
+Publication PubMed Count:<90>
+CSV Publications with Authors:<0>
+Medline Publications with Authors:<90>
+Retracted Publications:<0>
+Retractions Made:<0>
+CSV Unique authors:<0>
+Medline Unique authors:<216>
+Medline Unique short authors:<216>
+Medline Unique short first authors:<84>
+CSV Duplicate authors:<0>
+Medline Duplicate authors:<13>
+Medline Duplicate short authors:<13>
+CSV Duplicate author publications:<0>
+Medline Duplicate author publications:<27>
+CSV Authors per publication:<0>
+CSV APP max:<0>
+CSV APP min:<0>
+CSV APP var:<0>
+Medline Authors per publication:<2.55555555555556>
+Medline APP max:<8>
+Medline APP min:<1>
+Medline APP var:<2.42469135802469>
+Unique Journal Titles:<17>
+Unique Short Journal Titles:<17>
+Medline Publications per unique author:	0.416666666666667
+Medline Duplicate publications per duplicate author:	2.07692307692308
+Medline Duplicate authors / Unique authors	0.0601851851851852
+
+
+*****JOURNAL PUB FREQUENCIES*****
+30	febs letters
+19	science (new york, ny)
+12	tissue & cell
+8	life sciences and space research
+4	community mental health journal
+3	asha
+3	journal of religion and health
+2	talanta
+1	annual review of phytopathology
+1	demography
+1	bulletin of environmental contamination and toxicology
+1	biopolymers
+1	the journal of thoracic and cardiovascular surgery
+1	population studies
+1	tag theoretical and applied genetics theoretische und angewandte genetik
+1	computers and biomedical research, an international journal
+1	planta
+
+*****KEYWORDS LIST*****
+
+*****KEYWORDS FREQUENCIES*****
+<>
+
+*****CSV PUBMED AUTHOR FREQUENCIES*****
+
+*****CSV PUBMED PUB FREQUENCIES*****
+<>
+
+*****MEDLINE PUBMED AUTHOR FREQUENCIES*****
+3	connors, p g
+2	gould, b s
+2	wuerker, r b
+2	beeman, w w
+2	bock, r m
+2	smith, d s
+2	labanauskas, m
+2	taylor, o l
+2	chance, b
+2	buckhold, b
+2	young, j d
+2	bade, m l
+2	locke, m
+1	ray, p m
+1	bovee, k
+1	rea, c f
+1	molitor, k
+1	sax, m
+1	woodward, d o
+1	heath, d h
+1	brown, a h
+1	stirewalt, w s
+1	gurgo, c
+1	green, d e
+1	karno, m
+1	flood, k m
+1	moore, e j 2nd
+1	priester, l e
+1	nishimura, s
+1	gudeman, j e
+1	lasker, g w
+1	dobelle, w h
+1	fletcher, b
+1	tice, l w
+1	smith, r h
+1	baur, e w
+1	bernofsky, c
+1	russell, f e
+1	telfer, w h
+1	lee, c -p
+1	holtzapple, p g
+1	ishikura, h
+1	panagopoulos, p
+1	tappel, a l
+1	radda, g
+1	o'brien, r w
+1	diederich, a
+1	willett, r
+1	miller, k s
+1	azzi, a
+1	palay, s l
+1	tai, h
+1	albersheim, p
+1	kendall, w a
+1	feindt, w
+1	edwards, b f
+1	kang, b g
+1	bach, f h
+1	kettman, j
+1	zasloff, m
+1	mankovitz, r
+1	kanai, a
+1	schultz, s r
+1	garfinkel, d
+1	marble, c w
+1	schein, a h
+1	wool, i g
+1	randerath, k
+1	hyde, j s
+1	hiltner, s
+1	troud, r v
+1	strohl, g w
+1	diederich, d
+1	labanauska, m
+1	sabar, e f
+1	apirion, d
+1	lunt, m r
+1	castles, j j
+1	rajbhandary, u l
+1	mandel, a d
+1	murphy, e l
+1	anderson, l m
+1	leung, d y
+1	edwards, d l
+1	oster, i i
+1	leeds, a a
+1	gelehrter, t d
+1	breland, o p
+1	tedeschi, h
+1	greenes, r a
+1	meyers, c e
+1	walker, w h
+1	slater, j v
+1	crump-wiesner, h j
+1	hsu, c h
+1	maxwell, w a
+1	dobson, w j
+1	scherl, d j
+1	marks, w b
+1	miller, m j
+1	reynolds, o e
+1	french, d
+1	gruenwedel, d w
+1	williams, r
+1	michaeli, d
+1	bach, m l
+1	schuster, c r
+1	granner, d
+1	panter, r a
+1	browning, l s
+1	tomkins, g m
+1	christensen, h n
+1	whiting, a r
+1	keil, j e
+1	gutman, m
+1	luque, j
+1	english, p d
+1	balter, m b
+1	vainio, h
+1	ames, a 3rd
+1	ozawa, e
+1	larsen, m
+1	potter, r g
+1	grosch, d s
+1	kurzak, d
+1	smith, e e
+1	mellinger, g d
+1	mela, l
+1	mcconathy, w j
+1	pletcher, j
+1	calloway, d h
+1	nicholls, p
+1	grisolia, s
+1	burford, h j
+1	jones, t m
+1	milhorat, t h
+1	blatt, b a
+1	macnichol, e f jr
+1	joo, p
+1	webster, h d
+1	segal, h l
+1	kanai, k
+1	browning, h l
+1	ross, r n
+1	benjamini, e
+1	watts, c a
+1	alaupovic, p
+1	martin, g r
+1	chichester, c o
+1	goldberg, s r
+1	fisher, r r
+1	randerath, e
+1	pappalardo, a n
+1	wells, h j
+1	barnett, g o
+1	tupper, j t
+1	samuels, h h
+1	catsimpoolas, n
+1	quattrone, p d
+1	macht, l b
+1	martin, d jr
+1	berman, m
+1	caper, r a
+1	stern, j r
+1	klevecz, r r
+1	salach, j
+1	shapira, j
+1	handlogten, m e
+1	hurst, c g jr
+1	yount, r g
+1	reiss, u
+1	schlessinger, d
+1	kunin, a s
+1	furman, r h
+1	yamada, y
+1	anderegg, j w
+1	guillory, r j
+1	gill, j b
+1	michel, j f
+1	laties, a m
+1	taylor, n l
+1	sheppard, c w
+1	segal, s
+1	ehrenberg, a
+1	whelan, w j
+1	masnick, g s
+1	von borstel, r c
+1	harris, r a
+1	braimbridge, m v
+1	nass, s
+1	ochoa, s
+1	bell, n l
+1	seidel, d
+1	schorr, r t
+1	kainuma, k
+1	singer, t p
+1	purdy, w c
+1	sitkei, e g
+1	kimelberg, h k
+1	drummond, g s
+1	mudd, j b
+1	mochan, e
+1	putz, v
+1	biesele, j j
+1	shay, j w
+1	manheimer, d i
+1	smith, k u
+1	douglass, j h
+1	fielding, p e
+1	jarlfors, u
+1	bicknell, w j
+1	de serres, f j
+1	thompson, e b
+1	simmons, e e
+1	levenson, a i
+1	chio, k s
+
+*****MEDLINE PUBMED SHORT AUTHOR FREQUENCIES*****
+3	connors pg
+2	bock rm
+2	bade ml
+2	chance b
+2	smith ds
+2	young jd
+2	beeman ww
+2	locke m
+2	buckhold b
+2	labanauskas m
+2	gould bs
+2	wuerker rb
+2	taylor ol
+1	shapira j
+1	fielding pe
+1	wool ig
+1	castles jj
+1	blatt ba
+1	williams r
+1	handlogten me
+1	segal s
+1	bell nl
+1	bovee k
+1	guillory rj
+1	english pd
+1	leung dy
+1	ray pm
+1	masnick gs
+1	marble cw
+1	browning hl
+1	laties am
+1	braimbridge mv
+1	webster hd
+1	levenson ai
+1	willett r
+1	tappel al
+1	sheppard cw
+1	singer tp
+1	smith ee
+1	grisolia s
+1	sax m
+1	harris ra
+1	thompson eb
+1	tice lw
+1	joo p
+1	edwards bf
+1	lunt mr
+1	bicknell wj
+1	karno m
+1	hiltner s
+1	segal hl
+1	dobson wj
+1	quattrone pd
+1	nass s
+1	ames a 3rd
+1	breland op
+1	whelan wj
+1	bach fh
+1	larsen m
+1	potter rg
+1	keil je
+1	schlessinger d
+1	fisher rr
+1	randerath e
+1	chichester co
+1	alaupovic p
+1	manheimer di
+1	gutman m
+1	macnichol ef jr
+1	michel jf
+1	hsu ch
+1	leeds aa
+1	schorr rt
+1	tai h
+1	nishimura s
+1	whiting ar
+1	samuels hh
+1	browning ls
+1	rea cf
+1	shay jw
+1	de serres fj
+1	sabar ef
+1	pletcher j
+1	holtzapple pg
+1	strohl gw
+1	heath dh
+1	radda g
+1	kettman j
+1	putz v
+1	ozawa e
+1	ross rn
+1	fletcher b
+1	wells hj
+1	burford hj
+1	calloway dh
+1	tupper jt
+1	klevecz rr
+1	anderegg jw
+1	miller mj
+1	meyers ce
+1	taylor nl
+1	flood km
+1	kurzak d
+1	schein ah
+1	douglass jh
+1	martin gr
+1	panagopoulos p
+1	walker wh
+1	kimelberg hk
+1	milhorat th
+1	bernofsky c
+1	dobelle wh
+1	ehrenberg a
+1	gurgo c
+1	gruenwedel dw
+1	anderson lm
+1	moore ej 2nd
+1	catsimpoolas n
+1	mandel ad
+1	caper ra
+1	martin d jr
+1	mochan e
+1	granner d
+1	mela l
+1	yount rg
+1	barnett go
+1	french d
+1	rajbhandary ul
+1	troud rv
+1	mcconathy wj
+1	michaeli d
+1	reynolds oe
+1	ishikura h
+1	benjamini e
+1	russell fe
+1	schuster cr
+1	smith ku
+1	zasloff m
+1	watts ca
+1	jarlfors u
+1	murphy el
+1	apirion d
+1	baur ew
+1	chio ks
+1	azzi a
+1	furman rh
+1	marks wb
+1	kunin as
+1	kang bg
+1	schultz sr
+1	priester le
+1	crump-wiesner hj
+1	hurst cg jr
+1	diederich a
+1	ochoa s
+1	garfinkel d
+1	gill jb
+1	berman m
+1	scherl dj
+1	nicholls p
+1	bach ml
+1	molitor k
+1	randerath k
+1	o'brien rw
+1	purdy wc
+1	greenes ra
+1	brown ah
+1	balter mb
+1	lee c
+1	sitkei eg
+1	salach j
+1	maxwell wa
+1	edwards dl
+1	feindt w
+1	gudeman je
+1	woodward do
+1	vainio h
+1	stirewalt ws
+1	goldberg sr
+1	gelehrter td
+1	lasker gw
+1	slater jv
+1	tedeschi h
+1	simmons ee
+1	telfer wh
+1	von borstel rc
+1	albersheim p
+1	pappalardo an
+1	grosch ds
+1	jones tm
+1	drummond gs
+1	miller ks
+1	reiss u
+1	stern jr
+1	diederich d
+1	biesele jj
+1	palay sl
+1	hyde js
+1	labanauska m
+1	oster ii
+1	luque j
+1	smith rh
+1	macht lb
+1	mudd jb
+1	mankovitz r
+1	kainuma k
+1	kanai k
+1	green de
+1	christensen hn
+1	tomkins gm
+1	kanai a
+1	kendall wa
+1	seidel d
+1	panter ra
+1	yamada y
+1	mellinger gd
+
+*****MEDLINE PUBMED PUB FREQUENCIES*****
+<3,2,2,3,2,1,4,6,3,8,3,2,6,3,1,3,3,1,6,2,2,6,2,2,2,2,1,1,1,4,4,2,4,5,3,4,4,1,2,2,2,1,2,4,2,2,4,3,2,5,1,1,3,2,3,2,2,5,1,1,1,2,3,3,2,2,2,2,3,1,2,5,1,2,1,2,1,1,1,2,3,4,2,1,1,8,1,1,2,2,>

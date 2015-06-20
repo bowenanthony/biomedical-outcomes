@@ -1,0 +1,130 @@
+Date: 03/05/2015	 Scientist Search 1.7
+Data Retrieval Mode: medline, reflects file type source of PubMed data in following analysis.
+Publication Type Selection: journal article, Affiliation Restriction: none, reflects search constraints of PubMed data in following analysis.
+Keyword Mode Selection: none
+
+Year: 1860	Pubs: 169	IDs: 169	CSV Author Pubs: 0	Medline Author Pubs: 95
+		PM Max: 1	PM Num: 1	CSV Max: 0	CSV Num: 0	Medline Max: 1	Medline Num: 1
+		CSV IDs: 0	Medline IDs: 169
+
+Publication PubMed Count:<169>
+CSV Publications with Authors:<0>
+Medline Publications with Authors:<95>
+Retracted Publications:<0>
+Retractions Made:<0>
+CSV Unique authors:<0>
+Medline Unique authors:<36>
+Medline Unique short authors:<36>
+Medline Unique short first authors:<36>
+CSV Duplicate authors:<0>
+Medline Duplicate authors:<11>
+Medline Duplicate short authors:<11>
+CSV Duplicate author publications:<0>
+Medline Duplicate author publications:<70>
+CSV Authors per publication:<0>
+CSV APP max:<0>
+CSV APP min:<0>
+CSV APP var:<0>
+Medline Authors per publication:<1>
+Medline APP max:<1>
+Medline APP min:<1>
+Medline APP var:<0>
+Unique Journal Titles:<2>
+Unique Short Journal Titles:<2>
+Medline Publications per unique author:	4.69444444444444
+Medline Duplicate publications per duplicate author:	6.36363636363636
+Medline Duplicate authors / Unique authors	0.305555555555556
+
+
+*****JOURNAL PUB FREQUENCIES*****
+144	british medical journal
+25	medico-chirurgical transactions
+
+*****KEYWORDS LIST*****
+
+*****KEYWORDS FREQUENCIES*****
+<>
+
+*****CSV PUBMED AUTHOR FREQUENCIES*****
+
+*****CSV PUBMED PUB FREQUENCIES*****
+<>
+
+*****MEDLINE PUBMED AUTHOR FREQUENCIES*****
+22	beale, l
+9	richardson, b w
+7	henry, a
+6	tamplin, r w
+6	guy, w a
+6	walton, h
+5	erichsen, j
+3	johnson, a a
+2	russell, j
+2	rouse, j
+2	lee, r
+1	balfour, t g
+1	dickinson, w h
+1	ringer, s
+1	brodhurst, b e
+1	adams, j
+1	curling, t b
+1	webster, j
+1	ogle, j w
+1	habershon, s o
+1	jenner, w
+1	messer, j c
+1	toynbee, j
+1	wood, j
+1	hood, w c
+1	syme, j
+1	sansom, a e
+1	gaffney, c
+1	hulke, j w
+1	cursham, g
+1	holmes, t
+1	barker, t a
+1	weber, h
+1	lee, h
+1	bowles, r l
+1	jones, c h
+
+*****MEDLINE PUBMED SHORT AUTHOR FREQUENCIES*****
+22	beale l
+9	richardson bw
+7	henry a
+6	guy wa
+6	tamplin rw
+6	walton h
+5	erichsen j
+3	johnson aa
+2	rouse j
+2	russell j
+2	lee r
+1	holmes t
+1	messer jc
+1	jenner w
+1	syme j
+1	ringer s
+1	curling tb
+1	toynbee j
+1	hood wc
+1	sansom ae
+1	cursham g
+1	brodhurst be
+1	webster j
+1	lee h
+1	gaffney c
+1	wood j
+1	ogle jw
+1	adams j
+1	barker ta
+1	weber h
+1	jones ch
+1	balfour tg
+1	bowles rl
+1	habershon so
+1	dickinson wh
+1	hulke jw
+
+*****MEDLINE PUBMED PUB FREQUENCIES*****
+<1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,>

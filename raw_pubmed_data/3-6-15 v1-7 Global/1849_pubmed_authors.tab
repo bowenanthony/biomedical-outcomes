@@ -1,0 +1,185 @@
+Date: 03/05/2015	 Scientist Search 1.7
+Data Retrieval Mode: medline, reflects file type source of PubMed data in following analysis.
+Publication Type Selection: journal article, Affiliation Restriction: none, reflects search constraints of PubMed data in following analysis.
+Keyword Mode Selection: none
+
+Year: 1849	Pubs: 211	IDs: 211	CSV Author Pubs: 0	Medline Author Pubs: 104
+		PM Max: 1	PM Num: 1	CSV Max: 0	CSV Num: 0	Medline Max: 1	Medline Num: 1
+		CSV IDs: 0	Medline IDs: 211
+
+Publication PubMed Count:<211>
+CSV Publications with Authors:<0>
+Medline Publications with Authors:<104>
+Retracted Publications:<0>
+Retractions Made:<0>
+CSV Unique authors:<0>
+Medline Unique authors:<63>
+Medline Unique short authors:<63>
+Medline Unique short first authors:<63>
+CSV Duplicate authors:<0>
+Medline Duplicate authors:<17>
+Medline Duplicate short authors:<17>
+CSV Duplicate author publications:<0>
+Medline Duplicate author publications:<58>
+CSV Authors per publication:<0>
+CSV APP max:<0>
+CSV APP min:<0>
+CSV APP var:<0>
+Medline Authors per publication:<1>
+Medline APP max:<1>
+Medline APP min:<1>
+Medline APP var:<0>
+Unique Journal Titles:<3>
+Unique Short Journal Titles:<3>
+Medline Publications per unique author:	3.34920634920635
+Medline Duplicate publications per duplicate author:	3.41176470588235
+Medline Duplicate authors / Unique authors	0.26984126984127
+
+
+*****JOURNAL PUB FREQUENCIES*****
+186	provincial medical & surgical journal
+14	medico-chirurgical transactions
+11	london journal of medicine
+
+*****KEYWORDS LIST*****
+
+*****KEYWORDS FREQUENCIES*****
+<>
+
+*****CSV PUBMED AUTHOR FREQUENCIES*****
+
+*****CSV PUBMED PUB FREQUENCIES*****
+<>
+
+*****MEDLINE PUBMED AUTHOR FREQUENCIES*****
+16	humphry, g m
+6	ballard, e
+4	humpage, e
+3	copeman, e
+3	barrett, j
+3	spooner, e o
+3	newnham, w
+2	nunn, r s
+2	ranking, w h
+2	travers, b
+2	johnson, h
+2	edwards, s
+2	oke, w s
+2	toynbee, j
+2	crouch, j
+2	wardell, j r
+2	hunt, t
+1	smith, h l
+1	simpson, j y
+1	ward, t o
+1	george, r f
+1	dayman, h
+1	prichard, a
+1	burd, h e
+1	swayne, j g
+1	de bartolome, m m
+1	spry, e j
+1	tunstall, j
+1	norman, g
+1	burrows, j
+1	basham, w r
+1	tucker, j
+1	clark
+1	wright, j d
+1	davies, w
+1	routh, c h
+1	denton, s b
+1	jones, j d
+1	durrant, c m
+1	waldron, g
+1	parsons, j
+1	garlick, f s
+1	radford, t
+1	lane, b
+1	rainey, g
+1	reid, j
+1	hare, s
+1	duncan, p m
+1	dunn, r
+1	garrod, a b
+1	bennett, j r
+1	bedingfield, j
+1	dyer, s s
+1	bullar, j
+1	england, w
+1	mackenzie, w
+1	webster, j
+1	kingdon, c h
+1	bartrum, j s
+1	norris, w
+1	wade, r
+1	jeaffreson, w
+1	walford, t l
+
+*****MEDLINE PUBMED SHORT AUTHOR FREQUENCIES*****
+16	humphry gm
+6	ballard e
+4	humpage e
+3	copeman e
+3	newnham w
+3	barrett j
+3	spooner eo
+2	travers b
+2	oke ws
+2	nunn rs
+2	crouch j
+2	wardell jr
+2	ranking wh
+2	toynbee j
+2	hunt t
+2	johnson h
+2	edwards s
+1	hare s
+1	dunn r
+1	lane b
+1	parsons j
+1	radford t
+1	bullar j
+1	walford tl
+1	george rf
+1	simpson jy
+1	kingdon ch
+1	garrod ab
+1	bartrum js
+1	smith hl
+1	swayne jg
+1	burd he
+1	jones jd
+1	norman g
+1	reid j
+1	tunstall j
+1	wright jd
+1	jeaffreson w
+1	prichard a
+1	routh ch
+1	duncan pm
+1	bedingfield j
+1	de bartolome mm
+1	burrows j
+1	spry ej
+1	dayman h
+1	rainey g
+1	basham wr
+1	dyer ss
+1	denton sb
+1	wade r
+1	tucker j
+1	england w
+1	ward to
+1	norris w
+1	bennett jr
+1	mackenzie w
+1	waldron g
+1	davies w
+1	webster j
+1	durrant cm
+1	clark
+1	garlick fs
+
+*****MEDLINE PUBMED PUB FREQUENCIES*****
+<1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,>

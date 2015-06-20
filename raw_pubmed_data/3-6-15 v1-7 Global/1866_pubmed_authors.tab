@@ -1,0 +1,147 @@
+Date: 03/05/2015	 Scientist Search 1.7
+Data Retrieval Mode: medline, reflects file type source of PubMed data in following analysis.
+Publication Type Selection: journal article, Affiliation Restriction: none, reflects search constraints of PubMed data in following analysis.
+Keyword Mode Selection: none
+
+Year: 1866	Pubs: 144	IDs: 144	CSV Author Pubs: 0	Medline Author Pubs: 73
+		PM Max: 1	PM Num: 1	CSV Max: 0	CSV Num: 0	Medline Max: 1	Medline Num: 1
+		CSV IDs: 0	Medline IDs: 144
+
+Publication PubMed Count:<144>
+CSV Publications with Authors:<0>
+Medline Publications with Authors:<73>
+Retracted Publications:<0>
+Retractions Made:<0>
+CSV Unique authors:<0>
+Medline Unique authors:<44>
+Medline Unique short authors:<44>
+Medline Unique short first authors:<44>
+CSV Duplicate authors:<0>
+Medline Duplicate authors:<7>
+Medline Duplicate short authors:<7>
+CSV Duplicate author publications:<0>
+Medline Duplicate author publications:<36>
+CSV Authors per publication:<0>
+CSV APP max:<0>
+CSV APP min:<0>
+CSV APP var:<0>
+Medline Authors per publication:<1>
+Medline APP max:<1>
+Medline APP min:<1>
+Medline APP var:<0>
+Unique Journal Titles:<3>
+Unique Short Journal Titles:<3>
+Medline Publications per unique author:	3.27272727272727
+Medline Duplicate publications per duplicate author:	5.14285714285714
+Medline Duplicate authors / Unique authors	0.159090909090909
+
+
+*****JOURNAL PUB FREQUENCIES*****
+116	british medical journal
+17	medico-chirurgical transactions
+11	transactions of the american ophthalmological society
+
+*****KEYWORDS LIST*****
+
+*****KEYWORDS FREQUENCIES*****
+<>
+
+*****CSV PUBMED AUTHOR FREQUENCIES*****
+
+*****CSV PUBMED PUB FREQUENCIES*****
+<>
+
+*****MEDLINE PUBMED AUTHOR FREQUENCIES*****
+11	swain, w p
+9	johnson, g
+8	sieveking, e h
+2	hulke, j w
+2	allbutt, t c
+2	greenhow, e h
+2	salter, h
+1	humphreys, j r
+1	weber, h
+1	allin, c m
+1	bryant, t
+1	noyes, h d
+1	jeffries, b j
+1	holmes, t
+1	mayo, t
+1	noyes
+1	m'keand, r h
+1	fenwick, s
+1	harley, j
+1	gordon, s
+1	agnew, c r
+1	cooper, g l
+1	dyer, e
+1	murchison, c
+1	hutchinson, j
+1	moore, c h
+1	bartlett, j h
+1	page, f
+1	meryon, e
+1	hildreth, j g
+1	barker, t h
+1	althaus, j
+1	sands, h b
+1	derby, h
+1	down, j l
+1	liebreich, r
+1	williams, h w
+1	toynbee, j
+1	caddy, j
+1	hay, g
+1	squarey, c e
+1	gibson, f w
+1	sibley, s w
+1	alford, h j
+
+*****MEDLINE PUBMED SHORT AUTHOR FREQUENCIES*****
+11	swain wp
+9	johnson g
+8	sieveking eh
+2	salter h
+2	hulke jw
+2	allbutt tc
+2	greenhow eh
+1	liebreich r
+1	hay g
+1	murchison c
+1	jeffries bj
+1	moore ch
+1	bryant t
+1	squarey ce
+1	hutchinson j
+1	weber h
+1	williams hw
+1	caddy j
+1	bartlett jh
+1	hildreth jg
+1	m'keand rh
+1	page f
+1	derby h
+1	meryon e
+1	sands hb
+1	noyes hd
+1	down jl
+1	noyes
+1	althaus j
+1	cooper gl
+1	gordon s
+1	mayo t
+1	fenwick s
+1	agnew cr
+1	dyer e
+1	alford hj
+1	harley j
+1	humphreys jr
+1	toynbee j
+1	gibson fw
+1	allin cm
+1	barker th
+1	holmes t
+1	sibley sw
+
+*****MEDLINE PUBMED PUB FREQUENCIES*****
+<1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,>

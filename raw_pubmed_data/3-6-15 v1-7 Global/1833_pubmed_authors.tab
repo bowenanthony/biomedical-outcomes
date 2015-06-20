@@ -1,0 +1,77 @@
+Date: 03/05/2015	 Scientist Search 1.7
+Data Retrieval Mode: medline, reflects file type source of PubMed data in following analysis.
+Publication Type Selection: journal article, Affiliation Restriction: none, reflects search constraints of PubMed data in following analysis.
+Keyword Mode Selection: none
+
+Year: 1833	Pubs: 13	IDs: 13	CSV Author Pubs: 0	Medline Author Pubs: 13
+		PM Max: 1	PM Num: 1	CSV Max: 0	CSV Num: 0	Medline Max: 1	Medline Num: 1
+		CSV IDs: 0	Medline IDs: 13
+
+Publication PubMed Count:<13>
+CSV Publications with Authors:<0>
+Medline Publications with Authors:<13>
+Retracted Publications:<0>
+Retractions Made:<0>
+CSV Unique authors:<0>
+Medline Unique authors:<10>
+Medline Unique short authors:<10>
+Medline Unique short first authors:<10>
+CSV Duplicate authors:<0>
+Medline Duplicate authors:<3>
+Medline Duplicate short authors:<3>
+CSV Duplicate author publications:<0>
+Medline Duplicate author publications:<6>
+CSV Authors per publication:<0>
+CSV APP max:<0>
+CSV APP min:<0>
+CSV APP var:<0>
+Medline Authors per publication:<1>
+Medline APP max:<1>
+Medline APP min:<1>
+Medline APP var:<0>
+Unique Journal Titles:<1>
+Unique Short Journal Titles:<1>
+Medline Publications per unique author:	1.3
+Medline Duplicate publications per duplicate author:	2
+Medline Duplicate authors / Unique authors	0.3
+
+
+*****JOURNAL PUB FREQUENCIES*****
+13	medico-chirurgical transactions
+
+*****KEYWORDS LIST*****
+
+*****KEYWORDS FREQUENCIES*****
+<>
+
+*****CSV PUBMED AUTHOR FREQUENCIES*****
+
+*****CSV PUBMED PUB FREQUENCIES*****
+<>
+
+*****MEDLINE PUBMED AUTHOR FREQUENCIES*****
+2	hawkins, c
+2	elliotson, j
+2	stanley, e
+1	sims, j
+1	lloyd, e a
+1	arnott, j m
+1	key, c a
+1	macilwain, g
+1	langstaff, g
+1	bright, r
+
+*****MEDLINE PUBMED SHORT AUTHOR FREQUENCIES*****
+2	hawkins c
+2	elliotson j
+2	stanley e
+1	key ca
+1	lloyd ea
+1	sims j
+1	bright r
+1	arnott jm
+1	langstaff g
+1	macilwain g
+
+*****MEDLINE PUBMED PUB FREQUENCIES*****
+<1,1,1,1,1,1,1,1,1,1,1,1,1,>

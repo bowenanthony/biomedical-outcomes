@@ -1,0 +1,212 @@
+Date: 03/05/2015	 Scientist Search 1.7
+Data Retrieval Mode: medline, reflects file type source of PubMed data in following analysis.
+Publication Type Selection: journal article, Affiliation Restriction: none, reflects search constraints of PubMed data in following analysis.
+Keyword Mode Selection: none
+
+Year: 1840	Pubs: 146	IDs: 146	CSV Author Pubs: 0	Medline Author Pubs: 87
+		PM Max: 1	PM Num: 1	CSV Max: 0	CSV Num: 0	Medline Max: 1	Medline Num: 1
+		CSV IDs: 0	Medline IDs: 146
+
+Publication PubMed Count:<146>
+CSV Publications with Authors:<0>
+Medline Publications with Authors:<87>
+Retracted Publications:<0>
+Retractions Made:<0>
+CSV Unique authors:<0>
+Medline Unique authors:<77>
+Medline Unique short authors:<77>
+Medline Unique short first authors:<67>
+CSV Duplicate authors:<0>
+Medline Duplicate authors:<16>
+Medline Duplicate short authors:<16>
+CSV Duplicate author publications:<0>
+Medline Duplicate author publications:<39>
+CSV Authors per publication:<0>
+CSV APP max:<0>
+CSV APP min:<0>
+CSV APP var:<0>
+Medline Authors per publication:<1.14942528735632>
+Medline APP max:<6>
+Medline APP min:<1>
+Medline APP var:<0.425947945567445>
+Unique Journal Titles:<2>
+Unique Short Journal Titles:<2>
+Medline Publications per unique author:	1.8961038961039
+Medline Duplicate publications per duplicate author:	2.4375
+Medline Duplicate authors / Unique authors	0.207792207792208
+
+
+*****JOURNAL PUB FREQUENCIES*****
+122	provincial medical & surgical journal
+24	medico-chirurgical transactions
+
+*****KEYWORDS LIST*****
+
+*****KEYWORDS FREQUENCIES*****
+<>
+
+*****CSV PUBMED AUTHOR FREQUENCIES*****
+
+*****CSV PUBMED PUB FREQUENCIES*****
+<>
+
+*****MEDLINE PUBMED AUTHOR FREQUENCIES*****
+7	cooper, b b
+4	lucas, p b
+2	stanley, e
+2	chambers, r
+2	fife, g
+2	green, p h
+2	harvey, g
+2	walsh, t w
+2	hall, m
+2	macartney, j
+2	boyd, r
+2	carter, c t
+2	brodie, b c
+2	black, j
+2	travers, b
+2	bree, c r
+1	rayner, j
+1	gavarret
+1	liston, r
+1	franz, a
+1	wardrop, j j
+1	lynch, m h
+1	gratian, n
+1	downing, c t
+1	banner
+1	bushnan, j s
+1	alcock, r
+1	barlow, g h
+1	wickham, w
+1	solly, s
+1	turner, t
+1	valentine, j
+1	hastings
+1	tweedie, a
+1	bottomly, g
+1	wiblin, j
+1	greenhow, t w
+1	stafford, r a
+1	hisern, j
+1	pettigrew, w v
+1	clendinning, j
+1	guerin, m j
+1	teale, t p
+1	martin, a
+1	stevens, r
+1	gulliver, g
+1	maclagan, d
+1	wilks, g a
+1	eland, j l
+1	hawkins, c h
+1	beddome, j r
+1	howell, j
+1	symonds
+1	lever, j c
+1	burton, h
+1	dalrymple, j
+1	paget, j
+1	steggall, j
+1	glover
+1	macaulay, t b
+1	hastings, c
+1	meade, r h
+1	jones, h b
+1	bloxam, w
+1	baird
+1	curling, t b
+1	upton, r b
+1	thurnam, j
+1	budd, g
+1	jeffreys, t
+1	greenhow
+1	hingeston, r
+1	arnott, j m
+1	heath
+1	andral, m
+1	rager, j
+1	clendinning
+
+*****MEDLINE PUBMED SHORT AUTHOR FREQUENCIES*****
+7	cooper bb
+4	lucas pb
+2	fife g
+2	carter ct
+2	walsh tw
+2	brodie bc
+2	chambers r
+2	travers b
+2	hall m
+2	stanley e
+2	bree cr
+2	harvey g
+2	black j
+2	green ph
+2	macartney j
+2	boyd r
+1	stafford ra
+1	gavarret
+1	teale tp
+1	budd g
+1	barlow gh
+1	hastings c
+1	hawkins ch
+1	bottomly g
+1	hisern j
+1	banner
+1	maclagan d
+1	beddome jr
+1	bushnan js
+1	jeffreys t
+1	valentine j
+1	hastings
+1	rager j
+1	gulliver g
+1	steggall j
+1	alcock r
+1	dalrymple j
+1	burton h
+1	stevens r
+1	lever jc
+1	turner t
+1	meade rh
+1	rayner j
+1	liston r
+1	upton rb
+1	andral m
+1	tweedie a
+1	clendinning j
+1	symonds
+1	martin a
+1	downing ct
+1	curling tb
+1	lynch mh
+1	greenhow tw
+1	gratian n
+1	wardrop jj
+1	macaulay tb
+1	hingeston r
+1	wickham w
+1	eland jl
+1	paget j
+1	howell j
+1	bloxam w
+1	glover
+1	jones hb
+1	baird
+1	arnott jm
+1	wiblin j
+1	franz a
+1	greenhow
+1	guerin mj
+1	thurnam j
+1	solly s
+1	heath
+1	wilks ga
+1	pettigrew wv
+1	clendinning
+
+*****MEDLINE PUBMED PUB FREQUENCIES*****
+<6,1,2,1,1,1,1,2,1,1,1,1,1,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,4,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,>

@@ -1,0 +1,132 @@
+Date: 03/05/2015	 Scientist Search 1.7
+Data Retrieval Mode: medline, reflects file type source of PubMed data in following analysis.
+Publication Type Selection: journal article, Affiliation Restriction: none, reflects search constraints of PubMed data in following analysis.
+Keyword Mode Selection: none
+
+Year: 1861	Pubs: 202	IDs: 202	CSV Author Pubs: 0	Medline Author Pubs: 89
+		PM Max: 1	PM Num: 1	CSV Max: 0	CSV Num: 0	Medline Max: 1	Medline Num: 1
+		CSV IDs: 0	Medline IDs: 202
+
+Publication PubMed Count:<202>
+CSV Publications with Authors:<0>
+Medline Publications with Authors:<89>
+Retracted Publications:<0>
+Retractions Made:<0>
+CSV Unique authors:<0>
+Medline Unique authors:<37>
+Medline Unique short authors:<37>
+Medline Unique short first authors:<37>
+CSV Duplicate authors:<0>
+Medline Duplicate authors:<14>
+Medline Duplicate short authors:<14>
+CSV Duplicate author publications:<0>
+Medline Duplicate author publications:<66>
+CSV Authors per publication:<0>
+CSV APP max:<0>
+CSV APP min:<0>
+CSV APP var:<0>
+Medline Authors per publication:<1>
+Medline APP max:<1>
+Medline APP min:<1>
+Medline APP var:<0>
+Unique Journal Titles:<2>
+Unique Short Journal Titles:<2>
+Medline Publications per unique author:	5.45945945945946
+Medline Duplicate publications per duplicate author:	4.71428571428571
+Medline Duplicate authors / Unique authors	0.378378378378378
+
+
+*****JOURNAL PUB FREQUENCIES*****
+182	british medical journal
+20	medico-chirurgical transactions
+
+*****KEYWORDS LIST*****
+
+*****KEYWORDS FREQUENCIES*****
+<>
+
+*****CSV PUBMED AUTHOR FREQUENCIES*****
+
+*****CSV PUBMED PUB FREQUENCIES*****
+<>
+
+*****MEDLINE PUBMED AUTHOR FREQUENCIES*****
+17	hewitt, g
+9	latham, p m
+7	budd, w
+6	chambers, t k
+5	lee, h
+4	beale, l
+3	wells, t s
+3	priestley, w o
+2	jones, c h
+2	wordsworth, j c
+2	hutchinson, j
+2	toynbee, j
+2	syme, j
+2	jackson, v
+1	lee, r
+1	fox, e l
+1	pemberton, o
+1	alderson, j
+1	weber, h
+1	waters, a t
+1	paget, t
+1	humphry, g m
+1	markham, w o
+1	bryant, t
+1	sieveking, e h
+1	cornish, c h
+1	meadows, d
+1	bullar, j
+1	heaton, j d
+1	sibley, s w
+1	hulme, e c
+1	dickinson, w h
+1	adams, j
+1	brodie, b c
+1	wade, w f
+1	down, j l
+1	de morgan, c
+
+*****MEDLINE PUBMED SHORT AUTHOR FREQUENCIES*****
+17	hewitt g
+9	latham pm
+7	budd w
+6	chambers tk
+5	lee h
+4	beale l
+3	wells ts
+3	priestley wo
+2	jackson v
+2	jones ch
+2	hutchinson j
+2	wordsworth jc
+2	syme j
+2	toynbee j
+1	adams j
+1	sieveking eh
+1	fox el
+1	wade wf
+1	meadows d
+1	weber h
+1	pemberton o
+1	cornish ch
+1	waters at
+1	dickinson wh
+1	alderson j
+1	brodie bc
+1	bryant t
+1	lee r
+1	humphry gm
+1	bullar j
+1	markham wo
+1	de morgan c
+1	sibley sw
+1	heaton jd
+1	paget t
+1	hulme ec
+1	down jl
+
+*****MEDLINE PUBMED PUB FREQUENCIES*****
+<1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,>

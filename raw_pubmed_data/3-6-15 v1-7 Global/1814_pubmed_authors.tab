@@ -1,0 +1,107 @@
+Date: 03/05/2015	 Scientist Search 1.7
+Data Retrieval Mode: medline, reflects file type source of PubMed data in following analysis.
+Publication Type Selection: journal article, Affiliation Restriction: none, reflects search constraints of PubMed data in following analysis.
+Keyword Mode Selection: none
+
+Year: 1814	Pubs: 29	IDs: 29	CSV Author Pubs: 0	Medline Author Pubs: 27
+		PM Max: 1	PM Num: 1	CSV Max: 0	CSV Num: 0	Medline Max: 1	Medline Num: 1
+		CSV IDs: 0	Medline IDs: 29
+
+Publication PubMed Count:<29>
+CSV Publications with Authors:<0>
+Medline Publications with Authors:<27>
+Retracted Publications:<0>
+Retractions Made:<0>
+CSV Unique authors:<0>
+Medline Unique authors:<25>
+Medline Unique short authors:<25>
+Medline Unique short first authors:<25>
+CSV Duplicate authors:<0>
+Medline Duplicate authors:<2>
+Medline Duplicate short authors:<2>
+CSV Duplicate author publications:<0>
+Medline Duplicate author publications:<4>
+CSV Authors per publication:<0>
+CSV APP max:<0>
+CSV APP min:<0>
+CSV APP var:<0>
+Medline Authors per publication:<1>
+Medline APP max:<1>
+Medline APP min:<1>
+Medline APP var:<0>
+Unique Journal Titles:<1>
+Unique Short Journal Titles:<1>
+Medline Publications per unique author:	1.16
+Medline Duplicate publications per duplicate author:	2
+Medline Duplicate authors / Unique authors	0.08
+
+
+*****JOURNAL PUB FREQUENCIES*****
+29	medico-chirurgical transactions
+
+*****KEYWORDS LIST*****
+
+*****KEYWORDS FREQUENCIES*****
+<>
+
+*****CSV PUBMED AUTHOR FREQUENCIES*****
+
+*****CSV PUBMED PUB FREQUENCIES*****
+<>
+
+*****MEDLINE PUBMED AUTHOR FREQUENCIES*****
+2	wardrop, j
+2	brodie, b c
+1	graham, r
+1	bampfield, r w
+1	travers, b
+1	macgregor, p
+1	henry, w
+1	hutchison, a c
+1	money, w
+1	stewart, d
+1	denmark, a
+1	forster, t
+1	cheston, r b
+1	ware, j
+1	somerville, w
+1	stevens, w
+1	watt, r
+1	lawrence, w
+1	chevalier, t
+1	coley, j m
+1	bateman, t
+1	wilson, t
+1	clark, j
+1	bostock, j
+1	earle, h
+
+*****MEDLINE PUBMED SHORT AUTHOR FREQUENCIES*****
+2	wardrop j
+2	brodie bc
+1	bampfield rw
+1	cheston rb
+1	forster t
+1	lawrence w
+1	somerville w
+1	stevens w
+1	coley jm
+1	denmark a
+1	hutchison ac
+1	money w
+1	stewart d
+1	earle h
+1	macgregor p
+1	bateman t
+1	travers b
+1	watt r
+1	bostock j
+1	graham r
+1	wilson t
+1	clark j
+1	ware j
+1	chevalier t
+1	henry w
+
+*****MEDLINE PUBMED PUB FREQUENCIES*****
+<1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,>

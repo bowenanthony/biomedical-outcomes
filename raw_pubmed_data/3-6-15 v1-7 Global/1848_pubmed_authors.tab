@@ -1,0 +1,218 @@
+Date: 03/05/2015	 Scientist Search 1.7
+Data Retrieval Mode: medline, reflects file type source of PubMed data in following analysis.
+Publication Type Selection: journal article, Affiliation Restriction: none, reflects search constraints of PubMed data in following analysis.
+Keyword Mode Selection: none
+
+Year: 1848	Pubs: 245	IDs: 245	CSV Author Pubs: 0	Medline Author Pubs: 125
+		PM Max: 1	PM Num: 1	CSV Max: 0	CSV Num: 0	Medline Max: 1	Medline Num: 1
+		CSV IDs: 0	Medline IDs: 245
+
+Publication PubMed Count:<245>
+CSV Publications with Authors:<0>
+Medline Publications with Authors:<125>
+Retracted Publications:<0>
+Retractions Made:<0>
+CSV Unique authors:<0>
+Medline Unique authors:<80>
+Medline Unique short authors:<80>
+Medline Unique short first authors:<79>
+CSV Duplicate authors:<0>
+Medline Duplicate authors:<16>
+Medline Duplicate short authors:<16>
+CSV Duplicate author publications:<0>
+Medline Duplicate author publications:<63>
+CSV Authors per publication:<0>
+CSV APP max:<0>
+CSV APP min:<0>
+CSV APP var:<0>
+Medline Authors per publication:<1.016>
+Medline APP max:<2>
+Medline APP min:<1>
+Medline APP var:<0.015744>
+Unique Journal Titles:<2>
+Unique Short Journal Titles:<2>
+Medline Publications per unique author:	3.0625
+Medline Duplicate publications per duplicate author:	3.9375
+Medline Duplicate authors / Unique authors	0.2
+
+
+*****JOURNAL PUB FREQUENCIES*****
+217	provincial medical & surgical journal
+28	medico-chirurgical transactions
+
+*****KEYWORDS LIST*****
+
+*****KEYWORDS FREQUENCIES*****
+<>
+
+*****CSV PUBMED AUTHOR FREQUENCIES*****
+
+*****CSV PUBMED PUB FREQUENCIES*****
+<>
+
+*****MEDLINE PUBMED AUTHOR FREQUENCIES*****
+12	oke, w s
+10	wardell, j r
+8	simpson, j y
+6	newnham, w
+3	bell, c w
+3	todd, r b
+3	ranking, w h
+2	roe, e t
+2	hunt, t
+2	vines, c
+2	herapath, w b
+2	duncan, p m
+2	hensley, f j
+2	thurnam, j
+2	humphry, g m
+2	hilton, j
+1	hodgkin, t
+1	toogood, j
+1	lloyd, j
+1	gabb, j
+1	bryan, j m
+1	williams, h l
+1	whitehead, j
+1	sibson, f
+1	page, w b
+1	quain, r
+1	locock, c
+1	fergusson, w
+1	garrod, a b
+1	arnecaple, c
+1	watson, g c
+1	paris, j a
+1	day, e w
+1	reid, j
+1	markwick, a
+1	dalrymple, d
+1	blackmore, e
+1	seddon, j
+1	budd, h w
+1	spooner, e o
+1	dyer, s s
+1	phillips, b
+1	bush, w
+1	cowan, c
+1	davies, w
+1	boult, e
+1	rump, h r
+1	massy, t
+1	torr, t b
+1	arnott, j m
+1	barker, t a
+1	peacock, t b
+1	west, r u
+1	rose, c b
+1	fergus, w
+1	m whinnie, a m
+1	rainey, g
+1	thompson, t
+1	druitt, r
+1	paget, j
+1	black, j
+1	denton, s b
+1	lever, j c
+1	barclay, a w
+1	henry, m
+1	daniell, j b
+1	barham, c
+1	ballard, e
+1	ward, t o
+1	copeman, e
+1	hall, m
+1	imlach, h
+1	ray, e
+1	allan, j
+1	hawkins, f
+1	prankerd, j
+1	norman, g
+1	kennion, g
+1	dyer, j
+1	luke, j
+
+*****MEDLINE PUBMED SHORT AUTHOR FREQUENCIES*****
+12	oke ws
+10	wardell jr
+8	simpson jy
+6	newnham w
+3	todd rb
+3	ranking wh
+3	bell cw
+2	duncan pm
+2	thurnam j
+2	hunt t
+2	herapath wb
+2	roe et
+2	humphry gm
+2	hilton j
+2	vines c
+2	hensley fj
+1	hodgkin t
+1	hall m
+1	seddon j
+1	dyer j
+1	dyer ss
+1	denton sb
+1	markwick a
+1	rainey g
+1	rump hr
+1	kennion g
+1	thompson t
+1	whitehead j
+1	bush w
+1	paris ja
+1	sibson f
+1	fergus w
+1	rose cb
+1	quain r
+1	henry m
+1	davies w
+1	m whinnie am
+1	boult e
+1	allan j
+1	ray e
+1	black j
+1	dalrymple d
+1	watson gc
+1	paget j
+1	spooner eo
+1	arnecaple c
+1	ward to
+1	garrod ab
+1	barclay aw
+1	torr tb
+1	lloyd j
+1	budd hw
+1	massy t
+1	lever jc
+1	fergusson w
+1	west ru
+1	toogood j
+1	druitt r
+1	imlach h
+1	arnott jm
+1	blackmore e
+1	bryan jm
+1	williams hl
+1	page wb
+1	cowan c
+1	daniell jb
+1	hawkins f
+1	prankerd j
+1	locock c
+1	copeman e
+1	ballard e
+1	luke j
+1	day ew
+1	phillips b
+1	barham c
+1	norman g
+1	gabb j
+1	reid j
+1	peacock tb
+1	barker ta
+
+*****MEDLINE PUBMED PUB FREQUENCIES*****
+<1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,>

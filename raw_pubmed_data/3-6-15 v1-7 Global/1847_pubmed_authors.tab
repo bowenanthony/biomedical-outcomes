@@ -1,0 +1,238 @@
+Date: 03/05/2015	 Scientist Search 1.7
+Data Retrieval Mode: medline, reflects file type source of PubMed data in following analysis.
+Publication Type Selection: journal article, Affiliation Restriction: none, reflects search constraints of PubMed data in following analysis.
+Keyword Mode Selection: none
+
+Year: 1847	Pubs: 241	IDs: 241	CSV Author Pubs: 0	Medline Author Pubs: 138
+		PM Max: 1	PM Num: 1	CSV Max: 0	CSV Num: 0	Medline Max: 1	Medline Num: 1
+		CSV IDs: 0	Medline IDs: 241
+
+Publication PubMed Count:<241>
+CSV Publications with Authors:<0>
+Medline Publications with Authors:<138>
+Retracted Publications:<0>
+Retractions Made:<0>
+CSV Unique authors:<0>
+Medline Unique authors:<90>
+Medline Unique short authors:<90>
+Medline Unique short first authors:<88>
+CSV Duplicate authors:<0>
+Medline Duplicate authors:<26>
+Medline Duplicate short authors:<26>
+CSV Duplicate author publications:<0>
+Medline Duplicate author publications:<76>
+CSV Authors per publication:<0>
+CSV APP max:<0>
+CSV APP min:<0>
+CSV APP var:<0>
+Medline Authors per publication:<1.01449275362319>
+Medline APP max:<2>
+Medline APP min:<1>
+Medline APP var:<0.014282713715606>
+Unique Journal Titles:<2>
+Unique Short Journal Titles:<2>
+Medline Publications per unique author:	2.67777777777778
+Medline Duplicate publications per duplicate author:	2.92307692307692
+Medline Duplicate authors / Unique authors	0.288888888888889
+
+
+*****JOURNAL PUB FREQUENCIES*****
+221	provincial medical & surgical journal
+20	medico-chirurgical transactions
+
+*****KEYWORDS LIST*****
+
+*****KEYWORDS FREQUENCIES*****
+<>
+
+*****CSV PUBMED AUTHOR FREQUENCIES*****
+
+*****CSV PUBMED PUB FREQUENCIES*****
+<>
+
+*****MEDLINE PUBMED AUTHOR FREQUENCIES*****
+11	addison, w
+7	basham, w r
+6	wardell, j r
+4	spry, e j
+4	rilliet
+3	hawkins, c
+3	wells, e
+2	image, w e
+2	shearman, e j
+2	barrow, b
+2	belcombe, h s
+2	arnecaple, c
+2	brookes, w p
+2	banner, j m
+2	paxton, j
+2	durrant, c m
+2	black, j
+2	radford, t
+2	edwards, s
+2	norman, g
+2	worthington, w c
+2	daniell, e
+2	simpson, j y
+2	clark, f le g
+2	barham, c
+2	copeman, e
+1	fearn, s w
+1	jones, j
+1	cantrell, w
+1	whitehead, j
+1	arrowsmith, r
+1	clark, h
+1	todd, r b
+1	trousdale, w m
+1	hunt, t
+1	bree, c r
+1	watson, k
+1	jones, h b
+1	southam, g
+1	barker, t h
+1	napper, a
+1	ormerod, e l
+1	dehane, e f
+1	salter, t
+1	anderton, c
+1	storrs, r
+1	birkett, j
+1	higginbottom, j
+1	johnstone, j
+1	seddom, j
+1	burrows, g
+1	sloman, s g
+1	jesse, j
+1	johnson, g
+1	bryan, j
+1	jackson, w
+1	powell, r h
+1	lane, b
+1	simon, j
+1	oke, w s
+1	peacock, t b
+1	gill, w
+1	bird, g
+1	ranking, w h
+1	arnott, j m
+1	wood, j e
+1	brownbilll, t f
+1	boult, e
+1	davies, w
+1	marson, j f
+1	chalmers, d
+1	barrett, t
+1	fife, g
+1	west, j w
+1	hewett, p
+1	pickess, h b
+1	de bartolome, m m
+1	carter, m
+1	alnecaple, c
+1	bottomley, g
+1	hake, t g
+1	m'donald, d
+1	hawkins, f
+1	hilton, j
+1	barclay, j
+1	wills, g f
+1	shapter, t
+1	carlyon, c
+1	burd, h e
+1	prichard, a
+
+*****MEDLINE PUBMED SHORT AUTHOR FREQUENCIES*****
+11	addison w
+7	basham wr
+6	wardell jr
+4	spry ej
+4	rilliet
+3	hawkins c
+3	wells e
+2	simpson jy
+2	image we
+2	daniell e
+2	clark fle g
+2	brookes wp
+2	shearman ej
+2	radford t
+2	barham c
+2	norman g
+2	barrow b
+2	copeman e
+2	belcombe hs
+2	worthington wc
+2	durrant cm
+2	paxton j
+2	banner jm
+2	arnecaple c
+2	black j
+2	edwards s
+1	brownbilll tf
+1	hilton j
+1	gill w
+1	ormerod el
+1	napper a
+1	carlyon c
+1	m'donald d
+1	jesse j
+1	burrows g
+1	oke ws
+1	lane b
+1	simon j
+1	trousdale wm
+1	southam g
+1	barclay j
+1	alnecaple c
+1	wills gf
+1	hawkins f
+1	bryan j
+1	prichard a
+1	storrs r
+1	jones hb
+1	arnott jm
+1	jackson w
+1	peacock tb
+1	burd he
+1	johnson g
+1	jones j
+1	birkett j
+1	west jw
+1	hewett p
+1	dehane ef
+1	barrett t
+1	ranking wh
+1	wood je
+1	bree cr
+1	salter t
+1	todd rb
+1	johnstone j
+1	higginbottom j
+1	fearn sw
+1	bird g
+1	hake tg
+1	de bartolome mm
+1	bottomley g
+1	pickess hb
+1	marson jf
+1	sloman sg
+1	fife g
+1	chalmers d
+1	whitehead j
+1	davies w
+1	arrowsmith r
+1	seddom j
+1	carter m
+1	shapter t
+1	clark h
+1	anderton c
+1	hunt t
+1	cantrell w
+1	powell rh
+1	boult e
+1	barker th
+1	watson k
+
+*****MEDLINE PUBMED PUB FREQUENCIES*****
+<1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,2,1,>

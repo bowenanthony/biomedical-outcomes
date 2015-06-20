@@ -1,0 +1,121 @@
+Date: 03/07/2015	 Scientist Search 1.7
+Data Retrieval Mode: medline, reflects file type source of PubMed data in following analysis.
+Publication Type Selection: journal article, Affiliation Restriction: USA, reflects search constraints of PubMed data in following analysis.
+Keyword Mode Selection: none
+
+Year: 1964	Pubs: 18	IDs: 18	CSV Author Pubs: 0	Medline Author Pubs: 18
+		PM Max: 1	PM Num: 1	CSV Max: 0	CSV Num: 0	Medline Max: 1	Medline Num: 1
+		CSV IDs: 0	Medline IDs: 18
+
+Publication PubMed Count:<18>
+CSV Publications with Authors:<0>
+Medline Publications with Authors:<18>
+Retracted Publications:<0>
+Retractions Made:<0>
+CSV Unique authors:<0>
+Medline Unique authors:<32>
+Medline Unique short authors:<32>
+Medline Unique short first authors:<18>
+CSV Duplicate authors:<0>
+Medline Duplicate authors:<1>
+Medline Duplicate short authors:<1>
+CSV Duplicate author publications:<0>
+Medline Duplicate author publications:<2>
+CSV Authors per publication:<0>
+CSV APP max:<0>
+CSV APP min:<0>
+CSV APP var:<0>
+Medline Authors per publication:<1.83333333333333>
+Medline APP max:<5>
+Medline APP min:<1>
+Medline APP var:<1.47222222222222>
+Unique Journal Titles:<1>
+Unique Short Journal Titles:<1>
+Medline Publications per unique author:	0.5625
+Medline Duplicate publications per duplicate author:	2
+Medline Duplicate authors / Unique authors	0.03125
+
+
+*****JOURNAL PUB FREQUENCIES*****
+18	life sciences and space research
+
+*****KEYWORDS LIST*****
+
+*****KEYWORDS FREQUENCIES*****
+<>
+
+*****CSV PUBMED AUTHOR FREQUENCIES*****
+
+*****CSV PUBMED PUB FREQUENCIES*****
+<>
+
+*****MEDLINE PUBMED AUTHOR FREQUENCIES*****
+2	sagan, c
+1	neuman, w f
+1	hauty, g t
+1	calvin, m
+1	deal, p h
+1	heim, a h
+1	horowitz, n h
+1	bruch, c w
+1	keller, w h
+1	myers, j
+1	adey, w r
+1	levin, g v
+1	scher, s
+1	rasool, s i
+1	allen, j l
+1	trexler, p c
+1	mamikunian, g
+1	young, r s
+1	davis, n s
+1	beem, d r
+1	thompson, m f
+1	silverman, g j
+1	belsky, t
+1	rea, d g
+1	yagoda, h
+1	bell, j
+1	briggs, m h
+1	graveline, d e
+1	packer, e
+1	jaffe, l d
+1	jastrow, r
+1	opfell, j b
+
+*****MEDLINE PUBMED SHORT AUTHOR FREQUENCIES*****
+2	sagan c
+1	bell j
+1	davis ns
+1	mamikunian g
+1	graveline de
+1	beem dr
+1	myers j
+1	belsky t
+1	scher s
+1	opfell jb
+1	keller wh
+1	adey wr
+1	young rs
+1	deal ph
+1	thompson mf
+1	hauty gt
+1	bruch cw
+1	heim ah
+1	rasool si
+1	briggs mh
+1	yagoda h
+1	allen jl
+1	jastrow r
+1	rea dg
+1	horowitz nh
+1	neuman wf
+1	packer e
+1	jaffe ld
+1	levin gv
+1	silverman gj
+1	calvin m
+1	trexler pc
+
+*****MEDLINE PUBMED PUB FREQUENCIES*****
+<1,1,1,3,1,3,1,3,2,1,1,2,1,1,1,5,4,1,>

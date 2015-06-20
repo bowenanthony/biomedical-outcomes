@@ -1,0 +1,114 @@
+Date: 03/05/2015	 Scientist Search 1.7
+Data Retrieval Mode: medline, reflects file type source of PubMed data in following analysis.
+Publication Type Selection: journal article, Affiliation Restriction: none, reflects search constraints of PubMed data in following analysis.
+Keyword Mode Selection: none
+
+Year: 1818	Pubs: 33	IDs: 33	CSV Author Pubs: 0	Medline Author Pubs: 29
+		PM Max: 1	PM Num: 1	CSV Max: 0	CSV Num: 0	Medline Max: 1	Medline Num: 1
+		CSV IDs: 0	Medline IDs: 33
+
+Publication PubMed Count:<33>
+CSV Publications with Authors:<0>
+Medline Publications with Authors:<29>
+Retracted Publications:<0>
+Retractions Made:<0>
+CSV Unique authors:<0>
+Medline Unique authors:<29>
+Medline Unique short authors:<29>
+Medline Unique short first authors:<29>
+CSV Duplicate authors:<0>
+Medline Duplicate authors:<0>
+Medline Duplicate short authors:<0>
+CSV Duplicate author publications:<0>
+Medline Duplicate author publications:<0>
+CSV Authors per publication:<0>
+CSV APP max:<0>
+CSV APP min:<0>
+CSV APP var:<0>
+Medline Authors per publication:<1>
+Medline APP max:<1>
+Medline APP min:<1>
+Medline APP var:<0>
+Unique Journal Titles:<1>
+Unique Short Journal Titles:<1>
+Medline Publications per unique author:	1.13793103448276
+Medline Duplicate authors / Unique authors	0
+
+
+*****JOURNAL PUB FREQUENCIES*****
+33	medico-chirurgical transactions
+
+*****KEYWORDS LIST*****
+
+*****KEYWORDS FREQUENCIES*****
+<>
+
+*****CSV PUBMED AUTHOR FREQUENCIES*****
+
+*****CSV PUBMED PUB FREQUENCIES*****
+<>
+
+*****MEDLINE PUBMED AUTHOR FREQUENCIES*****
+1	rumsey, n
+1	martin, p j
+1	howship, j
+1	breschet, g
+1	nicholl, w
+1	bostock, j
+1	locher, j j
+1	post
+1	phillips, e
+1	bruce, n
+1	swan, j
+1	kennedy
+1	vose, j
+1	maunior, j p
+1	albers, j a
+1	cansardine, h h
+1	chapman, j
+1	langstaff, g
+1	wood, k
+1	bateman, t
+1	arnold
+1	musgrave, a
+1	prout, w
+1	hutchison, a c
+1	travers, b
+1	badeley
+1	maunoir, j p
+1	wardrop, j
+1	blundell, j
+
+*****MEDLINE PUBMED SHORT AUTHOR FREQUENCIES*****
+1	kennedy
+1	maunoir jp
+1	maunior jp
+1	phillips e
+1	nicholl w
+1	chapman j
+1	cansardine hh
+1	post
+1	wardrop j
+1	musgrave a
+1	bostock j
+1	blundell j
+1	travers b
+1	breschet g
+1	howship j
+1	hutchison ac
+1	badeley
+1	prout w
+1	locher jj
+1	albers ja
+1	vose j
+1	swan j
+1	langstaff g
+1	bruce n
+1	martin pj
+1	rumsey n
+1	arnold
+1	bateman t
+1	wood k
+
+*****MEDLINE PUBMED PUB FREQUENCIES*****
+<1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,>

@@ -1,0 +1,128 @@
+Date: 03/05/2015	 Scientist Search 1.7
+Data Retrieval Mode: medline, reflects file type source of PubMed data in following analysis.
+Publication Type Selection: journal article, Affiliation Restriction: none, reflects search constraints of PubMed data in following analysis.
+Keyword Mode Selection: none
+
+Year: 1858	Pubs: 235	IDs: 235	CSV Author Pubs: 0	Medline Author Pubs: 51
+		PM Max: 1	PM Num: 1	CSV Max: 0	CSV Num: 0	Medline Max: 1	Medline Num: 1
+		CSV IDs: 0	Medline IDs: 235
+
+Publication PubMed Count:<235>
+CSV Publications with Authors:<0>
+Medline Publications with Authors:<51>
+Retracted Publications:<0>
+Retractions Made:<0>
+CSV Unique authors:<0>
+Medline Unique authors:<35>
+Medline Unique short authors:<35>
+Medline Unique short first authors:<35>
+CSV Duplicate authors:<0>
+Medline Duplicate authors:<7>
+Medline Duplicate short authors:<7>
+CSV Duplicate author publications:<0>
+Medline Duplicate author publications:<23>
+CSV Authors per publication:<0>
+CSV APP max:<0>
+CSV APP min:<0>
+CSV APP var:<0>
+Medline Authors per publication:<1>
+Medline APP max:<1>
+Medline APP min:<1>
+Medline APP var:<0>
+Unique Journal Titles:<2>
+Unique Short Journal Titles:<2>
+Medline Publications per unique author:	6.71428571428571
+Medline Duplicate publications per duplicate author:	3.28571428571429
+Medline Duplicate authors / Unique authors	0.2
+
+
+*****JOURNAL PUB FREQUENCIES*****
+214	british medical journal
+21	medico-chirurgical transactions
+
+*****KEYWORDS LIST*****
+
+*****KEYWORDS FREQUENCIES*****
+<>
+
+*****CSV PUBMED AUTHOR FREQUENCIES*****
+
+*****CSV PUBMED PUB FREQUENCIES*****
+<>
+
+*****MEDLINE PUBMED AUTHOR FREQUENCIES*****
+6	martin, w
+4	rogers, g g
+3	windsor, j
+3	garrod, a b
+3	birkett, j
+2	lee, r
+2	murchison, c
+1	burd, e
+1	humphry, g m
+1	silvester, h r
+1	sloane, j
+1	dickin, w a
+1	humphreys, j r
+1	holmes, t
+1	coulson, w
+1	erichsen, j
+1	smart, r b
+1	roberts, w
+1	routh, c h
+1	bader, c
+1	hulke, j w
+1	marcet, w
+1	prichard, a
+1	moore, c h
+1	southam, g
+1	bozemann
+1	swain, p w
+1	smith, w t
+1	mackenzie, f w
+1	hawkins, c
+1	barry, j m
+1	sandwith, h
+1	ogle, j w
+1	tippetts, r
+1	fox, w
+
+*****MEDLINE PUBMED SHORT AUTHOR FREQUENCIES*****
+6	martin w
+4	rogers gg
+3	garrod ab
+3	birkett j
+3	windsor j
+2	murchison c
+2	lee r
+1	humphry gm
+1	smart rb
+1	hulke jw
+1	burd e
+1	silvester hr
+1	barry jm
+1	moore ch
+1	smith wt
+1	tippetts r
+1	bader c
+1	sloane j
+1	coulson w
+1	hawkins c
+1	southam g
+1	bozemann
+1	prichard a
+1	routh ch
+1	ogle jw
+1	roberts w
+1	sandwith h
+1	dickin wa
+1	humphreys jr
+1	erichsen j
+1	swain pw
+1	marcet w
+1	fox w
+1	mackenzie fw
+1	holmes t
+
+*****MEDLINE PUBMED PUB FREQUENCIES*****
+<1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,>

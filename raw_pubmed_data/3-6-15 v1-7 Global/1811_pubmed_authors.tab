@@ -1,0 +1,105 @@
+Date: 03/05/2015	 Scientist Search 1.7
+Data Retrieval Mode: medline, reflects file type source of PubMed data in following analysis.
+Publication Type Selection: journal article, Affiliation Restriction: none, reflects search constraints of PubMed data in following analysis.
+Keyword Mode Selection: none
+
+Year: 1811	Pubs: 33	IDs: 33	CSV Author Pubs: 0	Medline Author Pubs: 27
+		PM Max: 1	PM Num: 1	CSV Max: 0	CSV Num: 0	Medline Max: 1	Medline Num: 1
+		CSV IDs: 0	Medline IDs: 33
+
+Publication PubMed Count:<33>
+CSV Publications with Authors:<0>
+Medline Publications with Authors:<27>
+Retracted Publications:<0>
+Retractions Made:<0>
+CSV Unique authors:<0>
+Medline Unique authors:<24>
+Medline Unique short authors:<24>
+Medline Unique short first authors:<24>
+CSV Duplicate authors:<0>
+Medline Duplicate authors:<3>
+Medline Duplicate short authors:<3>
+CSV Duplicate author publications:<0>
+Medline Duplicate author publications:<6>
+CSV Authors per publication:<0>
+CSV APP max:<0>
+CSV APP min:<0>
+CSV APP var:<0>
+Medline Authors per publication:<1>
+Medline APP max:<1>
+Medline APP min:<1>
+Medline APP var:<0>
+Unique Journal Titles:<1>
+Unique Short Journal Titles:<1>
+Medline Publications per unique author:	1.375
+Medline Duplicate publications per duplicate author:	2
+Medline Duplicate authors / Unique authors	0.125
+
+
+*****JOURNAL PUB FREQUENCIES*****
+33	medico-chirurgical transactions
+
+*****KEYWORDS LIST*****
+
+*****KEYWORDS FREQUENCIES*****
+<>
+
+*****CSV PUBMED AUTHOR FREQUENCIES*****
+
+*****CSV PUBMED PUB FREQUENCIES*****
+<>
+
+*****MEDLINE PUBMED AUTHOR FREQUENCIES*****
+2	cooper, a
+2	chevalier, t
+2	marcet, a
+1	lawrence, w
+1	roget, p m
+1	armiger, t j
+1	bostock, j
+1	morrah, m
+1	bateman, t
+1	bree, r
+1	featherston, j
+1	gervis, h
+1	harkness, j
+1	burrows
+1	cooke, w
+1	park, h
+1	cutting, j h
+1	ferguson, w
+1	rowlands, g
+1	henry, w
+1	parkinson, j
+1	hutchison, a c
+1	creagh, p t
+1	travers, b
+
+*****MEDLINE PUBMED SHORT AUTHOR FREQUENCIES*****
+2	chevalier t
+2	marcet a
+2	cooper a
+1	roget pm
+1	bostock j
+1	parkinson j
+1	henry w
+1	rowlands g
+1	bateman t
+1	gervis h
+1	travers b
+1	ferguson w
+1	bree r
+1	armiger tj
+1	morrah m
+1	harkness j
+1	hutchison ac
+1	cutting jh
+1	cooke w
+1	burrows
+1	lawrence w
+1	featherston j
+1	creagh pt
+1	park h
+
+*****MEDLINE PUBMED PUB FREQUENCIES*****
+<1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,>

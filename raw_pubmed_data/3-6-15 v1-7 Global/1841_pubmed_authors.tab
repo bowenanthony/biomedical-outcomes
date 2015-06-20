@@ -1,0 +1,404 @@
+Date: 03/05/2015	 Scientist Search 1.7
+Data Retrieval Mode: medline, reflects file type source of PubMed data in following analysis.
+Publication Type Selection: journal article, Affiliation Restriction: none, reflects search constraints of PubMed data in following analysis.
+Keyword Mode Selection: none
+
+Year: 1841	Pubs: 526	IDs: 526	CSV Author Pubs: 0	Medline Author Pubs: 311
+		PM Max: 1	PM Num: 1	CSV Max: 0	CSV Num: 0	Medline Max: 2	Medline Num: 2
+		CSV IDs: 0	Medline IDs: 526
+
+Publication PubMed Count:<526>
+CSV Publications with Authors:<0>
+Medline Publications with Authors:<311>
+Retracted Publications:<0>
+Retractions Made:<0>
+CSV Unique authors:<0>
+Medline Unique authors:<173>
+Medline Unique short authors:<173>
+Medline Unique short first authors:<168>
+CSV Duplicate authors:<0>
+Medline Duplicate authors:<43>
+Medline Duplicate short authors:<43>
+CSV Duplicate author publications:<0>
+Medline Duplicate author publications:<188>
+CSV Authors per publication:<0>
+CSV APP max:<0>
+CSV APP min:<0>
+CSV APP var:<0>
+Medline Authors per publication:<1.02250803858521>
+Medline APP max:<2>
+Medline APP min:<1>
+Medline APP var:<0.0220014267842558>
+Unique Journal Titles:<2>
+Unique Short Journal Titles:<2>
+Medline Publications per unique author:	3.04046242774566
+Medline Duplicate publications per duplicate author:	4.37209302325581
+Medline Duplicate authors / Unique authors	0.248554913294798
+
+
+*****JOURNAL PUB FREQUENCIES*****
+508	provincial medical & surgical journal
+18	medico-chirurgical transactions
+
+*****KEYWORDS LIST*****
+
+*****KEYWORDS FREQUENCIES*****
+<>
+
+*****CSV PUBMED AUTHOR FREQUENCIES*****
+
+*****CSV PUBMED PUB FREQUENCIES*****
+<>
+
+*****MEDLINE PUBMED AUTHOR FREQUENCIES*****
+20	toogood, j
+15	hunter, j
+12	bulley, f a
+12	velpeau
+10	green, p h
+9	cooper, b b
+9	williams
+8	andral, m
+7	morgan, j
+7	lucas, p b
+6	adams, j j
+4	macartney, j
+4	copeman, e
+3	ure, a
+3	gell, t
+3	nottingham, j
+3	brodie, b c
+3	walshe, w h
+2	chambers, r
+2	tunstall, j
+2	brush, j r
+2	gregory, g
+2	brame, s s
+2	belfour, e
+2	king, g
+2	foville
+2	taylor
+2	waters, j
+2	amussat, m
+2	webster, g
+2	dumas, m
+2	meniere, p
+2	hastings, c
+2	ricord, m
+2	ashenheim, l
+2	harvey, g
+2	storrs, r
+2	stanley, e
+2	lynch, m h
+2	knight, a j
+2	dodd, a t
+2	ewen, h
+2	jeffreys, t
+1	stanley
+1	topham, j
+1	streeter
+1	davidson, w
+1	james, r
+1	munoz, m
+1	biot, m
+1	mallett, g
+1	parsons, s n
+1	brodie, b
+1	addison, t
+1	malden, j
+1	worthington, w c
+1	bonnet, m
+1	burnett, c m
+1	green, t
+1	burton, e j
+1	welton, w
+1	churchill, j
+1	buck, j
+1	wilson, j
+1	harbord, h g
+1	middlemore, r
+1	husband, w d
+1	cooper, b
+1	crampton, p
+1	hall, m
+1	webb, w
+1	carter, c t
+1	durrant, c m
+1	petrequin, m
+1	walker
+1	hyrtl
+1	lynch, j r
+1	verax
+1	jackson, w
+1	guerin, j
+1	mott, v
+1	beddome, j r
+1	barker, f
+1	dubreuilh, m
+1	bennet, e p
+1	potter, j p
+1	green, h
+1	scratchley, e
+1	atkinson, g
+1	macartney, w j
+1	barrett, j
+1	vale, j t
+1	gill, w
+1	huntingdon
+1	knott, s
+1	lucas
+1	wawruch
+1	ritgen
+1	bermond, m e
+1	johnson, h
+1	brown, j m
+1	nott, j c
+1	jones, w
+1	watson
+1	poyser, t
+1	maxwell, j
+1	moreau, m j
+1	watson, h
+1	chowne, w d
+1	soden, j
+1	guerin, m
+1	winter, t b
+1	taylor, a j
+1	sweeting, w
+1	kinnard, d
+1	collyns, w
+1	kirkbride, t s
+1	chalk, h
+1	maunsell, h
+1	kennedy, e
+1	brandreth, t
+1	davenport, c
+1	roux, m
+1	holberton, t h
+1	wilson, h
+1	oke, w v
+1	johnson, w
+1	kidd, j
+1	gulliver, g
+1	carpenter, w b
+1	viator
+1	hare, s
+1	toynbee, j
+1	dieffenbach, j f
+1	humpage, e
+1	silvester, t h
+1	lingen, c
+1	doubovitski, p
+1	blenkinsop, h
+1	williams, s w
+1	dubourg, m
+1	bennett, e
+1	hawkins, c
+1	forbes, j
+1	shute, t h
+1	hall, c r
+1	bedingfield, j
+1	rumsey, h w
+1	davis, a w
+1	copland, j
+1	cooper, a
+1	sheppard, j p
+1	bardsley, j l
+1	omega
+1	cumbriensis
+1	halford, h
+1	favell, c f
+1	hobbs
+1	mitchell, j
+1	boyd, r
+1	von wattmann
+1	horner
+1	hindle, r
+1	newnham, h
+1	bricheteau, m
+1	wilson, j a
+1	antisell, t
+1	glover
+1	cruveilhier
+1	letellier, m
+1	edwards, c t
+1	adams, j
+1	broughton, h h
+
+*****MEDLINE PUBMED SHORT AUTHOR FREQUENCIES*****
+20	toogood j
+15	hunter j
+12	bulley fa
+12	velpeau
+10	green ph
+9	cooper bb
+9	williams
+8	andral m
+7	morgan j
+7	lucas pb
+6	adams jj
+4	macartney j
+4	copeman e
+3	walshe wh
+3	gell t
+3	nottingham j
+3	ure a
+3	brodie bc
+2	ricord m
+2	dodd at
+2	taylor
+2	dumas m
+2	waters j
+2	stanley e
+2	ashenheim l
+2	foville
+2	webster g
+2	harvey g
+2	meniere p
+2	hastings c
+2	chambers r
+2	jeffreys t
+2	knight aj
+2	storrs r
+2	gregory g
+2	brush jr
+2	tunstall j
+2	ewen h
+2	lynch mh
+2	brame ss
+2	king g
+2	belfour e
+2	amussat m
+1	wilson h
+1	macartney wj
+1	watson
+1	webb w
+1	johnson w
+1	dieffenbach jf
+1	guerin j
+1	forbes j
+1	durrant cm
+1	huntingdon
+1	doubovitski p
+1	kirkbride ts
+1	lucas
+1	wawruch
+1	blenkinsop h
+1	churchill j
+1	bardsley jl
+1	dubreuilh m
+1	ritgen
+1	buck j
+1	malden j
+1	husband wd
+1	scratchley e
+1	davis aw
+1	hindle r
+1	johnson h
+1	hyrtl
+1	poyser t
+1	toynbee j
+1	walker
+1	verax
+1	favell cf
+1	rumsey hw
+1	barker f
+1	petrequin m
+1	biot m
+1	chowne wd
+1	dubourg m
+1	hall m
+1	gulliver g
+1	potter jp
+1	harbord hg
+1	taylor aj
+1	bennett e
+1	antisell t
+1	winter tb
+1	humpage e
+1	copland j
+1	broughton hh
+1	oke wv
+1	holberton th
+1	barrett j
+1	burton ej
+1	mott v
+1	carter ct
+1	mallett g
+1	bedingfield j
+1	sheppard jp
+1	halford h
+1	guerin m
+1	shute th
+1	maunsell h
+1	munoz m
+1	stanley
+1	bermond me
+1	worthington wc
+1	streeter
+1	edwards ct
+1	carpenter wb
+1	wilson j
+1	lingen c
+1	kennedy e
+1	brown jm
+1	brodie b
+1	glover
+1	cruveilhier
+1	crampton p
+1	jackson w
+1	bonnet m
+1	topham j
+1	middlemore r
+1	watson h
+1	vale jt
+1	davenport c
+1	moreau mj
+1	boyd r
+1	green h
+1	green t
+1	cumbriensis
+1	james r
+1	hobbs
+1	welton w
+1	von wattmann
+1	adams j
+1	hall cr
+1	newnham h
+1	horner
+1	atkinson g
+1	nott jc
+1	silvester th
+1	kinnard d
+1	letellier m
+1	omega
+1	sweeting w
+1	parsons sn
+1	bricheteau m
+1	cooper b
+1	wilson ja
+1	viator
+1	bennet ep
+1	knott s
+1	soden j
+1	gill w
+1	davidson w
+1	hawkins c
+1	cooper a
+1	chalk h
+1	jones w
+1	collyns w
+1	kidd j
+1	lynch jr
+1	addison t
+1	burnett cm
+1	hare s
+1	beddome jr
+1	maxwell j
+1	mitchell j
+1	roux m
+1	williams sw
+1	brandreth t
+
+*****MEDLINE PUBMED PUB FREQUENCIES*****
+<1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,>

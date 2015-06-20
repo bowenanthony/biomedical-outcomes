@@ -1,0 +1,93 @@
+Date: 03/05/2015	 Scientist Search 1.7
+Data Retrieval Mode: medline, reflects file type source of PubMed data in following analysis.
+Publication Type Selection: journal article, Affiliation Restriction: none, reflects search constraints of PubMed data in following analysis.
+Keyword Mode Selection: none
+
+Year: 1809	Pubs: 22	IDs: 22	CSV Author Pubs: 0	Medline Author Pubs: 20
+		PM Max: 1	PM Num: 1	CSV Max: 0	CSV Num: 0	Medline Max: 1	Medline Num: 1
+		CSV IDs: 0	Medline IDs: 22
+
+Publication PubMed Count:<22>
+CSV Publications with Authors:<0>
+Medline Publications with Authors:<20>
+Retracted Publications:<0>
+Retractions Made:<0>
+CSV Unique authors:<0>
+Medline Unique authors:<18>
+Medline Unique short authors:<18>
+Medline Unique short first authors:<18>
+CSV Duplicate authors:<0>
+Medline Duplicate authors:<2>
+Medline Duplicate short authors:<2>
+CSV Duplicate author publications:<0>
+Medline Duplicate author publications:<4>
+CSV Authors per publication:<0>
+CSV APP max:<0>
+CSV APP min:<0>
+CSV APP var:<0>
+Medline Authors per publication:<1>
+Medline APP max:<1>
+Medline APP min:<1>
+Medline APP var:<0>
+Unique Journal Titles:<1>
+Unique Short Journal Titles:<1>
+Medline Publications per unique author:	1.22222222222222
+Medline Duplicate publications per duplicate author:	2
+Medline Duplicate authors / Unique authors	0.111111111111111
+
+
+*****JOURNAL PUB FREQUENCIES*****
+22	medico-chirurgical transactions
+
+*****KEYWORDS LIST*****
+
+*****KEYWORDS FREQUENCIES*****
+<>
+
+*****CSV PUBMED AUTHOR FREQUENCIES*****
+
+*****CSV PUBMED PUB FREQUENCIES*****
+<>
+
+*****MEDLINE PUBMED AUTHOR FREQUENCIES*****
+2	jenner, e
+2	cooper, a
+1	babington, w
+1	marcet, a
+1	stanger, c
+1	white, a
+1	thomas, h l
+1	forster, t
+1	moore, j
+1	young, g w
+1	pearson, r
+1	wilson, j
+1	blizard, t
+1	abernethy, j
+1	bostock, j
+1	chevalier, t
+1	yelloly, j
+1	dundas, d
+
+*****MEDLINE PUBMED SHORT AUTHOR FREQUENCIES*****
+2	cooper a
+2	jenner e
+1	moore j
+1	pearson r
+1	forster t
+1	blizard t
+1	dundas d
+1	marcet a
+1	yelloly j
+1	stanger c
+1	thomas hl
+1	abernethy j
+1	babington w
+1	chevalier t
+1	young gw
+1	bostock j
+1	white a
+1	wilson j
+
+*****MEDLINE PUBMED PUB FREQUENCIES*****
+<1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,>

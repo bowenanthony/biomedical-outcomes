@@ -1,0 +1,138 @@
+Date: 03/05/2015	 Scientist Search 1.7
+Data Retrieval Mode: medline, reflects file type source of PubMed data in following analysis.
+Publication Type Selection: journal article, Affiliation Restriction: none, reflects search constraints of PubMed data in following analysis.
+Keyword Mode Selection: none
+
+Year: 1859	Pubs: 223	IDs: 223	CSV Author Pubs: 0	Medline Author Pubs: 70
+		PM Max: 1	PM Num: 1	CSV Max: 0	CSV Num: 0	Medline Max: 1	Medline Num: 1
+		CSV IDs: 0	Medline IDs: 223
+
+Publication PubMed Count:<223>
+CSV Publications with Authors:<0>
+Medline Publications with Authors:<70>
+Retracted Publications:<0>
+Retractions Made:<0>
+CSV Unique authors:<0>
+Medline Unique authors:<40>
+Medline Unique short authors:<40>
+Medline Unique short first authors:<40>
+CSV Duplicate authors:<0>
+Medline Duplicate authors:<9>
+Medline Duplicate short authors:<9>
+CSV Duplicate author publications:<0>
+Medline Duplicate author publications:<39>
+CSV Authors per publication:<0>
+CSV APP max:<0>
+CSV APP min:<0>
+CSV APP var:<0>
+Medline Authors per publication:<1>
+Medline APP max:<1>
+Medline APP min:<1>
+Medline APP var:<0>
+Unique Journal Titles:<2>
+Unique Short Journal Titles:<2>
+Medline Publications per unique author:	5.575
+Medline Duplicate publications per duplicate author:	4.33333333333333
+Medline Duplicate authors / Unique authors	0.225
+
+
+*****JOURNAL PUB FREQUENCIES*****
+198	british medical journal
+25	medico-chirurgical transactions
+
+*****KEYWORDS LIST*****
+
+*****KEYWORDS FREQUENCIES*****
+<>
+
+*****CSV PUBMED AUTHOR FREQUENCIES*****
+
+*****CSV PUBMED PUB FREQUENCIES*****
+<>
+
+*****MEDLINE PUBMED AUTHOR FREQUENCIES*****
+12	beale, l
+8	addison, w
+5	smith, s
+3	pavy, f w
+3	birkett, j
+2	cooper, g f
+2	johnson, g
+2	shaw, a
+2	smith, e
+1	fuller, h w
+1	green, j l
+1	lochee, a
+1	adams, w
+1	russell, j
+1	jones, g m
+1	ringer, s
+1	southam, g
+1	laurence, j z
+1	sibley, s w
+1	ogle, j w
+1	nunneley, t
+1	gairdner, w t
+1	cockle, j
+1	inglis, a
+1	lister, e
+1	hawkins, c
+1	greaves, g
+1	savory, w s
+1	broadbent, w h
+1	moxhay, w w
+1	skey, f c
+1	thompson, t
+1	bryant, t
+1	johnson, h
+1	goodfellow, s j
+1	budd, g
+1	lee, h
+1	pollock, g
+1	holthouse, c
+1	hart, e
+
+*****MEDLINE PUBMED SHORT AUTHOR FREQUENCIES*****
+12	beale l
+8	addison w
+5	smith s
+3	pavy fw
+3	birkett j
+2	shaw a
+2	smith e
+2	cooper gf
+2	johnson g
+1	holthouse c
+1	greaves g
+1	lister e
+1	adams w
+1	pollock g
+1	thompson t
+1	lee h
+1	gairdner wt
+1	inglis a
+1	johnson h
+1	ringer s
+1	moxhay ww
+1	sibley sw
+1	hart e
+1	skey fc
+1	russell j
+1	green jl
+1	laurence jz
+1	bryant t
+1	savory ws
+1	budd g
+1	fuller hw
+1	goodfellow sj
+1	hawkins c
+1	southam g
+1	jones gm
+1	lochee a
+1	cockle j
+1	ogle jw
+1	nunneley t
+1	broadbent wh
+
+*****MEDLINE PUBMED PUB FREQUENCIES*****
+<1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,>

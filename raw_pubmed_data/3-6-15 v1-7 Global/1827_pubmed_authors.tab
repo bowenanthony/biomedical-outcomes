@@ -1,0 +1,131 @@
+Date: 03/05/2015	 Scientist Search 1.7
+Data Retrieval Mode: medline, reflects file type source of PubMed data in following analysis.
+Publication Type Selection: journal article, Affiliation Restriction: none, reflects search constraints of PubMed data in following analysis.
+Keyword Mode Selection: none
+
+Year: 1827	Pubs: 46	IDs: 46	CSV Author Pubs: 0	Medline Author Pubs: 42
+		PM Max: 1	PM Num: 1	CSV Max: 0	CSV Num: 0	Medline Max: 1	Medline Num: 1
+		CSV IDs: 0	Medline IDs: 46
+
+Publication PubMed Count:<46>
+CSV Publications with Authors:<0>
+Medline Publications with Authors:<42>
+Retracted Publications:<0>
+Retractions Made:<0>
+CSV Unique authors:<0>
+Medline Unique authors:<37>
+Medline Unique short authors:<37>
+Medline Unique short first authors:<35>
+CSV Duplicate authors:<0>
+Medline Duplicate authors:<5>
+Medline Duplicate short authors:<5>
+CSV Duplicate author publications:<0>
+Medline Duplicate author publications:<12>
+CSV Authors per publication:<0>
+CSV APP max:<0>
+CSV APP min:<0>
+CSV APP var:<0>
+Medline Authors per publication:<1.04761904761905>
+Medline APP max:<2>
+Medline APP min:<1>
+Medline APP var:<0.0453514739229025>
+Unique Journal Titles:<1>
+Unique Short Journal Titles:<1>
+Medline Publications per unique author:	1.24324324324324
+Medline Duplicate publications per duplicate author:	2.4
+Medline Duplicate authors / Unique authors	0.135135135135135
+
+
+*****JOURNAL PUB FREQUENCIES*****
+46	medico-chirurgical transactions
+
+*****KEYWORDS LIST*****
+
+*****KEYWORDS FREQUENCIES*****
+<>
+
+*****CSV PUBMED AUTHOR FREQUENCIES*****
+
+*****CSV PUBMED PUB FREQUENCIES*****
+<>
+
+*****MEDLINE PUBMED AUTHOR FREQUENCIES*****
+4	elliotson, j
+2	hall, m
+2	thomson, a t
+2	chevalier, t w
+2	lawrence, w
+1	key, c a
+1	wardrop, j
+1	white, a
+1	merriman, s
+1	orton, j
+1	birch, w
+1	pope, j
+1	forbes, c f
+1	earle, h
+1	hunter, j
+1	delagarde, p c
+1	langstaff, g
+1	wallace, w
+1	johnson, j
+1	smith
+1	higginbottom, j
+1	brulatour
+1	stanley, e
+1	burnett, w
+1	norman, g
+1	gregory, g
+1	james, j h
+1	rogers
+1	gordon, j a
+1	tyrrell
+1	welbank, r
+1	arnot, d g
+1	hewitt, m
+1	bostock, j
+1	thomas, c
+1	breschet, g
+1	guthrie, g j
+
+*****MEDLINE PUBMED SHORT AUTHOR FREQUENCIES*****
+4	elliotson j
+2	thomson at
+2	lawrence w
+2	hall m
+2	chevalier tw
+1	smith
+1	hewitt m
+1	brulatour
+1	merriman s
+1	key ca
+1	tyrrell
+1	rogers
+1	breschet g
+1	higginbottom j
+1	arnot dg
+1	norman g
+1	johnson j
+1	bostock j
+1	wardrop j
+1	hunter j
+1	pope j
+1	james jh
+1	birch w
+1	thomas c
+1	stanley e
+1	earle h
+1	orton j
+1	guthrie gj
+1	delagarde pc
+1	burnett w
+1	welbank r
+1	wallace w
+1	gregory g
+1	gordon ja
+1	langstaff g
+1	forbes cf
+1	white a
+
+*****MEDLINE PUBMED PUB FREQUENCIES*****
+<1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,1,1,1,>

@@ -1,0 +1,138 @@
+Date: 03/05/2015	 Scientist Search 1.7
+Data Retrieval Mode: medline, reflects file type source of PubMed data in following analysis.
+Publication Type Selection: journal article, Affiliation Restriction: none, reflects search constraints of PubMed data in following analysis.
+Keyword Mode Selection: none
+
+Year: 1864	Pubs: 159	IDs: 159	CSV Author Pubs: 0	Medline Author Pubs: 83
+		PM Max: 1	PM Num: 1	CSV Max: 0	CSV Num: 0	Medline Max: 1	Medline Num: 1
+		CSV IDs: 0	Medline IDs: 159
+
+Publication PubMed Count:<159>
+CSV Publications with Authors:<0>
+Medline Publications with Authors:<83>
+Retracted Publications:<0>
+Retractions Made:<0>
+CSV Unique authors:<0>
+Medline Unique authors:<40>
+Medline Unique short authors:<40>
+Medline Unique short first authors:<39>
+CSV Duplicate authors:<0>
+Medline Duplicate authors:<11>
+Medline Duplicate short authors:<11>
+CSV Duplicate author publications:<0>
+Medline Duplicate author publications:<55>
+CSV Authors per publication:<0>
+CSV APP max:<0>
+CSV APP min:<0>
+CSV APP var:<0>
+Medline Authors per publication:<1.01204819277108>
+Medline APP max:<2>
+Medline APP min:<1>
+Medline APP var:<0.0119030338220351>
+Unique Journal Titles:<2>
+Unique Short Journal Titles:<2>
+Medline Publications per unique author:	3.975
+Medline Duplicate publications per duplicate author:	5
+Medline Duplicate authors / Unique authors	0.275
+
+
+*****JOURNAL PUB FREQUENCIES*****
+135	british medical journal
+24	medico-chirurgical transactions
+
+*****KEYWORDS LIST*****
+
+*****KEYWORDS FREQUENCIES*****
+<>
+
+*****CSV PUBMED AUTHOR FREQUENCIES*****
+
+*****CSV PUBMED PUB FREQUENCIES*****
+<>
+
+*****MEDLINE PUBMED AUTHOR FREQUENCIES*****
+15	routh, c h
+10	brodhurst, b e
+8	waters, a t
+6	markham, w o
+3	lee, h
+3	hutchinson, j
+2	moore, c h
+2	nayler, g
+2	jones, t
+2	pick, t p
+2	durham, a e
+1	latham, p m
+1	humphry, g m
+1	paget, j
+1	hulke, j w
+1	bryant, t
+1	hart, e
+1	mayo, t
+1	callender, g w
+1	thompson, h
+1	thudichum, j l
+1	bacon, g m
+1	harley, j
+1	fenwick, s
+1	brodie, g b
+1	johnson, h c
+1	murchison, c
+1	symonds, j a
+1	greenhow, e h
+1	thompson, t y
+1	murray, w
+1	coote, h
+1	bickersteth, e r
+1	wells, t s
+1	savory, w s
+1	toynbee, j
+1	murphy, e w
+1	fox, w
+1	kingdon, j a
+1	habershon, s o
+
+*****MEDLINE PUBMED SHORT AUTHOR FREQUENCIES*****
+15	routh ch
+10	brodhurst be
+8	waters at
+6	markham wo
+3	hutchinson j
+3	lee h
+2	durham ae
+2	moore ch
+2	pick tp
+2	jones t
+2	nayler g
+1	thompson h
+1	callender gw
+1	bacon gm
+1	kingdon ja
+1	johnson hc
+1	bryant t
+1	savory ws
+1	habershon so
+1	murchison c
+1	murray w
+1	hulke jw
+1	bickersteth er
+1	humphry gm
+1	symonds ja
+1	hart e
+1	murphy ew
+1	greenhow eh
+1	fox w
+1	wells ts
+1	thompson ty
+1	paget j
+1	toynbee j
+1	harley j
+1	coote h
+1	brodie gb
+1	fenwick s
+1	mayo t
+1	thudichum jl
+1	latham pm
+
+*****MEDLINE PUBMED PUB FREQUENCIES*****
+<1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,>

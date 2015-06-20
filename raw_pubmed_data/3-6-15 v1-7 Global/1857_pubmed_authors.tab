@@ -1,0 +1,118 @@
+Date: 03/05/2015	 Scientist Search 1.7
+Data Retrieval Mode: medline, reflects file type source of PubMed data in following analysis.
+Publication Type Selection: journal article, Affiliation Restriction: none, reflects search constraints of PubMed data in following analysis.
+Keyword Mode Selection: none
+
+Year: 1857	Pubs: 257	IDs: 257	CSV Author Pubs: 0	Medline Author Pubs: 55
+		PM Max: 1	PM Num: 1	CSV Max: 0	CSV Num: 0	Medline Max: 1	Medline Num: 1
+		CSV IDs: 0	Medline IDs: 257
+
+Publication PubMed Count:<257>
+CSV Publications with Authors:<0>
+Medline Publications with Authors:<55>
+Retracted Publications:<0>
+Retractions Made:<0>
+CSV Unique authors:<0>
+Medline Unique authors:<30>
+Medline Unique short authors:<30>
+Medline Unique short first authors:<30>
+CSV Duplicate authors:<0>
+Medline Duplicate authors:<10>
+Medline Duplicate short authors:<10>
+CSV Duplicate author publications:<0>
+Medline Duplicate author publications:<35>
+CSV Authors per publication:<0>
+CSV APP max:<0>
+CSV APP min:<0>
+CSV APP var:<0>
+Medline Authors per publication:<1>
+Medline APP max:<1>
+Medline APP min:<1>
+Medline APP var:<0>
+Unique Journal Titles:<2>
+Unique Short Journal Titles:<2>
+Medline Publications per unique author:	8.56666666666667
+Medline Duplicate publications per duplicate author:	3.5
+Medline Duplicate authors / Unique authors	0.333333333333333
+
+
+*****JOURNAL PUB FREQUENCIES*****
+242	british medical journal
+15	medico-chirurgical transactions
+
+*****KEYWORDS LIST*****
+
+*****KEYWORDS FREQUENCIES*****
+<>
+
+*****CSV PUBMED AUTHOR FREQUENCIES*****
+
+*****CSV PUBMED PUB FREQUENCIES*****
+<>
+
+*****MEDLINE PUBMED AUTHOR FREQUENCIES*****
+7	smith, e
+7	garrod, a b
+6	hall, j c
+3	husband, w d
+2	markham, w o
+2	coote, h
+2	solly, s
+2	cockle, j
+2	syme, j
+2	fergusson, w
+1	sieveking, e h
+1	webb, w
+1	budd, w
+1	brown, i b
+1	webster, j h
+1	jackson, t h
+1	davey, j g
+1	prichard, a
+1	lee, r
+1	thompson, h
+1	milton, j l
+1	fuller, h w
+1	taylor, r
+1	brodhurst, b e
+1	mackenzie, w
+1	jenner, w
+1	newman, w
+1	sandwith, h
+1	davies, f
+1	aitken, w
+
+*****MEDLINE PUBMED SHORT AUTHOR FREQUENCIES*****
+7	smith e
+7	garrod ab
+6	hall jc
+3	husband wd
+2	markham wo
+2	fergusson w
+2	cockle j
+2	coote h
+2	solly s
+2	syme j
+1	brown ib
+1	davies f
+1	taylor r
+1	aitken w
+1	lee r
+1	fuller hw
+1	prichard a
+1	webster jh
+1	davey jg
+1	milton jl
+1	newman w
+1	budd w
+1	thompson h
+1	sieveking eh
+1	sandwith h
+1	brodhurst be
+1	jackson th
+1	webb w
+1	jenner w
+1	mackenzie w
+
+*****MEDLINE PUBMED PUB FREQUENCIES*****
+<1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,>

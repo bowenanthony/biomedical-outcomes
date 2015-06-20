@@ -1,0 +1,254 @@
+Date: 03/05/2015	 Scientist Search 1.7
+Data Retrieval Mode: medline, reflects file type source of PubMed data in following analysis.
+Publication Type Selection: journal article, Affiliation Restriction: none, reflects search constraints of PubMed data in following analysis.
+Keyword Mode Selection: none
+
+Year: 1853	Pubs: 230	IDs: 230	CSV Author Pubs: 0	Medline Author Pubs: 120
+		PM Max: 1	PM Num: 1	CSV Max: 0	CSV Num: 0	Medline Max: 1	Medline Num: 1
+		CSV IDs: 0	Medline IDs: 230
+
+Publication PubMed Count:<230>
+CSV Publications with Authors:<0>
+Medline Publications with Authors:<120>
+Retracted Publications:<0>
+Retractions Made:<0>
+CSV Unique authors:<0>
+Medline Unique authors:<98>
+Medline Unique short authors:<98>
+Medline Unique short first authors:<98>
+CSV Duplicate authors:<0>
+Medline Duplicate authors:<15>
+Medline Duplicate short authors:<15>
+CSV Duplicate author publications:<0>
+Medline Duplicate author publications:<37>
+CSV Authors per publication:<0>
+CSV APP max:<0>
+CSV APP min:<0>
+CSV APP var:<0>
+Medline Authors per publication:<1>
+Medline APP max:<1>
+Medline APP min:<1>
+Medline APP var:<0>
+Unique Journal Titles:<2>
+Unique Short Journal Titles:<2>
+Medline Publications per unique author:	2.3469387755102
+Medline Duplicate publications per duplicate author:	2.46666666666667
+Medline Duplicate authors / Unique authors	0.153061224489796
+
+
+*****JOURNAL PUB FREQUENCIES*****
+207	association medical journal
+23	medico-chirurgical transactions
+
+*****KEYWORDS LIST*****
+
+*****KEYWORDS FREQUENCIES*****
+<>
+
+*****CSV PUBMED AUTHOR FREQUENCIES*****
+
+*****CSV PUBMED PUB FREQUENCIES*****
+<>
+
+*****MEDLINE PUBMED AUTHOR FREQUENCIES*****
+4	cooper, w
+4	murphy, e w
+3	king, g
+3	hingeston, j a
+3	oke, w s
+2	jenks, g s
+2	grainger, r d
+2	speer, s t
+2	hake, t g
+2	ashley, w h
+2	powell, r h
+2	mason, f
+2	jones, h b
+2	richardson, b w
+2	mackenzie, f w
+1	harrinson, i
+1	addison, w
+1	gamgee, j s
+1	deane, j
+1	cogswell, c
+1	cormack, j r
+1	teale, t p
+1	monro, j
+1	lee, r
+1	hall, j c
+1	walton, h
+1	may, g
+1	hinton, j
+1	falloon, e l
+1	alford, r
+1	tunstall, j
+1	watson, e
+1	jackson, e
+1	hewett, p
+1	swayne, j g
+1	rump, h r
+1	johnson, h
+1	ikin, j i
+1	paterson, a h
+1	lee, h
+1	thomson, s
+1	marson, j f
+1	cullen, w h
+1	humphry, g m
+1	noble, d
+1	brown, b w
+1	gallwey, m b
+1	little, t s
+1	thompson, t
+1	jennings, j c
+1	moffat, t
+1	sieveking, e h
+1	west, r u
+1	hassall, a
+1	barclay, a w
+1	ogden, j
+1	flower, w h
+1	pennell, c
+1	probart, f g
+1	markham, w o
+1	lyon, e
+1	ellis, g v
+1	druitt, r
+1	sandwith, h
+1	bennett, j r
+1	syme, j
+1	robinson, r r
+1	cockburn, a w
+1	hare, s
+1	bowling, j p
+1	lowther, g
+1	higginbottom, j
+1	birkett, j
+1	hodgson, j
+1	gray, h
+1	bullar, j
+1	sheppard, e
+1	jones, t w
+1	ormerod, e l
+1	edwards, c t
+1	curling, t b
+1	beecroft, s
+1	lloyd, j
+1	cowdell, c
+1	bowman, w
+1	brown, f j
+1	crowfoot, w e
+1	turnbull, j
+1	williams, p h
+1	todd, r b
+1	thompson, c r
+1	miller, j
+1	walton, h h
+1	barnes, r
+1	elsdale, r
+1	herapath, w b
+1	jones, r e
+1	snow, j
+
+*****MEDLINE PUBMED SHORT AUTHOR FREQUENCIES*****
+4	murphy ew
+4	cooper w
+3	hingeston ja
+3	king g
+3	oke ws
+2	powell rh
+2	ashley wh
+2	mackenzie fw
+2	speer st
+2	hake tg
+2	richardson bw
+2	jenks gs
+2	grainger rd
+2	jones hb
+2	mason f
+1	cockburn aw
+1	syme j
+1	gray h
+1	elsdale r
+1	bennett jr
+1	deane j
+1	turnbull j
+1	beecroft s
+1	johnson h
+1	curling tb
+1	robinson rr
+1	cowdell c
+1	jones re
+1	ikin ji
+1	little ts
+1	sheppard e
+1	bowman w
+1	probart fg
+1	hall jc
+1	brown bw
+1	gallwey mb
+1	walton hh
+1	gamgee js
+1	jennings jc
+1	lee h
+1	hassall a
+1	lyon e
+1	lowther g
+1	marson jf
+1	thompson t
+1	alford r
+1	higginbottom j
+1	edwards ct
+1	hinton j
+1	pennell c
+1	todd rb
+1	jackson e
+1	paterson ah
+1	noble d
+1	rump hr
+1	harrinson i
+1	watson e
+1	sandwith h
+1	hewett p
+1	crowfoot we
+1	hodgson j
+1	falloon el
+1	tunstall j
+1	birkett j
+1	sieveking eh
+1	monro j
+1	swayne jg
+1	cullen wh
+1	cogswell c
+1	ogden j
+1	brown fj
+1	flower wh
+1	ellis gv
+1	thompson cr
+1	williams ph
+1	snow j
+1	thomson s
+1	bowling jp
+1	teale tp
+1	miller j
+1	addison w
+1	druitt r
+1	west ru
+1	hare s
+1	moffat t
+1	may g
+1	herapath wb
+1	lloyd j
+1	lee r
+1	walton h
+1	barclay aw
+1	jones tw
+1	markham wo
+1	barnes r
+1	bullar j
+1	humphry gm
+1	cormack jr
+1	ormerod el
+
+*****MEDLINE PUBMED PUB FREQUENCIES*****
+<1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,>

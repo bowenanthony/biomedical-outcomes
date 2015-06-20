@@ -1,0 +1,130 @@
+Date: 03/05/2015	 Scientist Search 1.7
+Data Retrieval Mode: medline, reflects file type source of PubMed data in following analysis.
+Publication Type Selection: journal article, Affiliation Restriction: none, reflects search constraints of PubMed data in following analysis.
+Keyword Mode Selection: none
+
+Year: 1855	Pubs: 178	IDs: 178	CSV Author Pubs: 0	Medline Author Pubs: 48
+		PM Max: 1	PM Num: 1	CSV Max: 0	CSV Num: 0	Medline Max: 1	Medline Num: 1
+		CSV IDs: 0	Medline IDs: 178
+
+Publication PubMed Count:<178>
+CSV Publications with Authors:<0>
+Medline Publications with Authors:<48>
+Retracted Publications:<0>
+Retractions Made:<0>
+CSV Unique authors:<0>
+Medline Unique authors:<36>
+Medline Unique short authors:<36>
+Medline Unique short first authors:<36>
+CSV Duplicate authors:<0>
+Medline Duplicate authors:<9>
+Medline Duplicate short authors:<9>
+CSV Duplicate author publications:<0>
+Medline Duplicate author publications:<21>
+CSV Authors per publication:<0>
+CSV APP max:<0>
+CSV APP min:<0>
+CSV APP var:<0>
+Medline Authors per publication:<1>
+Medline APP max:<1>
+Medline APP min:<1>
+Medline APP var:<0>
+Unique Journal Titles:<2>
+Unique Short Journal Titles:<2>
+Medline Publications per unique author:	4.94444444444444
+Medline Duplicate publications per duplicate author:	2.33333333333333
+Medline Duplicate authors / Unique authors	0.25
+
+
+*****JOURNAL PUB FREQUENCIES*****
+160	association medical journal
+18	medico-chirurgical transactions
+
+*****KEYWORDS LIST*****
+
+*****KEYWORDS FREQUENCIES*****
+<>
+
+*****CSV PUBMED AUTHOR FREQUENCIES*****
+
+*****CSV PUBMED PUB FREQUENCIES*****
+<>
+
+*****MEDLINE PUBMED AUTHOR FREQUENCIES*****
+4	brinton, w
+3	jones, c h
+2	nunn, t w
+2	hastings, c
+2	holmes, t
+2	masfen, g b
+2	prichard, a
+2	thompson, h
+2	pollock, g
+1	alford, h
+1	camplin, j m
+1	coote, h
+1	brodie, b c
+1	hall, c r
+1	porter, h
+1	garrod, a b
+1	critchett, g
+1	toynbee, j
+1	humphry, g m
+1	cadge, w
+1	barker, t a
+1	smith, e
+1	humphreys, j r
+1	gull, w w
+1	paget, j
+1	budd, w
+1	marcet, w
+1	husband, w d
+1	carden, h d
+1	windsor, j
+1	teale, t p
+1	lee, r
+1	sutherland, a j
+1	malden, j
+1	clarke, e
+1	smith, t
+
+*****MEDLINE PUBMED SHORT AUTHOR FREQUENCIES*****
+4	brinton w
+3	jones ch
+2	nunn tw
+2	thompson h
+2	prichard a
+2	pollock g
+2	hastings c
+2	masfen gb
+2	holmes t
+1	alford h
+1	teale tp
+1	critchett g
+1	brodie bc
+1	garrod ab
+1	smith e
+1	lee r
+1	humphry gm
+1	clarke e
+1	hall cr
+1	smith t
+1	barker ta
+1	budd w
+1	gull ww
+1	camplin jm
+1	cadge w
+1	porter h
+1	malden j
+1	sutherland aj
+1	marcet w
+1	windsor j
+1	humphreys jr
+1	toynbee j
+1	paget j
+1	husband wd
+1	coote h
+1	carden hd
+
+*****MEDLINE PUBMED PUB FREQUENCIES*****
+<1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,>

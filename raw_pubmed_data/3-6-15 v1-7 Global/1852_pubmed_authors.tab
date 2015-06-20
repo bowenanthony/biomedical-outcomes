@@ -1,0 +1,279 @@
+Date: 03/05/2015	 Scientist Search 1.7
+Data Retrieval Mode: medline, reflects file type source of PubMed data in following analysis.
+Publication Type Selection: journal article, Affiliation Restriction: none, reflects search constraints of PubMed data in following analysis.
+Keyword Mode Selection: none
+
+Year: 1852	Pubs: 237	IDs: 237	CSV Author Pubs: 0	Medline Author Pubs: 145
+		PM Max: 1	PM Num: 1	CSV Max: 0	CSV Num: 0	Medline Max: 1	Medline Num: 1
+		CSV IDs: 0	Medline IDs: 237
+
+Publication PubMed Count:<237>
+CSV Publications with Authors:<0>
+Medline Publications with Authors:<145>
+Retracted Publications:<0>
+Retractions Made:<0>
+CSV Unique authors:<0>
+Medline Unique authors:<110>
+Medline Unique short authors:<110>
+Medline Unique short first authors:<110>
+CSV Duplicate authors:<0>
+Medline Duplicate authors:<17>
+Medline Duplicate short authors:<17>
+CSV Duplicate author publications:<0>
+Medline Duplicate author publications:<52>
+CSV Authors per publication:<0>
+CSV APP max:<0>
+CSV APP min:<0>
+CSV APP var:<0>
+Medline Authors per publication:<1>
+Medline APP max:<1>
+Medline APP min:<1>
+Medline APP var:<0>
+Unique Journal Titles:<3>
+Unique Short Journal Titles:<3>
+Medline Publications per unique author:	2.15454545454545
+Medline Duplicate publications per duplicate author:	3.05882352941176
+Medline Duplicate authors / Unique authors	0.154545454545455
+
+
+*****JOURNAL PUB FREQUENCIES*****
+151	provincial medical & surgical journal
+62	london journal of medicine
+24	medico-chirurgical transactions
+
+*****KEYWORDS LIST*****
+
+*****KEYWORDS FREQUENCIES*****
+<>
+
+*****CSV PUBMED AUTHOR FREQUENCIES*****
+
+*****CSV PUBMED PUB FREQUENCIES*****
+<>
+
+*****MEDLINE PUBMED AUTHOR FREQUENCIES*****
+11	merei
+5	tilt, e j
+4	oke, w s
+3	snow, j
+3	mackenzie, f w
+3	norman, h b
+3	lee, h
+2	martin, r
+2	smith, w t
+2	jones, j
+2	moore, w j
+2	speer, s t
+2	cooper, w
+2	jones, c h
+2	powell, r h
+2	semple, r h
+2	soden, j
+1	bayes, w
+1	sheppard, e
+1	dundas, r
+1	jones, e
+1	marshall, j
+1	hitchman, j
+1	gabb, d h
+1	webster, j
+1	higginbottom, j
+1	beck, t s
+1	kirkman, w p
+1	silvester, t h
+1	reid, j
+1	crouch, j
+1	toynbee, j
+1	duncan, p m
+1	hall, c r
+1	sandwith, h
+1	balfour, t g
+1	herapath, w b
+1	jones, r e
+1	salter, s j
+1	gardner, w h
+1	garstang, w
+1	hoskins, s e
+1	bird, j
+1	robinson, g
+1	harvey, w
+1	hawkins, c h
+1	cox, w a
+1	bryan, j m
+1	clement, w j
+1	sandwith, t
+1	desmond, l e
+1	mayne, r g
+1	williams, c j
+1	dickinson, j
+1	wyld, g
+1	griffith, t t
+1	peck, f
+1	black, w t
+1	paul, a
+1	barclay
+1	adams, j
+1	barker, t h
+1	forbes, j g
+1	kirkes, w s
+1	marshall, c
+1	jones, h b
+1	meryon, e
+1	watson, e
+1	swayne, j g
+1	gooch, w h
+1	beale, l s
+1	luke, j
+1	falloon, e l
+1	king, g
+1	hake, t g
+1	moore, c h
+1	bishop, e
+1	cowley, j
+1	ranking, r
+1	cogswell, c
+1	baker, a
+1	norris, h
+1	lee, r
+1	alison, s s
+1	gamgee, j s
+1	waller, a
+1	copeman, e
+1	prichard, a
+1	bailey, c
+1	wright, h g
+1	skevington, j
+1	moore, w
+1	budd, w
+1	routh, c h
+1	chambers, t k
+1	palmer, s
+1	ure, a
+1	durrant, c m
+1	foster, w
+1	peacock, t b
+1	coulson, w
+1	ranking, w h
+1	gream, g t
+1	jones, r
+1	paterson, a h
+1	wood, a
+1	phillips, b
+1	dewes, e
+1	davies, w
+1	johnson, h
+
+*****MEDLINE PUBMED SHORT AUTHOR FREQUENCIES*****
+11	merei
+5	tilt ej
+4	oke ws
+3	snow j
+3	norman hb
+3	lee h
+3	mackenzie fw
+2	smith wt
+2	cooper w
+2	jones ch
+2	soden j
+2	jones j
+2	semple rh
+2	martin r
+2	moore wj
+2	speer st
+2	powell rh
+1	moore ch
+1	beale ls
+1	balfour tg
+1	gardner wh
+1	hawkins ch
+1	king g
+1	coulson w
+1	gooch wh
+1	moore w
+1	hoskins se
+1	waller a
+1	desmond le
+1	beck ts
+1	garstang w
+1	herapath wb
+1	lee r
+1	robinson g
+1	mayne rg
+1	salter sj
+1	dundas r
+1	peacock tb
+1	swayne jg
+1	cogswell c
+1	budd w
+1	alison ss
+1	meryon e
+1	ranking r
+1	reid j
+1	dewes e
+1	silvester th
+1	adams j
+1	hall cr
+1	falloon el
+1	hitchman j
+1	phillips b
+1	dickinson j
+1	luke j
+1	copeman e
+1	cowley j
+1	bailey c
+1	routh ch
+1	prichard a
+1	bird j
+1	bryan jm
+1	barclay
+1	kirkes ws
+1	jones hb
+1	wyld g
+1	gream gt
+1	black wt
+1	norris h
+1	jones e
+1	cox wa
+1	duncan pm
+1	higginbottom j
+1	wood a
+1	hake tg
+1	ure a
+1	bishop e
+1	crouch j
+1	baker a
+1	watson e
+1	sandwith h
+1	ranking wh
+1	peck f
+1	harvey w
+1	palmer s
+1	forbes jg
+1	paterson ah
+1	sandwith t
+1	toynbee j
+1	paul a
+1	johnson h
+1	barker th
+1	marshall j
+1	griffith tt
+1	williams cj
+1	webster j
+1	sheppard e
+1	davies w
+1	skevington j
+1	jones r
+1	gamgee js
+1	wright hg
+1	durrant cm
+1	kirkman wp
+1	marshall c
+1	chambers tk
+1	bayes w
+1	foster w
+1	gabb dh
+1	jones re
+1	clement wj
+
+*****MEDLINE PUBMED PUB FREQUENCIES*****
+<1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,>

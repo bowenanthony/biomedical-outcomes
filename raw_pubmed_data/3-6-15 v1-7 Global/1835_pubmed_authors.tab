@@ -1,0 +1,85 @@
+Date: 03/05/2015	 Scientist Search 1.7
+Data Retrieval Mode: medline, reflects file type source of PubMed data in following analysis.
+Publication Type Selection: journal article, Affiliation Restriction: none, reflects search constraints of PubMed data in following analysis.
+Keyword Mode Selection: none
+
+Year: 1835	Pubs: 21	IDs: 21	CSV Author Pubs: 0	Medline Author Pubs: 20
+		PM Max: 1	PM Num: 1	CSV Max: 0	CSV Num: 0	Medline Max: 1	Medline Num: 1
+		CSV IDs: 0	Medline IDs: 21
+
+Publication PubMed Count:<21>
+CSV Publications with Authors:<0>
+Medline Publications with Authors:<20>
+Retracted Publications:<0>
+Retractions Made:<0>
+CSV Unique authors:<0>
+Medline Unique authors:<14>
+Medline Unique short authors:<14>
+Medline Unique short first authors:<14>
+CSV Duplicate authors:<0>
+Medline Duplicate authors:<4>
+Medline Duplicate short authors:<4>
+CSV Duplicate author publications:<0>
+Medline Duplicate author publications:<10>
+CSV Authors per publication:<0>
+CSV APP max:<0>
+CSV APP min:<0>
+CSV APP var:<0>
+Medline Authors per publication:<1>
+Medline APP max:<1>
+Medline APP min:<1>
+Medline APP var:<0>
+Unique Journal Titles:<1>
+Unique Short Journal Titles:<1>
+Medline Publications per unique author:	1.5
+Medline Duplicate publications per duplicate author:	2.5
+Medline Duplicate authors / Unique authors	0.285714285714286
+
+
+*****JOURNAL PUB FREQUENCIES*****
+21	medico-chirurgical transactions
+
+*****KEYWORDS LIST*****
+
+*****KEYWORDS FREQUENCIES*****
+<>
+
+*****CSV PUBMED AUTHOR FREQUENCIES*****
+
+*****CSV PUBMED PUB FREQUENCIES*****
+<>
+
+*****MEDLINE PUBMED AUTHOR FREQUENCIES*****
+3	lee, r
+3	sims, j
+2	elliotson, j
+2	howship, j
+1	bostock, j
+1	cock, e
+1	seymour, e j
+1	bright, r
+1	earle, h
+1	partridge, w h
+1	mayo, h
+1	key, c a
+1	thurnam, j
+1	hawkins, c
+
+*****MEDLINE PUBMED SHORT AUTHOR FREQUENCIES*****
+3	lee r
+3	sims j
+2	howship j
+2	elliotson j
+1	mayo h
+1	earle h
+1	cock e
+1	thurnam j
+1	partridge wh
+1	seymour ej
+1	key ca
+1	hawkins c
+1	bright r
+1	bostock j
+
+*****MEDLINE PUBMED PUB FREQUENCIES*****
+<1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,>

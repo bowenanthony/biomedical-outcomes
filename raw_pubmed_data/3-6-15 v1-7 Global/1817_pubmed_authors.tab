@@ -1,0 +1,95 @@
+Date: 03/05/2015	 Scientist Search 1.7
+Data Retrieval Mode: medline, reflects file type source of PubMed data in following analysis.
+Publication Type Selection: journal article, Affiliation Restriction: none, reflects search constraints of PubMed data in following analysis.
+Keyword Mode Selection: none
+
+Year: 1817	Pubs: 25	IDs: 25	CSV Author Pubs: 0	Medline Author Pubs: 21
+		PM Max: 1	PM Num: 1	CSV Max: 0	CSV Num: 0	Medline Max: 1	Medline Num: 1
+		CSV IDs: 0	Medline IDs: 25
+
+Publication PubMed Count:<25>
+CSV Publications with Authors:<0>
+Medline Publications with Authors:<21>
+Retracted Publications:<0>
+Retractions Made:<0>
+CSV Unique authors:<0>
+Medline Unique authors:<19>
+Medline Unique short authors:<19>
+Medline Unique short first authors:<19>
+CSV Duplicate authors:<0>
+Medline Duplicate authors:<2>
+Medline Duplicate short authors:<2>
+CSV Duplicate author publications:<0>
+Medline Duplicate author publications:<4>
+CSV Authors per publication:<0>
+CSV APP max:<0>
+CSV APP min:<0>
+CSV APP var:<0>
+Medline Authors per publication:<1>
+Medline APP max:<1>
+Medline APP min:<1>
+Medline APP var:<0>
+Unique Journal Titles:<1>
+Unique Short Journal Titles:<1>
+Medline Publications per unique author:	1.31578947368421
+Medline Duplicate publications per duplicate author:	2
+Medline Duplicate authors / Unique authors	0.105263157894737
+
+
+*****JOURNAL PUB FREQUENCIES*****
+25	medico-chirurgical transactions
+
+*****KEYWORDS LIST*****
+
+*****KEYWORDS FREQUENCIES*****
+<>
+
+*****CSV PUBMED AUTHOR FREQUENCIES*****
+
+*****CSV PUBMED PUB FREQUENCIES*****
+<>
+
+*****MEDLINE PUBMED AUTHOR FREQUENCIES*****
+2	howship, j
+2	lawrence, w
+1	prout, w
+1	travers, b
+1	scott, h
+1	wardrop, j
+1	fergusson, w
+1	guthrie, g j
+1	holland, h
+1	cooper, a
+1	cooper, s
+1	rose, t
+1	pearson, j
+1	baron, j
+1	james, j h
+1	stanley, e
+1	crampton, j
+1	langstaff, g
+1	blagden, r
+
+*****MEDLINE PUBMED SHORT AUTHOR FREQUENCIES*****
+2	howship j
+2	lawrence w
+1	pearson j
+1	cooper a
+1	fergusson w
+1	wardrop j
+1	blagden r
+1	travers b
+1	prout w
+1	rose t
+1	cooper s
+1	guthrie gj
+1	baron j
+1	stanley e
+1	james jh
+1	holland h
+1	crampton j
+1	langstaff g
+1	scott h
+
+*****MEDLINE PUBMED PUB FREQUENCIES*****
+<1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,>

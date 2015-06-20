@@ -1,0 +1,121 @@
+Date: 03/05/2015	 Scientist Search 1.7
+Data Retrieval Mode: medline, reflects file type source of PubMed data in following analysis.
+Publication Type Selection: journal article, Affiliation Restriction: none, reflects search constraints of PubMed data in following analysis.
+Keyword Mode Selection: none
+
+Year: 1816	Pubs: 43	IDs: 43	CSV Author Pubs: 0	Medline Author Pubs: 39
+		PM Max: 1	PM Num: 1	CSV Max: 0	CSV Num: 0	Medline Max: 1	Medline Num: 1
+		CSV IDs: 0	Medline IDs: 43
+
+Publication PubMed Count:<43>
+CSV Publications with Authors:<0>
+Medline Publications with Authors:<39>
+Retracted Publications:<0>
+Retractions Made:<0>
+CSV Unique authors:<0>
+Medline Unique authors:<32>
+Medline Unique short authors:<32>
+Medline Unique short first authors:<32>
+CSV Duplicate authors:<0>
+Medline Duplicate authors:<5>
+Medline Duplicate short authors:<5>
+CSV Duplicate author publications:<0>
+Medline Duplicate author publications:<12>
+CSV Authors per publication:<0>
+CSV APP max:<0>
+CSV APP min:<0>
+CSV APP var:<0>
+Medline Authors per publication:<1>
+Medline APP max:<1>
+Medline APP min:<1>
+Medline APP var:<0>
+Unique Journal Titles:<1>
+Unique Short Journal Titles:<1>
+Medline Publications per unique author:	1.34375
+Medline Duplicate publications per duplicate author:	2.4
+Medline Duplicate authors / Unique authors	0.15625
+
+
+*****JOURNAL PUB FREQUENCIES*****
+43	medico-chirurgical transactions
+
+*****KEYWORDS LIST*****
+
+*****KEYWORDS FREQUENCIES*****
+<>
+
+*****CSV PUBMED AUTHOR FREQUENCIES*****
+
+*****CSV PUBMED PUB FREQUENCIES*****
+<>
+
+*****MEDLINE PUBMED AUTHOR FREQUENCIES*****
+3	wood, k
+3	earle, h
+2	stanley, e
+2	howship, j
+2	collier, c
+1	philip, a p
+1	soden, j s
+1	odier, l
+1	dewar, h
+1	hey, w
+1	dickson, d i
+1	black, s
+1	langstaff, g
+1	brodie, b c
+1	nicholl, w
+1	guthrie, g j
+1	stansfield, j
+1	jones, e g
+1	travers, f
+1	somerville, g
+1	crampton, p
+1	m'arthur, d
+1	marcet, a
+1	bacot, j
+1	morel, w r
+1	wardrop, j
+1	maunoir
+1	goodlad, w
+1	barton, s
+1	albers, i a
+1	roget, p m
+1	boggie, j
+
+*****MEDLINE PUBMED SHORT AUTHOR FREQUENCIES*****
+3	earle h
+3	wood k
+2	howship j
+2	collier c
+2	stanley e
+1	morel wr
+1	albers ia
+1	marcet a
+1	nicholl w
+1	goodlad w
+1	brodie bc
+1	wardrop j
+1	dewar h
+1	roget pm
+1	crampton p
+1	guthrie gj
+1	travers f
+1	somerville g
+1	philip ap
+1	jones eg
+1	boggie j
+1	bacot j
+1	m'arthur d
+1	barton s
+1	maunoir
+1	langstaff g
+1	hey w
+1	soden js
+1	dickson di
+1	odier l
+1	stansfield j
+1	black s
+
+*****MEDLINE PUBMED PUB FREQUENCIES*****
+<1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,>

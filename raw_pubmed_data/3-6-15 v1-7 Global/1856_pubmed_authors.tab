@@ -1,0 +1,182 @@
+Date: 03/05/2015	 Scientist Search 1.7
+Data Retrieval Mode: medline, reflects file type source of PubMed data in following analysis.
+Publication Type Selection: journal article, Affiliation Restriction: none, reflects search constraints of PubMed data in following analysis.
+Keyword Mode Selection: none
+
+Year: 1856	Pubs: 249	IDs: 249	CSV Author Pubs: 0	Medline Author Pubs: 125
+		PM Max: 1	PM Num: 1	CSV Max: 0	CSV Num: 0	Medline Max: 1	Medline Num: 1
+		CSV IDs: 0	Medline IDs: 249
+
+Publication PubMed Count:<249>
+CSV Publications with Authors:<0>
+Medline Publications with Authors:<125>
+Retracted Publications:<0>
+Retractions Made:<0>
+CSV Unique authors:<0>
+Medline Unique authors:<62>
+Medline Unique short authors:<62>
+Medline Unique short first authors:<59>
+CSV Duplicate authors:<0>
+Medline Duplicate authors:<25>
+Medline Duplicate short authors:<25>
+CSV Duplicate author publications:<0>
+Medline Duplicate author publications:<91>
+CSV Authors per publication:<0>
+CSV APP max:<0>
+CSV APP min:<0>
+CSV APP var:<0>
+Medline Authors per publication:<1.024>
+Medline APP max:<2>
+Medline APP min:<1>
+Medline APP var:<0.023424>
+Unique Journal Titles:<2>
+Unique Short Journal Titles:<2>
+Medline Publications per unique author:	4.01612903225806
+Medline Duplicate publications per duplicate author:	3.64
+Medline Duplicate authors / Unique authors	0.403225806451613
+
+
+*****JOURNAL PUB FREQUENCIES*****
+228	association medical journal
+21	medico-chirurgical transactions
+
+*****KEYWORDS LIST*****
+
+*****KEYWORDS FREQUENCIES*****
+<>
+
+*****CSV PUBMED AUTHOR FREQUENCIES*****
+
+*****CSV PUBMED PUB FREQUENCIES*****
+<>
+
+*****MEDLINE PUBMED AUTHOR FREQUENCIES*****
+15	holmes, t
+8	humphry, g m
+7	cockle, j
+7	brinton, w
+5	skey, f c
+4	prichard, a
+4	jones, c h
+4	husband, w d
+3	duncan, p m
+3	pemberton, o
+3	erichsen, j
+2	greenhill, w a
+2	wilson, j a
+2	malcolm, a g
+2	coe, r w
+2	windsor, j
+2	walton, h
+2	hussey, e l
+2	malden, j
+2	brittan, f
+2	smith, e
+2	masfen, g b
+2	gascoyen, g g
+2	gull, w w
+2	coulson, w
+1	savory, w s
+1	gull, w
+1	pollock, g d
+1	crisp, n
+1	gray, h
+1	sibley, s w
+1	square, w j
+1	dickinson, w h
+1	laurence, j z
+1	page, w e
+1	nunn, t w
+1	boyd, r
+1	malden, f
+1	fuller, h w
+1	sercombe, e
+1	hawkins, c h
+1	carden, h d
+1	teale, t p
+1	sympson, t
+1	terry, h
+1	rogers, g g
+1	hughes, h r
+1	pollock, g
+1	hinton, j
+1	smith, t
+1	clarke, e
+1	turner, s m
+1	lee, h
+1	budd, h
+1	hastings, c
+1	vernon, h h
+1	budd, w
+1	powell, r h
+1	ellis, g v
+1	eade, p
+1	edwards, t f
+1	ward, n
+
+*****MEDLINE PUBMED SHORT AUTHOR FREQUENCIES*****
+15	holmes t
+8	humphry gm
+7	brinton w
+7	cockle j
+5	skey fc
+4	jones ch
+4	prichard a
+4	husband wd
+3	pemberton o
+3	duncan pm
+3	erichsen j
+2	coulson w
+2	wilson ja
+2	walton h
+2	smith e
+2	malcolm ag
+2	gascoyen gg
+2	coe rw
+2	gull ww
+2	brittan f
+2	masfen gb
+2	hussey el
+2	windsor j
+2	malden j
+2	greenhill wa
+1	hawkins ch
+1	savory ws
+1	dickinson wh
+1	fuller hw
+1	teale tp
+1	sympson t
+1	clarke e
+1	hughes hr
+1	vernon hh
+1	laurence jz
+1	ward n
+1	edwards tf
+1	budd w
+1	nunn tw
+1	gull w
+1	smith t
+1	boyd r
+1	crisp n
+1	ellis gv
+1	square wj
+1	malden f
+1	rogers gg
+1	lee h
+1	hastings c
+1	pollock g
+1	turner sm
+1	page we
+1	hinton j
+1	terry h
+1	eade p
+1	budd h
+1	sibley sw
+1	powell rh
+1	gray h
+1	sercombe e
+1	carden hd
+1	pollock gd
+
+*****MEDLINE PUBMED PUB FREQUENCIES*****
+<1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,>

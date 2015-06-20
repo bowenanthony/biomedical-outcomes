@@ -1,0 +1,105 @@
+Date: 03/05/2015	 Scientist Search 1.7
+Data Retrieval Mode: medline, reflects file type source of PubMed data in following analysis.
+Publication Type Selection: journal article, Affiliation Restriction: none, reflects search constraints of PubMed data in following analysis.
+Keyword Mode Selection: none
+
+Year: 1821	Pubs: 35	IDs: 35	CSV Author Pubs: 0	Medline Author Pubs: 30
+		PM Max: 1	PM Num: 1	CSV Max: 0	CSV Num: 0	Medline Max: 1	Medline Num: 1
+		CSV IDs: 0	Medline IDs: 35
+
+Publication PubMed Count:<35>
+CSV Publications with Authors:<0>
+Medline Publications with Authors:<30>
+Retracted Publications:<0>
+Retractions Made:<0>
+CSV Unique authors:<0>
+Medline Unique authors:<24>
+Medline Unique short authors:<24>
+Medline Unique short first authors:<24>
+CSV Duplicate authors:<0>
+Medline Duplicate authors:<5>
+Medline Duplicate short authors:<5>
+CSV Duplicate author publications:<0>
+Medline Duplicate author publications:<11>
+CSV Authors per publication:<0>
+CSV APP max:<0>
+CSV APP min:<0>
+CSV APP var:<0>
+Medline Authors per publication:<1>
+Medline APP max:<1>
+Medline APP min:<1>
+Medline APP var:<0>
+Unique Journal Titles:<1>
+Unique Short Journal Titles:<1>
+Medline Publications per unique author:	1.45833333333333
+Medline Duplicate publications per duplicate author:	2.2
+Medline Duplicate authors / Unique authors	0.208333333333333
+
+
+*****JOURNAL PUB FREQUENCIES*****
+35	medico-chirurgical transactions
+
+*****KEYWORDS LIST*****
+
+*****KEYWORDS FREQUENCIES*****
+<>
+
+*****CSV PUBMED AUTHOR FREQUENCIES*****
+
+*****CSV PUBMED PUB FREQUENCIES*****
+<>
+
+*****MEDLINE PUBMED AUTHOR FREQUENCIES*****
+3	gregory, g
+2	earle, h
+2	breton, p
+2	coates, h
+2	cooper, a
+1	mayo, c
+1	price, d
+1	salmon, e
+1	mayo, h
+1	carson, j
+1	martineau, p m
+1	hutchison, a c
+1	scott, p n
+1	blane, g
+1	locher, j j
+1	porter, w h
+1	lyford, g
+1	burmester, m a
+1	swan, j
+1	dickinson, w b
+1	roberts, w
+1	welbank, r
+1	smith, r
+1	dunn, j
+
+*****MEDLINE PUBMED SHORT AUTHOR FREQUENCIES*****
+3	gregory g
+2	cooper a
+2	coates h
+2	breton p
+2	earle h
+1	martineau pm
+1	blane g
+1	dickinson wb
+1	roberts w
+1	porter wh
+1	scott pn
+1	lyford g
+1	carson j
+1	dunn j
+1	salmon e
+1	swan j
+1	mayo h
+1	welbank r
+1	locher jj
+1	price d
+1	mayo c
+1	hutchison ac
+1	smith r
+1	burmester ma
+
+*****MEDLINE PUBMED PUB FREQUENCIES*****
+<1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,>

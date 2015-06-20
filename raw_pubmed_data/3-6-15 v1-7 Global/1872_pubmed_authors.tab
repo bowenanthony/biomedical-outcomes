@@ -1,0 +1,575 @@
+Date: 03/05/2015	 Scientist Search 1.7
+Data Retrieval Mode: medline, reflects file type source of PubMed data in following analysis.
+Publication Type Selection: journal article, Affiliation Restriction: none, reflects search constraints of PubMed data in following analysis.
+Keyword Mode Selection: none
+
+Year: 1872	Pubs: 494	IDs: 494	CSV Author Pubs: 0	Medline Author Pubs: 387
+		PM Max: 1	PM Num: 1	CSV Max: 0	CSV Num: 0	Medline Max: 1	Medline Num: 1
+		CSV IDs: 0	Medline IDs: 494
+
+Publication PubMed Count:<494>
+CSV Publications with Authors:<0>
+Medline Publications with Authors:<387>
+Retracted Publications:<0>
+Retractions Made:<0>
+CSV Unique authors:<0>
+Medline Unique authors:<258>
+Medline Unique short authors:<258>
+Medline Unique short first authors:<255>
+CSV Duplicate authors:<0>
+Medline Duplicate authors:<72>
+Medline Duplicate short authors:<72>
+CSV Duplicate author publications:<0>
+Medline Duplicate author publications:<208>
+CSV Authors per publication:<0>
+CSV APP max:<0>
+CSV APP min:<0>
+CSV APP var:<0>
+Medline Authors per publication:<1.01808785529716>
+Medline APP max:<4>
+Medline APP min:<1>
+Medline APP var:<0.0332645607568992>
+Unique Journal Titles:<3>
+Unique Short Journal Titles:<3>
+Medline Publications per unique author:	1.91472868217054
+Medline Duplicate publications per duplicate author:	2.88888888888889
+Medline Duplicate authors / Unique authors	0.27906976744186
+
+
+*****JOURNAL PUB FREQUENCIES*****
+441	british medical journal
+38	journal of anatomy and physiology
+15	medico-chirurgical transactions
+
+*****KEYWORDS LIST*****
+
+*****KEYWORDS FREQUENCIES*****
+<>
+
+*****CSV PUBMED AUTHOR FREQUENCIES*****
+
+*****CSV PUBMED PUB FREQUENCIES*****
+<>
+
+*****MEDLINE PUBMED AUTHOR FREQUENCIES*****
+8	murchison, c
+7	hollis, w a
+7	johnson, g
+6	humphry, g m
+6	bristowe, j s
+6	paget, j
+5	turner
+5	bastian, h c
+5	fraser, t r
+5	haughton, s
+5	humphry
+4	hicks, j b
+4	latham, p w
+4	ferrier, d
+4	brunton, t l
+4	cheadle, w b
+3	marcet, w
+3	callender, g w
+3	wilks, s
+3	hart, e
+3	clarke, j l
+3	wade, w f
+3	habershon, s o
+3	steele, a b
+3	gascoyen, g g
+3	playfair, w s
+3	althaus, j
+2	morton, j
+2	rivington, w
+2	whitehead, w
+2	holmes, t
+2	watson, m
+2	bradley, s m
+2	moxon, w
+2	allbutt, t c
+2	alderson, j
+2	greenway, h
+2	jones, t
+2	browne, j c
+2	tait, l
+2	grieve, r
+2	durham, a e
+2	morgan, j
+2	gull, w
+2	kennedy, e
+2	thompson, j
+2	grimshaw, t w
+2	farre, a
+2	maudsley, h
+2	jordan, f
+2	begbie, j w
+2	williams, c t
+2	manson, r t
+2	shapter, t
+2	eassie, w
+2	reynolds, j r
+2	green, t
+2	thompson, h
+2	gloag, g a
+2	brigstocke, c a
+2	wanklyn, j a
+2	ransome, a
+2	dickinson, w h
+2	garrod, a h
+2	lane, j r
+2	aveling, j h
+2	wolfe, j r
+2	smith, e n
+2	broadbent, w h
+2	duncan, j m
+2	atthill, l
+2	mccarthy, j
+1	smyth, s t
+1	axford, w h
+1	rutherford, w
+1	jessop, t r
+1	johnston, j
+1	sutherland, h
+1	waters, a t
+1	morgan, w f
+1	cunningham, d j
+1	bassett, j
+1	mackay, a d
+1	maunsell, d t
+1	sanderson, j b
+1	parsons, j
+1	handyside, p d
+1	stoney, p b
+1	haward, j w
+1	lyon, w
+1	spender, j k
+1	parker, r
+1	maclagan, t j
+1	seegen, j
+1	steele, c
+1	dobson, n c
+1	fox, e l
+1	alexander, w
+1	struthers, j
+1	newman, a
+1	french, j g
+1	philipson, g h
+1	day, w h
+1	mcrae, a e
+1	allan, j
+1	wood, w w
+1	stromeyer, l
+1	wiltshire, a
+1	horton, h
+1	stewart, t g
+1	squire, b
+1	hutchinson, j
+1	harley, j
+1	dyke, t j
+1	adams, j e
+1	swayne, j g
+1	dickson, j t
+1	folker, w h
+1	fraser
+1	dodd, h
+1	southam, g
+1	braithwaite, j
+1	pye-smith, r j
+1	morris, j
+1	grantham, j
+1	samelson, a
+1	wilson, e t
+1	bradbury, j b
+1	little, w j
+1	fuller, h w
+1	swain, p w
+1	browning, r
+1	jeaffreson, c s
+1	anderson, j f
+1	simpson, h
+1	norton, g e
+1	clouston, t s
+1	furley, r c
+1	barry, j m
+1	dobie, w
+1	cobbold, t s
+1	fergusson, w
+1	i'anson, w a
+1	foss, r w
+1	powell, r d
+1	ross, j
+1	wood, j
+1	draper, w
+1	date, w
+1	conrade
+1	page, d
+1	gibson, t
+1	dalrymple, d
+1	champneys, f
+1	gairdner, w t
+1	grace, h
+1	aitchison, a
+1	fothergill, j m
+1	kemp, w g
+1	eames, h
+1	simpson, a r
+1	stevens, j n
+1	davy, r
+1	wagstaffe, w w
+1	drysdale, c r
+1	spratly, s
+1	ashdown, g
+1	lalor, j
+1	underhill, f
+1	gull, w w
+1	tilt, e j
+1	lund, e
+1	harrison, j b
+1	taylor, c b
+1	cowell, g
+1	bryant, t
+1	cormac, w m
+1	liveing, e
+1	haynes, s
+1	prince, c l
+1	clarke, w f
+1	roberts, w
+1	walker, j w
+1	clark, f le g
+1	arnott, h
+1	jones, c h
+1	bennet, h
+1	joyce, t
+1	copeman, e
+1	pemberton, o
+1	george, j t
+1	coles, o
+1	brown, d d
+1	galton, j c
+1	meyer, a b
+1	holthouse, c
+1	teale, t p
+1	fifield, w c
+1	smith, p
+1	burder, g f
+1	gaskoin, g
+1	fletcher, t b
+1	lawrence, j
+1	may, g
+1	chaffers, e
+1	stirling, a b
+1	woakes, e
+1	traquair, r h
+1	westcott, w w
+1	dixon, j
+1	moore, j d
+1	page, f
+1	christie, j
+1	unthank, r e
+1	fraser, t
+1	le gros clark, f
+1	dobell, h
+1	smith, j w
+1	bryan, j m
+1	eastwood, j w
+1	jagielski, v
+1	sutton, h g
+1	acton, w
+1	legg, j w
+1	couper, j
+1	fyffe, w j
+1	britton, w s
+1	priestley, w o
+1	evans, t m
+1	freer, f a
+1	baeumler, c
+1	stokes, w
+1	annandale, t
+1	haviland, a
+1	winn, j m
+1	aitken, w
+1	sansom, a e
+1	murray, j c
+1	ogle, w
+1	barkas, w j
+1	thorburn, j
+1	nourse, w e
+1	wheelhouse, c g
+1	cotton, r p
+1	morgan, h m
+1	liversidge, a
+1	hill, b
+1	briscoe, w t
+1	jones, h m
+1	taylor, h s
+1	heaton, j d
+1	ricord, m p
+1	nicholson, j f
+1	shettle, r c
+1	butlin, h t
+1	bennet, j h
+1	pollard, f
+1	wood, s
+
+*****MEDLINE PUBMED SHORT AUTHOR FREQUENCIES*****
+8	murchison c
+7	hollis wa
+7	johnson g
+6	bristowe js
+6	paget j
+6	humphry gm
+5	haughton s
+5	turner
+5	humphry
+5	fraser tr
+5	bastian hc
+4	latham pw
+4	hicks jb
+4	ferrier d
+4	cheadle wb
+4	brunton tl
+3	steele ab
+3	marcet w
+3	playfair ws
+3	gascoyen gg
+3	wilks s
+3	althaus j
+3	hart e
+3	habershon so
+3	callender gw
+3	clarke jl
+3	wade wf
+2	grieve r
+2	garrod ah
+2	farre a
+2	tait l
+2	kennedy e
+2	maudsley h
+2	begbie jw
+2	brigstocke ca
+2	thompson j
+2	holmes t
+2	bradley sm
+2	rivington w
+2	dickinson wh
+2	durham ae
+2	grimshaw tw
+2	browne jc
+2	moxon w
+2	green t
+2	jordan f
+2	reynolds jr
+2	morgan j
+2	duncan jm
+2	aveling jh
+2	watson m
+2	lane jr
+2	jones t
+2	mccarthy j
+2	allbutt tc
+2	shapter t
+2	manson rt
+2	ransome a
+2	williams ct
+2	greenway h
+2	morton j
+2	alderson j
+2	eassie w
+2	wolfe jr
+2	wanklyn ja
+2	atthill l
+2	gull w
+2	thompson h
+2	broadbent wh
+2	whitehead w
+2	smith en
+2	gloag ga
+1	morris j
+1	fyffe wj
+1	liveing e
+1	anderson jf
+1	lawrence j
+1	browning r
+1	lyon w
+1	wood s
+1	wagstaffe ww
+1	haviland a
+1	champneys f
+1	fifield wc
+1	foss rw
+1	woakes e
+1	drysdale cr
+1	steele c
+1	haward jw
+1	morgan wf
+1	smith jw
+1	horton h
+1	draper w
+1	eastwood jw
+1	morgan hm
+1	bennet h
+1	simpson h
+1	maunsell dt
+1	axford wh
+1	harley j
+1	legg jw
+1	stokes w
+1	le gros clark f
+1	annandale t
+1	dixon j
+1	furley rc
+1	kemp wg
+1	folker wh
+1	gairdner wt
+1	french jg
+1	sutherland h
+1	mackay ad
+1	swain pw
+1	fraser t
+1	pollard f
+1	acton w
+1	unthank re
+1	wood ww
+1	dalrymple d
+1	chaffers e
+1	dobell h
+1	cobbold ts
+1	clark fle g
+1	butlin ht
+1	little wj
+1	mcrae ae
+1	hill b
+1	aitken w
+1	conrade
+1	teale tp
+1	southam g
+1	barkas wj
+1	meyer ab
+1	ashdown g
+1	fuller hw
+1	harrison jb
+1	ricord mp
+1	barry jm
+1	sanderson jb
+1	philipson gh
+1	britton ws
+1	underhill f
+1	parsons j
+1	dyke tj
+1	bryan jm
+1	newman a
+1	grantham j
+1	braithwaite j
+1	gull ww
+1	nourse we
+1	alexander w
+1	pye-smith rj
+1	thorburn j
+1	fraser
+1	jessop tr
+1	haynes s
+1	jagielski v
+1	couper j
+1	stromeyer l
+1	sutton hg
+1	traquair rh
+1	roberts w
+1	adams je
+1	murray jc
+1	taylor cb
+1	wood j
+1	arnott h
+1	holthouse c
+1	smyth st
+1	dobson nc
+1	i'anson wa
+1	stoney pb
+1	clouston ts
+1	bassett j
+1	gaskoin g
+1	aitchison a
+1	grace h
+1	coles o
+1	struthers j
+1	wheelhouse cg
+1	galton jc
+1	fletcher tb
+1	spender jk
+1	bennet jh
+1	sansom ae
+1	day wh
+1	simpson ar
+1	rutherford w
+1	dickson jt
+1	brown dd
+1	cotton rp
+1	burder gf
+1	heaton jd
+1	lund e
+1	stirling ab
+1	stevens jn
+1	moore jd
+1	priestley wo
+1	westcott ww
+1	jeaffreson cs
+1	lalor j
+1	evans tm
+1	winn jm
+1	allan j
+1	wiltshire a
+1	gibson t
+1	shettle rc
+1	cormac wm
+1	taylor hs
+1	liversidge a
+1	wilson et
+1	squire b
+1	dodd h
+1	stewart tg
+1	fothergill jm
+1	maclagan tj
+1	joyce t
+1	ross j
+1	christie j
+1	bradbury jb
+1	freer fa
+1	walker jw
+1	samelson a
+1	jones ch
+1	fergusson w
+1	seegen j
+1	waters at
+1	cunningham dj
+1	cowell g
+1	briscoe wt
+1	smith p
+1	bryant t
+1	baeumler c
+1	dobie w
+1	norton ge
+1	may g
+1	page d
+1	hutchinson j
+1	jones hm
+1	eames h
+1	date w
+1	davy r
+1	ogle w
+1	clarke wf
+1	tilt ej
+1	parker r
+1	nicholson jf
+1	powell rd
+1	george jt
+1	pemberton o
+1	copeman e
+1	handyside pd
+1	page f
+1	swayne jg
+1	spratly s
+1	prince cl
+1	johnston j
+1	fox el
+
+*****MEDLINE PUBMED PUB FREQUENCIES*****
+<1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,4,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,2,1,1,1,1,1,1,1,>

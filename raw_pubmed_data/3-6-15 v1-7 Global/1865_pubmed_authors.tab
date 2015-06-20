@@ -1,0 +1,145 @@
+Date: 03/05/2015	 Scientist Search 1.7
+Data Retrieval Mode: medline, reflects file type source of PubMed data in following analysis.
+Publication Type Selection: journal article, Affiliation Restriction: none, reflects search constraints of PubMed data in following analysis.
+Keyword Mode Selection: none
+
+Year: 1865	Pubs: 134	IDs: 134	CSV Author Pubs: 0	Medline Author Pubs: 62
+		PM Max: 1	PM Num: 1	CSV Max: 0	CSV Num: 0	Medline Max: 1	Medline Num: 1
+		CSV IDs: 0	Medline IDs: 134
+
+Publication PubMed Count:<134>
+CSV Publications with Authors:<0>
+Medline Publications with Authors:<62>
+Retracted Publications:<0>
+Retractions Made:<0>
+CSV Unique authors:<0>
+Medline Unique authors:<43>
+Medline Unique short authors:<43>
+Medline Unique short first authors:<42>
+CSV Duplicate authors:<0>
+Medline Duplicate authors:<6>
+Medline Duplicate short authors:<6>
+CSV Duplicate author publications:<0>
+Medline Duplicate author publications:<26>
+CSV Authors per publication:<0>
+CSV APP max:<0>
+CSV APP min:<0>
+CSV APP var:<0>
+Medline Authors per publication:<1.01612903225806>
+Medline APP max:<2>
+Medline APP min:<1>
+Medline APP var:<0.0158688865764828>
+Unique Journal Titles:<3>
+Unique Short Journal Titles:<3>
+Medline Publications per unique author:	3.11627906976744
+Medline Duplicate publications per duplicate author:	4.33333333333333
+Medline Duplicate authors / Unique authors	0.13953488372093
+
+
+*****JOURNAL PUB FREQUENCIES*****
+111	british medical journal
+20	medico-chirurgical transactions
+3	transactions of the american ophthalmological society
+
+*****KEYWORDS LIST*****
+
+*****KEYWORDS FREQUENCIES*****
+<>
+
+*****CSV PUBMED AUTHOR FREQUENCIES*****
+
+*****CSV PUBMED PUB FREQUENCIES*****
+<>
+
+*****MEDLINE PUBMED AUTHOR FREQUENCIES*****
+8	johnson, g
+8	radford, t
+3	boeck, w
+3	lee, h
+2	pick, t p
+2	brodhurst, b e
+1	weber, h
+1	jordan, f
+1	hulke, j w
+1	markham, w o
+1	noyes, h d
+1	budd, w
+1	roberts, w
+1	jeffries, b j
+1	howard, b
+1	owen, r
+1	sanderson, j b
+1	lee, r
+1	baker, w m
+1	gibb, g d
+1	mayo, t
+1	jones, c h
+1	bidenkap, j l
+1	hildreth, j s
+1	fenwick, s
+1	boeck, p w
+1	fleming, a
+1	smith, t
+1	clarke, j l
+1	dobell, h
+1	dickinson, w h
+1	longmore, t
+1	southam, g
+1	salter, h
+1	harley, g
+1	hillier, t
+1	foster, b w
+1	sutton, h g
+1	wells, t s
+1	morgan, j
+1	nunneley, t
+1	ormerod, e l
+1	thompson, j
+
+*****MEDLINE PUBMED SHORT AUTHOR FREQUENCIES*****
+8	radford t
+8	johnson g
+3	lee h
+3	boeck w
+2	pick tp
+2	brodhurst be
+1	southam g
+1	longmore t
+1	jones ch
+1	hildreth js
+1	dickinson wh
+1	sanderson jb
+1	lee r
+1	jeffries bj
+1	dobell h
+1	howard b
+1	ormerod el
+1	salter h
+1	hulke jw
+1	markham wo
+1	roberts w
+1	smith t
+1	nunneley t
+1	sutton hg
+1	budd w
+1	clarke jl
+1	hillier t
+1	bidenkap jl
+1	weber h
+1	fenwick s
+1	baker wm
+1	mayo t
+1	jordan f
+1	harley g
+1	foster bw
+1	morgan j
+1	noyes hd
+1	owen r
+1	gibb gd
+1	wells ts
+1	fleming a
+1	thompson j
+1	boeck pw
+
+*****MEDLINE PUBMED PUB FREQUENCIES*****
+<1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,1,1,1,1,1,>
