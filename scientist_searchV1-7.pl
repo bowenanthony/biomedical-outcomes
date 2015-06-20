@@ -37,8 +37,8 @@ use Statistics::Descriptive;
 
 # ======================================================================= Variable Selections  ======================================================================================= #
 my $version = "1.7";
-my $file_directory = "/Volumes/Travelstar 1TB/Documents/Perl Temp/";       #"/Users/Tony/Documents/Casadevall Lab/PERL/Scientist Search/";
-my $data_directory = "/Users/Tony/Documents/Casadevall Lab/PERL/Scientist Search/Data Reference Files/";
+my $file_directory = "~/Perl_Temp/";
+my $data_directory = "~/Data_Reference_Files/";
  
 my $data_retrieval_mode = 'medline';            #Pt1; Select which formats to retrieve PubMed data (csv, medline, all)
 my $MAX_PROCESSES = 0;                          #Pt1; Maximum number of processes to use for Parallel::ForkManager, change to 0 for NO fork to be done
