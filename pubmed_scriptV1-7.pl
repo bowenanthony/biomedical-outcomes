@@ -1,4 +1,4 @@
-#    Copyright (C) 2015  Anthony Bowen, see LICENSE.txt for more details
+#    Copyright (C) 2015, see LICENSE.txt for more details
 #
 #    This program is free software; you can redistribute it and/or modify
 #    it under the terms of the GNU General Public License as published by
@@ -37,11 +37,11 @@ use Statistics::Descriptive;
 
 # ======================================================================= Variable Selections  ======================================================================================= #
 my $version = "1.7";
-my $file_directory = "~/Perl_Temp/";
+my $file_directory = "~/biomedical-outcomes/Perl_Temp/"; #reset path name to match output folder
  
 my $data_retrieval_mode = 'medline';            #Pt1; Select which formats to retrieve PubMed data (csv, medline, all)
 my $MAX_PROCESSES = 0;                          #Pt1; Maximum number of processes to use for Parallel::ForkManager, change to 0 for NO fork to be done
-my @years = (1809..2014);                       #Pt1; List of years to search (1809..2014)
+my @years = (1809..1900);                       #Pt1; List of years to search (1809..2014)
 my $max_ID_search = 100000;                     #Pt1; Maximum number of pubmed IDs to retrieve per web query
 my $max_CSV_search = 500;                       #Pt1; Maximum number of pubmed ID CSV data to retrieve per web query
 my $max_medline_search = 500;                   #Pt1; Maximum number of pubmed ID medline data to retrieve per web query
